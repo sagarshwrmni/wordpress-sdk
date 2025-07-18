@@ -1,0 +1,2863 @@
+# Copyright (C) 2025 freemius
+# This file is distributed under the same license as the freemius package.
+msgid ""
+msgstr ""
+"Project-Id-Version: freemius\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Freemius Team <admin@freemius.com>\n"
+"Last-Translator: Vova Feldman <vova@freemius.com>\n"
+"POT-Creation-Date: 2025-05-11 06:56+0000\n"
+"Report-Msgid-Bugs-To: https://github.com/Freemius/wordpress-sdk/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: get_text_inline;get_text_x_inline:1,2c;$this->get_text_inline;$this->get_text_x_inline:1,2c;$this->_fs->get_text_inline;$this->_fs->get_text_x_inline:1,2c;$this->fs->get_text_inline;$this->fs->get_text_x_inline:1,2c;$fs->get_text_inline;$fs->get_text_x_inline:1,2c;$this->_parent->get_text_inline;$this->_parent->get_text_x_inline:1,2c;fs_text_inline;fs_echo_inline;fs_esc_js_inline;fs_esc_attr_inline;fs_esc_attr_echo_inline;fs_esc_html_inline;fs_esc_html_echo_inline;fs_text_x_inline:1,2c;fs_echo_x_inline:1,2c;fs_esc_attr_x_inline:1,2c;fs_esc_js_x_inline:1,2c;fs_esc_js_echo_x_inline:1,2c;fs_esc_html_x_inline:1,2c;fs_esc_html_echo_x_inline:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes a test
+msgid "I love orange is the new black season 2"
+msgstr "Ma armastan oranž on uus must 2. hooaeg"
+
+#: includes/class-freemius.php:1821, templates/account.php:943
+msgid "An update to a Beta version will replace your installed version of %s with the latest Beta release - use with caution, and not on production sites. You have been warned."
+msgstr "Beeta versiooni uuendus asendab teie installitud %s versiooni uusima Beeta versiooniga - kasutage ettevaatlikult ja mitte tootmissaitidel. Olete hoiatatud."
+
+#: includes/class-freemius.php:1828
+msgid "Would you like to proceed with the update?"
+msgstr "Kas soovite uuendamisega jätkata?"
+
+#: includes/class-freemius.php:2053
+msgid "Freemius SDK couldn't find the plugin's main file. Please contact sdk@freemius.com with the current error."
+msgstr "Freemius SDK ei leidnud plugina peafaili. Palun võtke ühendust sdk@freemius.com praeguse veaga."
+
+#: includes/class-freemius.php:2055, includes/fs-plugin-info-dialog.php:1513
+msgid "Error"
+msgstr "Viga"
+
+#: includes/class-freemius.php:2501
+msgid "I found a better %s"
+msgstr "Leidsin parema %s"
+
+#: includes/class-freemius.php:2503
+msgid "What's the %s's name?"
+msgstr "Mis on %s nimi?"
+
+#: includes/class-freemius.php:2509
+msgid "It's a temporary %s - I'm troubleshooting an issue"
+msgstr "See on ajutine %s - otsin probleemile lahendust"
+
+#: includes/class-freemius.php:2511
+msgid "Deactivation"
+msgstr "Deaktiveerimine"
+
+#: includes/class-freemius.php:2512
+msgid "Theme Switch"
+msgstr "Teema vahetus"
+
+#: includes/class-freemius.php:2521, templates/forms/resend-key.php:24, templates/forms/user-change.php:29
+msgid "Other"
+msgstr "Muu"
+
+#: includes/class-freemius.php:2529
+msgid "I no longer need the %s"
+msgstr "Ma ei vaja enam %s"
+
+#: includes/class-freemius.php:2536
+msgid "I only needed the %s for a short period"
+msgstr "Vajasin %s ainult lühikeseks ajaks"
+
+#: includes/class-freemius.php:2542
+msgid "The %s broke my site"
+msgstr "%s rikkus mu saidi"
+
+#: includes/class-freemius.php:2549
+msgid "The %s suddenly stopped working"
+msgstr "%s lõpetas äkitselt töötamise"
+
+#: includes/class-freemius.php:2559
+msgid "I can't pay for it anymore"
+msgstr "Ma ei saa seda enam endale lubada"
+
+#: includes/class-freemius.php:2561
+msgid "What price would you feel comfortable paying?"
+msgstr "Millist hinda oleksite nõus maksma?"
+
+#: includes/class-freemius.php:2567
+msgid "I don't like to share my information with you"
+msgstr "Mulle ei meeldi oma andmeid teiega jagada"
+
+#: includes/class-freemius.php:2588
+msgid "The %s didn't work"
+msgstr "%s ei töötanud"
+
+#: includes/class-freemius.php:2598
+msgid "I couldn't understand how to make it work"
+msgstr "Ma ei saanud aru, kuidas seda tööle panna"
+
+#: includes/class-freemius.php:2606
+msgid "The %s is great, but I need specific feature that you don't support"
+msgstr "%s on suurepärane, kuid vajan konkreetset funktsiooni, mida te ei toeta"
+
+#: includes/class-freemius.php:2608
+msgid "What feature?"
+msgstr "Millist funktsiooni?"
+
+#: includes/class-freemius.php:2612
+msgid "The %s is not working"
+msgstr "%s ei tööta"
+
+#: includes/class-freemius.php:2614
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Palun jagage, mis ei töötanud, et saaksime selle tulevaste kasutajate jaoks parandada..."
+
+#: includes/class-freemius.php:2618
+msgid "It's not what I was looking for"
+msgstr "See pole see, mida otsisin"
+
+#: includes/class-freemius.php:2620
+msgid "What you've been looking for?"
+msgstr "Mida te otsisite?"
+
+#: includes/class-freemius.php:2624
+msgid "The %s didn't work as expected"
+msgstr "%s ei töötanud ootuspäraselt"
+
+#: includes/class-freemius.php:2626
+msgid "What did you expect?"
+msgstr "Mida te ootasite?"
+
+#. translators: %s: License type (e.g. you have a professional license)
+#: includes/class-freemius.php:4549
+msgid "You have purchased a %s license."
+msgstr "Olete ostnud %s litsentsi."
+
+#: includes/class-freemius.php:4553
+msgid " The %s's %sdownload link%s, license key, and installation instructions have been sent to %s. If you can't find the email after 5 min, please check your spam box."
+msgstr " %s'i %s allalaadimislink%s, litsentsivõti ja paigaldusjuhised on saadetud aadressile %s. Kui te ei leia e-kirja 5 minuti jooksul, kontrollige palun oma rämpsposti kausta."
+
+#: includes/class-freemius.php:4563, includes/class-freemius.php:21006, includes/class-freemius.php:24736
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "Juhuu"
+
+#: includes/class-freemius.php:4577
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "%s ei saa töötada ilma %s."
+
+#: includes/class-freemius.php:4578
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "%s ei saa töötada ilma pluginata."
+
+#: includes/class-freemius.php:4580, includes/class-freemius.php:5808, includes/class-freemius.php:13562, includes/class-freemius.php:14323, includes/class-freemius.php:18112, includes/class-freemius.php:18232, includes/class-freemius.php:18409, includes/class-freemius.php:20737, includes/class-freemius.php:21860, includes/class-freemius.php:22896, includes/class-freemius.php:23026, includes/class-freemius.php:23169, templates/add-ons.php:57
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "Ups"
+
+#: includes/class-freemius.php:4859
+msgid "There was an unexpected API error while processing your request. Please try again in a few minutes and if it still doesn't work, contact the %s's author with the following:"
+msgstr "Teie päringu töötlemisel esines ootamatu API viga. Palun proovige mõne minuti pärast uuesti ja kui see ikka ei tööta, võtke ühendust %s autoriga järgmise teabega:"
+
+#. translators: %s: License type (e.g. you have a professional license)
+#: includes/class-freemius.php:5500
+msgid "You have a %s license."
+msgstr "Teil on %s litsents."
+
+#: includes/class-freemius.php:5473
+msgid "Premium %s version was successfully activated."
+msgstr "Premium %s versioon aktiveeriti edukalt."
+
+#: includes/class-freemius.php:5485, includes/class-freemius.php:7508
+msgctxt "Used to express elation, enthusiasm, or triumph (especially in electronic communication)."
+msgid "W00t"
+msgstr "Jess"
+
+#: includes/class-freemius.php:5791
+msgid "%s free trial was successfully cancelled. Since the add-on is premium only it was automatically deactivated. If you like to use it in the future, you'll have to purchase a license."
+msgstr "%s tasuta prooviversioon tühistati edukalt. Kuna lisandmoodul on ainult premium-versioonina saadaval, deaktiveeriti see automaatselt. Kui soovite seda tulevikus kasutada, peate ostma litsentsi."
+
+#: includes/class-freemius.php:5795
+msgid "%s is a premium only add-on. You have to purchase a license first before activating the plugin."
+msgstr "%s on ainult premium-lisandmoodul. Enne plugina aktiveerimist peate esmalt ostma litsentsi."
+
+#: includes/class-freemius.php:5804, templates/add-ons.php:186, templates/account/partials/addon.php:386
+msgid "More information about %s"
+msgstr "Rohkem teavet %s kohta"
+
+#: includes/class-freemius.php:5805
+msgid "Purchase License"
+msgstr "Osta litsents"
+
+#. translators: %3$s: What the user is expected to receive via email (e.g.: "the installation instructions" or "a license key")
+#: includes/class-freemius.php:6821
+msgid "You should receive %3$s for %1$s to your mailbox at %2$s in the next 5 minutes."
+msgstr "Peaksite saama %3$s %1$s jaoks oma postkasti aadressil %2$s järgmise 5 minuti jooksul."
+
+#: includes/class-freemius.php:6830
+msgctxt "Part of the message telling the user what they should receive via email."
+msgid "a license key"
+msgstr "litsentsivõtme"
+
+#. translators: %s: activation link (e.g.: <a>Click here</a>)
+#: includes/class-freemius.php:6838
+msgid "%s to activate the license once you get it."
+msgstr "%s litsentsi aktiveerimiseks, kui olete selle kätte saanud."
+
+#: includes/class-freemius.php:6846
+msgctxt "Part of an activation link message."
+msgid "Click here"
+msgstr "Klõpsake siin"
+
+#: includes/class-freemius.php:6824
+msgctxt "Part of the message telling the user what they should receive via email."
+msgid "the installation instructions"
+msgstr "paigaldusjuhised"
+
+#: includes/class-freemius.php:6853
+msgctxt "Part of the message that tells the user to check their spam folder for a specific email."
+msgid "the product's support email address"
+msgstr "toote tugiteenuse e-posti aadress"
+
+#: includes/class-freemius.php:6859
+msgid "If you didn't get the email, try checking your spam folder or search for emails from %4$s."
+msgstr "Kui te ei saanud e-kirja, proovige kontrollida oma rämpsposti kausta või otsige e-kirju aadressilt %4$s."
+
+#: includes/class-freemius.php:6861
+msgid "Thanks for upgrading."
+msgstr "Täname uuendamise eest."
+
+#: includes/class-freemius.php:6812
+msgid "You should receive a confirmation email for %1$s to your mailbox at %2$s. Please make sure you click the button in that email to %3$s."
+msgstr "Peaksite saama kinnituskirja %1$s kohta oma postkasti aadressil %2$s. Palun veenduge, et klõpsate selles e-kirjas olevat nuppu, et %3$s."
+
+#: includes/class-freemius.php:6815
+msgid "start the trial"
+msgstr "alustada prooviversiooni"
+
+#: includes/class-freemius.php:6816, templates/connect.php:208
+msgid "complete the opt-in"
+msgstr "lõpetada liitumine"
+
+#: includes/class-freemius.php:6818
+msgid "Thanks!"
+msgstr "Aitäh!"
+
+#: includes/class-freemius.php:6997
+msgid "You are just one step away - %s"
+msgstr "Olete vaid ühe sammu kaugusel - %s"
+
+#: includes/class-freemius.php:7000
+msgctxt "%s - plugin name. As complete \"PluginX\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "Lõpetage „%s“ aktiveerimine nüüd"
+
+#: includes/class-freemius.php:7082
+msgid "We made a few tweaks to the %s, %s"
+msgstr "Tegime mõned muudatused %s, %s"
+
+#: includes/class-freemius.php:7086
+msgid "Opt in to make \"%s\" better!"
+msgstr "Liituge, et muuta „%s“ paremaks!"
+
+#: includes/class-freemius.php:7507
+msgid "The upgrade of %s was successfully completed."
+msgstr "%s uuendamine õnnestus."
+
+#: includes/class-freemius.php:10280, includes/class-fs-plugin-updater.php:1126, includes/class-fs-plugin-updater.php:1348, includes/class-fs-plugin-updater.php:1341, templates/auto-installation.php:32
+msgid "Add-On"
+msgstr "Lisandmoodul"
+
+#: includes/class-freemius.php:10282, templates/account.php:407, templates/account.php:415, templates/debug.php:476, templates/debug.php:711
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/class-freemius.php:10283, templates/account.php:408, templates/account.php:416, templates/debug.php:476, templates/debug.php:711, templates/forms/deactivation/form.php:107
+msgid "Theme"
+msgstr "Teema"
+
+#: includes/class-freemius.php:13368
+msgid "An unknown error has occurred while trying to toggle the license's white-label mode."
+msgstr "Litsentsi white-label režiimi lülitamisel ilmnes tundmatu viga."
+
+#: includes/class-freemius.php:13382
+msgid "Your %s license was flagged as white-labeled to hide sensitive information from the WP Admin (e.g. your email, license key, prices, billing address & invoices). If you ever wish to revert it back, you can easily do it through your %s. If this was a mistake you can also %s."
+msgstr "Teie %s litsents märgiti white-label'iks, et peita tundlikku teavet WP Adminilt (nt teie e-post, litsentsivõti, hinnad, arveldusaadress ja arved). Kui soovite selle kunagi tagasi pöörata, saate seda hõlpsasti teha oma %s kaudu. Kui see oli viga, saate selle ka %s."
+
+#: includes/class-freemius.php:13387, templates/account/partials/disconnect-button.php:84
+msgid "User Dashboard"
+msgstr "Kasutaja juhtpaneel"
+
+#: includes/class-freemius.php:13388
+msgid "revert it now"
+msgstr "kohe tagasi pöörata"
+
+#: includes/class-freemius.php:13446
+msgid "An unknown error has occurred while trying to set the user's beta mode."
+msgstr "Kasutaja beetarežiimi seadistamisel ilmnes tundmatu viga."
+
+#: includes/class-freemius.php:13533
+msgid "Invalid new user ID or email address."
+msgstr "Kehtetu uue kasutaja ID või e-posti aadress."
+
+#: includes/class-freemius.php:13563
+msgid "Sorry, we could not complete the email update. Another user with the same email is already registered."
+msgstr "Vabandust, me ei saanud e-posti uuendamist lõpule viia. Sama e-posti aadressiga on juba teine kasutaja registreeritud."
+
+#: includes/class-freemius.php:13564
+msgid "If you would like to give up the ownership of the %s's account to %s click the Change Ownership button."
+msgstr "Kui soovite loobuda %s konto omandiõigusest %s kasuks, klõpsake nuppu Muuda omandiõigust."
+
+#: includes/class-freemius.php:13571
+msgid "Change Ownership"
+msgstr "Muuda omandiõigust"
+
+#: includes/class-freemius.php:14190
+msgid "Invalid site details collection."
+msgstr "Kehtetu saidi andmete kogum."
+
+#: includes/class-freemius.php:14312
+msgid "We can't see any active licenses associated with that email address, are you sure it's the right address?"
+msgstr "Me ei näe ühtegi aktiivset litsentsi, mis oleks seotud selle e-posti aadressiga. Kas olete kindel, et see on õige aadress?"
+
+#: includes/class-freemius.php:14310
+msgid "We couldn't find your email address in the system, are you sure it's the right address?"
+msgstr "Me ei leidnud teie e-posti aadressi süsteemist. Kas olete kindel, et see on õige aadress?"
+
+#: includes/class-freemius.php:14616
+msgid "Account is pending activation. Please check your email and click the link to activate your account and then submit the affiliate form again."
+msgstr "Konto ootab aktiveerimist. Palun kontrollige oma e-kirja ja klõpsake linki, et aktiveerida oma konto ning seejärel esitage uuesti partnerivorm."
+
+#: includes/class-freemius.php:14742, templates/forms/premium-versions-upgrade-handler.php:46
+msgid "Renew your license now"
+msgstr "Uuenda oma litsentsi nüüd"
+
+#: includes/class-freemius.php:14730, templates/forms/premium-versions-upgrade-handler.php:47
+msgid "Buy a license now"
+msgstr "Osta litsents nüüd"
+
+#: includes/class-freemius.php:14746
+msgid "%s to access version %s security & feature updates, and support."
+msgstr "%s versiooni %s turvalisuse ja funktsioonide uuenduste ning toe saamiseks."
+
+#: includes/class-freemius.php:17452
+msgid "%s opt-in was successfully completed."
+msgstr "%s sisselogimine viidi edukalt lõpule."
+
+#: includes/class-freemius.php:17476, includes/class-freemius.php:21463
+msgid "Your trial has been successfully started."
+msgstr "Teie katse on edukalt käivitatud."
+
+#: includes/class-freemius.php:17466
+msgid "Your account was successfully activated with the %s plan."
+msgstr "Teie konto on edukalt aktiveeritud plaaniga %s."
+
+#: includes/class-freemius.php:18110, includes/class-freemius.php:18230, includes/class-freemius.php:18407
+msgid "Couldn't activate %s."
+msgstr "Ei õnnestunud aktiveerida %s."
+
+#: includes/class-freemius.php:18111, includes/class-freemius.php:18231, includes/class-freemius.php:18408
+msgid "Please contact us with the following message:"
+msgstr "Palun võtke meiega ühendust järgmise sõnumiga:"
+
+#: includes/class-freemius.php:18227, templates/forms/data-debug-mode.php:162
+msgid "An unknown error has occurred."
+msgstr "Esines tundmatu viga."
+
+#: includes/class-freemius.php:18769, includes/class-freemius.php:24292
+msgid "Upgrade"
+msgstr "Uuendamine"
+
+#: includes/class-freemius.php:18777
+msgid "Pricing"
+msgstr "Hinnakujundus"
+
+#: includes/class-freemius.php:18775
+msgid "Start Trial"
+msgstr "Alusta kohtuprotsessi"
+
+#: includes/class-freemius.php:18859, includes/class-freemius.php:18861
+msgid "Affiliation"
+msgstr "Liikmelisus"
+
+#: includes/class-freemius.php:18889, includes/class-freemius.php:18891, templates/account.php:260, templates/debug.php:439
+msgid "Account"
+msgstr "Konto"
+
+#: includes/class-freemius.php:18917, includes/class-freemius.php:18906, includes/class-freemius.php:18908, includes/customizer/class-fs-customizer-support-section.php:60
+msgid "Contact Us"
+msgstr "Võtke meiega ühendust"
+
+#: includes/class-freemius.php:18931, includes/class-freemius.php:18933, includes/class-freemius.php:24306, templates/account.php:130, templates/account/partials/addon.php:49
+msgid "Add-Ons"
+msgstr "Add-Ons"
+
+#: includes/class-freemius.php:18966
+msgctxt "ASCII arrow left icon"
+msgid "&#x2190;"
+msgstr "←"
+
+#: includes/class-freemius.php:18966
+msgctxt "ASCII arrow right icon"
+msgid "&#x27a4;"
+msgstr "➤"
+
+#: includes/class-freemius.php:18984
+msgctxt "noun"
+msgid "Pricing"
+msgstr "Hinnakujundus"
+
+#: includes/class-freemius.php:19200, includes/customizer/class-fs-customizer-support-section.php:67
+msgid "Support Forum"
+msgstr "Tugifoorum"
+
+#: includes/class-freemius.php:20231
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "Teie e-post on edukalt kinnitatud - te olete HEA!"
+
+#: includes/class-freemius.php:20232
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "Õigus"
+
+#: includes/class-freemius.php:20738
+msgid "seems like the key you entered doesn't match our records."
+msgstr "tundub, et teie sisestatud võti ei vasta meie andmetele."
+
+#: includes/class-freemius.php:20762
+msgid "Debug mode was successfully enabled and will be automatically disabled in 60 min. You can also disable it earlier by clicking the \"Stop Debug\" link."
+msgstr "Debugimisrežiim on edukalt sisse lülitatud ja see lülitatakse automaatselt välja 60 minuti pärast. Saate selle ka varem välja lülitada, klõpsates lingil \"Stop Debug\"."
+
+#: includes/class-freemius.php:20997
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "Teie %s lisandmooduli plaan uuendati edukalt."
+
+#. translators: %s:product name, e.g. Facebook add-on was successfully...
+#: includes/class-freemius.php:20999
+msgid "%s Add-on was successfully purchased."
+msgstr "%s lisandmoodul osteti edukalt."
+
+#: includes/class-freemius.php:21002
+msgid "Download the latest version"
+msgstr "Laadige alla uusim versioon"
+
+#: includes/class-freemius.php:21120
+msgid "It seems like one of the authentication parameters is wrong. Update your Public Key, Secret Key & User ID, and try again."
+msgstr "Tundub, et üks autentimisparameetritest on vale. Uuendage oma avalikku võtit, salajast võtit ja kasutaja ID-d ning proovige uuesti."
+
+#: includes/class-freemius.php:21120, includes/class-freemius.php:21533, includes/class-freemius.php:21641, includes/class-freemius.php:21728
+msgid "Error received from the server:"
+msgstr "Serverilt saadud viga:"
+
+#: includes/class-freemius.php:21361, includes/class-freemius.php:21646, includes/class-freemius.php:21699, includes/class-freemius.php:21806
+msgctxt "something somebody says when they are thinking about what you have just said."
+msgid "Hmm"
+msgstr "Hmm"
+
+#: includes/class-freemius.php:21374
+msgid "It looks like you are still on the %s plan. If you did upgrade or change your plan, it's probably an issue on our side - sorry."
+msgstr "Tundub, et olete endiselt %s plaanil. Kui te uuendasite või muutsite oma plaani, on tõenäoliselt tegemist meie poolse probleemiga - vabandame."
+
+#: includes/class-freemius.php:21375, templates/account.php:132, templates/add-ons.php:250, templates/account/partials/addon.php:51
+msgctxt "trial period"
+msgid "Trial"
+msgstr "Prooviversioon"
+
+#: includes/class-freemius.php:21380
+msgid "I have upgraded my account but when I try to Sync the License, the plan remains %s."
+msgstr "Olen oma konto uuendanud, kuid kui proovin litsentsi sünkroonida, jääb plaan endiselt %s."
+
+#: includes/class-freemius.php:21384, includes/class-freemius.php:21442
+msgid "Please contact us here"
+msgstr "Palun võtke meiega ühendust siin"
+
+#: includes/class-freemius.php:21412
+msgid "Your plan was successfully changed to %s."
+msgstr "Teie plaan muudeti edukalt %s."
+
+#: includes/class-freemius.php:21428
+msgid "Your license has expired. You can still continue using the free %s forever."
+msgstr "Teie litsents on aegunud. Saate tasuta %s kasutamist jätkata igavesti."
+
+#. translators: %1$s: product title; %2$s, %3$s: wrapping HTML anchor element; %4$s: 'plugin', 'theme', or 'add-on'.
+#: includes/class-freemius.php:21430
+msgid "Your license has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
+msgstr "Teie litsents on aegunud. %1$sUuendage kohe%2$s, et jätkata %3$s kasutamist ilma katkestusteta."
+
+#: includes/class-freemius.php:21438
+msgid "Your license has been cancelled. If you think it's a mistake, please contact support."
+msgstr "Teie litsents on tühistatud. Kui arvate, et tegemist on veaga, võtke palun ühendust klienditoega."
+
+#: includes/class-freemius.php:21451
+msgid "Your license has expired. You can still continue using all the %s features, but you'll need to renew your license to continue getting updates and support."
+msgstr "Teie litsents on aegunud. Saate jätkata kõigi %s funktsioonide kasutamist, kuid uuenduste ja toe saamiseks peate oma litsentsi uuendama."
+
+#: includes/class-freemius.php:21477
+msgid "Your free trial has expired. You can still continue using all our free features."
+msgstr "Teie tasuta prooviversioon on aegunud. Saate jätkata kõigi meie tasuta funktsioonide kasutamist."
+
+#. translators: %1$s: product title; %2$s, %3$s: wrapping HTML anchor element; %4$s: 'plugin', 'theme', or 'add-on'.
+#: includes/class-freemius.php:21479
+msgid "Your free trial has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
+msgstr "Teie tasuta prooviversioon on aegunud. %1$sUuendage kohe%2$s, et jätkata %3$s kasutamist ilma katkestusteta."
+
+#: includes/class-freemius.php:21525
+msgid "Your server is blocking the access to Freemius' API, which is crucial for %1$s synchronization. Please contact your host to whitelist the following domains:%2$s"
+msgstr "Teie server blokeerib juurdepääsu Freemiuse API-le, mis on oluline %1$s sünkroniseerimiseks. Palun võtke ühendust oma hostiga, et lisada järgmised domeenid valgeloendisse:%2$s"
+
+#: includes/class-freemius.php:21527
+msgid "Show error details"
+msgstr "Näita vea üksikasju"
+
+#: includes/class-freemius.php:21637
+msgid "It looks like the license could not be activated."
+msgstr "Tundub, et litsentsi ei õnnestunud aktiveerida."
+
+#: includes/class-freemius.php:21679
+msgid "Your license was successfully activated."
+msgstr "Teie litsents aktiveeriti edukalt."
+
+#: includes/class-freemius.php:21703
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "Tundub, et teie saidil pole praegu aktiivset litsentsi."
+
+#: includes/class-freemius.php:21727
+msgid "It looks like the license deactivation failed."
+msgstr "Tundub, et litsentsi deaktiveerimine ebaõnnestus."
+
+#: includes/class-freemius.php:21756
+msgid "Your %s license was successfully deactivated."
+msgstr "Teie %s litsents deaktiveeriti edukalt."
+
+#: includes/class-freemius.php:21757
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "Teie litsents deaktiveeriti edukalt, olete tagasi %s plaanil."
+
+#: includes/class-freemius.php:21760
+msgid "O.K"
+msgstr "Olgu"
+
+#: includes/class-freemius.php:21813
+msgid "Seems like we are having some temporary issue with your subscription cancellation. Please try again in few minutes."
+msgstr "Tundub, et meil on teie tellimuse tühistamisega ajutine probleem. Palun proovige mõne minuti pärast uuesti."
+
+#: includes/class-freemius.php:21822
+msgid "Your subscription was successfully cancelled. Your %s plan license will expire in %s."
+msgstr "Teie tellimus tühistati edukalt. Teie %s plaani litsents aegub %s."
+
+#: includes/class-freemius.php:21865
+msgid "You are already running the %s in a trial mode."
+msgstr "Te juba kasutate %s prooviversiooni režiimis."
+
+#: includes/class-freemius.php:21877
+msgid "You already utilized a trial before."
+msgstr "Olete juba varem prooviversiooni kasutanud."
+
+#: includes/class-freemius.php:21916
+msgid "None of the %s's plans supports a trial period."
+msgstr "Ükski %s plaan ei toeta prooviaega."
+
+#: includes/class-freemius.php:21892
+msgid "Plan %s do not exist, therefore, can't start a trial."
+msgstr "Plaani %s ei eksisteeri, seega ei saa prooviaega alustada."
+
+#: includes/class-freemius.php:21904
+msgid "Plan %s does not support a trial period."
+msgstr "Plaan %s ei toeta prooviaega."
+
+#: includes/class-freemius.php:21978
+msgid "It looks like you are not in trial mode anymore so there's nothing to cancel :)"
+msgstr "Tundub, et te pole enam prooviversiooni režiimis, seega pole midagi tühistada :)"
+
+#: includes/class-freemius.php:22014
+msgid "Seems like we are having some temporary issue with your trial cancellation. Please try again in few minutes."
+msgstr "Tundub, et meil on teie prooviversiooni tühistamisega ajutine probleem. Palun proovige mõne minuti pärast uuesti."
+
+#: includes/class-freemius.php:22033
+msgid "Your %s free trial was successfully cancelled."
+msgstr "Teie %s tasuta prooviversioon tühistati edukalt."
+
+#: includes/class-freemius.php:22380
+msgid "Seems like you got the latest release."
+msgstr "Tundub, et teil on uusim versioon."
+
+#: includes/class-freemius.php:22381
+msgid "You are all good!"
+msgstr "Kõik on korras!"
+
+#: includes/class-freemius.php:22363
+msgid "Version %s was released."
+msgstr "Versioon %s on välja lastud."
+
+#: includes/class-freemius.php:22363
+msgid "Please download %s."
+msgstr "Palun laadige alla %s."
+
+#: includes/class-freemius.php:22370
+msgid "the latest %s version here"
+msgstr "uusim %s versioon siit"
+
+#: includes/class-freemius.php:22375
+msgid "New"
+msgstr "Uus"
+
+#: includes/class-freemius.php:22784
+msgid "Verification mail was just sent to %s. If you can't find it after 5 min, please check your spam box."
+msgstr "Kinnituskiri saadeti just aadressile %s. Kui te ei leia seda 5 minuti jooksul, kontrollige palun oma rämpsposti kausta."
+
+#: includes/class-freemius.php:22924
+msgid "Site successfully opted in."
+msgstr "Sait liitus edukalt."
+
+#: includes/class-freemius.php:22925, includes/class-freemius.php:24000
+msgid "Awesome"
+msgstr "Suurepärane"
+
+#: includes/class-freemius.php:22951
+msgid "Diagnostic data will no longer be sent from %s to %s."
+msgstr "Diagnostikaandmeid ei saadeta enam %s-st %s-le."
+
+#: includes/class-freemius.php:22941
+msgid "Sharing diagnostic data with %s helps to provide functionality that's more relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the plugin should be translated and tailored to."
+msgstr "Diagnostiliste andmete jagamine %s aitab pakkuda teie veebisaidi jaoks asjakohasemat funktsionaalsust, vältida WordPressi või PHP versiooni ühildamatust, mis võib teie veebisaiti rikkuda, ning tuvastada, milliseid keeli ja piirkondi peaks plugin tõlkima ja kohandama."
+
+#: includes/class-freemius.php:22942
+msgid "Thank you!"
+msgstr "Aitäh!"
+
+#: includes/class-freemius.php:23111
+msgid "A confirmation email was just sent to %s. You must confirm the update within the next 4 hours. If you cannot find the email, please check your spam folder."
+msgstr "Kinnitussõnum saadeti äsja e-posti aadressile %s. Te peate uuenduse kinnitama järgmise 4 tunni jooksul. Kui te ei leia seda e-kirja, vaadake palun oma rämpsposti kausta."
+
+#: includes/class-freemius.php:23109
+msgid "A confirmation email was just sent to %s. The email owner must confirm the update within the next 4 hours."
+msgstr "Kinnitussõnum saadeti äsja e-posti aadressile %s. E-posti omanik peab uuenduse kinnitama järgmise 4 tunni jooksul."
+
+#: includes/class-freemius.php:23123
+msgid "Thanks for confirming the ownership change. An email was just sent to %s for final approval."
+msgstr "Tänan, et kinnitasid omanikuvahetust. E-mail saadeti just %s lõplikuks kinnitamiseks."
+
+#: includes/class-freemius.php:23129
+msgid "%s is the new owner of the account."
+msgstr "%s on konto uus omanik."
+
+#: includes/class-freemius.php:23131
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "Õnnitlused"
+
+#: includes/class-freemius.php:23153
+msgid "Your name was successfully updated."
+msgstr "Teie nime uuendati edukalt."
+
+#: includes/class-freemius.php:23148
+msgid "Please provide your full name."
+msgstr "Palun märkige oma täielik nimi."
+
+#. translators: %s: User's account property (e.g. email address, name)
+#: includes/class-freemius.php:23218
+msgid "You have successfully updated your %s."
+msgstr "Olete edukalt uuendanud oma %s."
+
+#: includes/class-freemius.php:23282
+msgid "Is this your client's site? %s if you wish to hide sensitive info like your email, license key, prices, billing address & invoices from the WP Admin."
+msgstr "Kas see on teie kliendi sait? %s, kui soovite WP administraatori eest varjata tundlikku teavet, nagu teie e-posti aadress, litsentsivõti, hinnad, arveldusaadress ja arved."
+
+#: includes/class-freemius.php:23285
+msgid "Click here"
+msgstr "Vajuta siia"
+
+#: includes/class-freemius.php:23322
+msgid "Bundle"
+msgstr "Bundle"
+
+#: includes/class-freemius.php:23395
+msgid "Just letting you know that the add-ons information of %s is being pulled from an external server."
+msgstr "Lihtsalt annan teile teada, et %s lisade teave on tõmmatud välisserverist."
+
+#: includes/class-freemius.php:23396
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "Head up"
+
+#: includes/class-freemius.php:24040
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "Hei"
+
+#: includes/class-freemius.php:24040
+msgid "How do you like %s so far? Test all our %s premium features with a %d-day free trial."
+msgstr "Kuidas sulle %s seni meeldib? Testi kõiki meie %s lisafunktsioone %d päeva tasuta prooviperioodiga."
+
+#: includes/class-freemius.php:24048
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "%s päeva jooksul ei ole kohustust - tühistage igal ajal!"
+
+#: includes/class-freemius.php:24049
+msgid "No credit card required"
+msgstr "Krediitkaarti ei ole vaja"
+
+#: includes/class-freemius.php:24056, templates/forms/trial-start.php:53
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "Alusta tasuta prooviperioodi"
+
+#: includes/class-freemius.php:24135
+msgid "Hey there, did you know that %s has an affiliate program? If you like the %s you can become our ambassador and earn some cash!"
+msgstr "Hei, kas teadsid, et %s on partnerlusprogramm? Kui sulle meeldib %s, võid saada meie saadikuks ja teenida raha!"
+
+#: includes/class-freemius.php:24144
+msgid "Learn more"
+msgstr "Lisateave"
+
+#: includes/class-freemius.php:24330, templates/account.php:569, templates/account.php:721, templates/connect.php:211, templates/connect.php:442, includes/managers/class-fs-clone-manager.php:1305, templates/forms/license-activation.php:27, templates/account/partials/addon.php:326
+msgid "Activate License"
+msgstr "Aktiveeri litsents"
+
+#: includes/class-freemius.php:24331, templates/account.php:663, templates/account.php:720, templates/account/partials/addon.php:327, templates/account/partials/site.php:273
+msgid "Change License"
+msgstr "Muuda litsentsi"
+
+#: includes/class-freemius.php:24446, includes/class-freemius.php:24440, templates/account/partials/site.php:49, templates/account/partials/site.php:170
+msgid "Opt In"
+msgstr "Valige sisse"
+
+#: includes/class-freemius.php:24438, templates/account/partials/site.php:170
+msgid "Opt Out"
+msgstr "Loobumine"
+
+#: includes/class-freemius.php:24704
+msgid "Please follow these steps to complete the upgrade"
+msgstr "Järgige uuendamise lõpuleviimiseks järgmisi samme"
+
+#. translators: %s: Plan title
+#: includes/class-freemius.php:24708
+msgid "Download the latest %s version"
+msgstr "Lae alla uusim %s versioon"
+
+#: includes/class-freemius.php:24712
+msgid "Upload and activate the downloaded version"
+msgstr "Laadige alla laetud versioon üles ja aktiveerige see"
+
+#: includes/class-freemius.php:24714
+msgid "How to upload and activate?"
+msgstr "Kuidas üles laadida ja aktiveerida?"
+
+#: includes/class-freemius.php:24681
+msgid " The paid version of %1$s is already installed. Please activate it to start benefiting the %2$s features. %3$s"
+msgstr " %1$s tasuline versioon on juba paigaldatud. Palun aktiveerige see, et hakata kasutama %2$s funktsioone. %3$s"
+
+#: includes/class-freemius.php:24691
+msgid "Activate %s features"
+msgstr "Aktiveeri %s funktsioonid"
+
+#: includes/class-freemius.php:24749
+msgid "Your plan was successfully upgraded."
+msgstr "Teie kava on edukalt uuendatud."
+
+#: includes/class-freemius.php:24750
+msgid "Your plan was successfully activated."
+msgstr "Teie plaan aktiveeriti edukalt."
+
+#: includes/class-freemius.php:24859
+msgid "%sClick here%s to choose the sites where you'd like to activate the license on."
+msgstr "%sKlõpsake siia%s, et valida saidid, kus soovite litsentsi aktiveerida."
+
+#: includes/class-freemius.php:25028
+msgid "Auto installation only works for opted-in users."
+msgstr "Automaatne installimine toimib ainult nõusoleku andnud kasutajatele."
+
+#: includes/class-freemius.php:25038, includes/class-freemius.php:25071, includes/class-fs-plugin-updater.php:1320, includes/class-fs-plugin-updater.php:1334
+msgid "Invalid module ID."
+msgstr "Vigane mooduli ID."
+
+#: includes/class-freemius.php:25079, includes/class-fs-plugin-updater.php:1355
+msgid "Premium add-on version already installed."
+msgstr "Tasulise lisandmooduli versioon on juba installitud."
+
+#: includes/class-freemius.php:25047, includes/class-fs-plugin-updater.php:1356
+msgid "Premium version already active."
+msgstr "Tasuline versioon on juba aktiivne."
+
+#: includes/class-freemius.php:25054
+msgid "You do not have a valid license to access the premium version."
+msgstr "Teil pole kehtivat litsentsi tasulise versiooni kasutamiseks."
+
+#: includes/class-freemius.php:25061
+msgid "Plugin is a \"Serviceware\" which means it does not have a premium code version."
+msgstr "Plugin on „teenusevara“, mis tähendab, et sellel pole tasulist koodiversiooni."
+
+#: includes/class-freemius.php:25439
+msgid "View paid features"
+msgstr "Vaata tasulisi funktsioone"
+
+#: includes/class-freemius.php:25754
+msgid "Thank you so much for using our products!"
+msgstr "Täname teid väga meie toodete kasutamise eest!"
+
+#: includes/class-freemius.php:25755
+msgid "You've already opted-in to our usage-tracking, which helps us keep improving them."
+msgstr "Olete juba nõustunud meie kasutuse jälgimisega, mis aitab meil neid pidevalt parendada."
+
+#: includes/class-freemius.php:25774
+msgid "%s and its add-ons"
+msgstr "%s ja selle lisandmoodulid"
+
+#: includes/class-freemius.php:25783
+msgid "Products"
+msgstr "Tooted"
+
+#: includes/class-freemius.php:25743
+msgid "Thank you so much for using %s and its add-ons!"
+msgstr "Täname teid väga %s ja selle lisandmoodulite kasutamise eest!"
+
+#: includes/class-freemius.php:25744
+msgid "Thank you so much for using %s!"
+msgstr "Täname teid väga %s kasutamise eest!"
+
+#: includes/class-freemius.php:25750
+msgid "You've already opted-in to our usage-tracking, which helps us keep improving the %s."
+msgstr "Olete juba nõustunud meie kasutuse jälgimisega, mis aitab meil %s pidevalt parendada."
+
+#: includes/class-freemius.php:25790, templates/connect.php:312
+msgid "Yes"
+msgstr "Jah"
+
+#: includes/class-freemius.php:25791, templates/connect.php:313
+msgid "send me security & feature updates, educational content and offers."
+msgstr "saatke mulle turvalisuse ja funktsioonide uuendusi, õppematerjale ja pakkumisi."
+
+#: includes/class-freemius.php:25792, templates/connect.php:318
+msgid "No"
+msgstr "Ei"
+
+#: includes/class-freemius.php:25794, templates/connect.php:320
+msgid "do %sNOT%s send me security & feature updates, educational content and offers."
+msgstr "%sÄRGE%s saatke mulle turvalisuse ja funktsioonide uuendusi, õppematerjale ja pakkumisi."
+
+#: includes/class-freemius.php:25804
+msgid "Due to the new %sEU General Data Protection Regulation (GDPR)%s compliance requirements it is required that you provide your explicit consent, again, confirming that you are onboard :-)"
+msgstr "Seoses uute %sEL-i isikuandmete kaitse üldmääruse (GDPR)%s nõuetele vastavuse nõuetega on vaja, et annaksite uuesti oma selgesõnalise nõusoleku, kinnitades, et olete nõus :-)"
+
+#: includes/class-freemius.php:25806, templates/connect.php:327
+msgid "Please let us know if you'd like us to contact you for security & feature updates, educational content, and occasional offers:"
+msgstr "Palun andke meile teada, kas soovite, et võtaksime teiega ühendust turvalisuse ja funktsioonide uuenduste, õppematerjalide ja aeg-ajalt pakkumiste osas:"
+
+#: includes/class-freemius.php:26096
+msgid "License key is empty."
+msgstr "Litsentsivõti on tühi."
+
+#: includes/class-fs-plugin-updater.php:247, templates/forms/premium-versions-upgrade-handler.php:57
+msgid "Renew license"
+msgstr "Uuenda litsentsi"
+
+#: includes/class-fs-plugin-updater.php:252, templates/forms/premium-versions-upgrade-handler.php:58
+msgid "Buy license"
+msgstr "Osta litsents"
+
+#: includes/class-fs-plugin-updater.php:405, includes/class-fs-plugin-updater.php:372
+msgid "There is a %s of %s available."
+msgstr "Saadaval on %s %s."
+
+#: includes/class-fs-plugin-updater.php:410, includes/class-fs-plugin-updater.php:374
+msgid "new Beta version"
+msgstr "uus beetaversioon"
+
+#: includes/class-fs-plugin-updater.php:411, includes/class-fs-plugin-updater.php:375
+msgid "new version"
+msgstr "uus versioon"
+
+#: includes/class-fs-plugin-updater.php:434
+msgid "Important Upgrade Notice:"
+msgstr "Oluline uuenduse teade:"
+
+#: includes/class-fs-plugin-updater.php:1385
+msgid "Installing plugin: %s"
+msgstr "Plugina installimine: %s"
+
+#: includes/class-fs-plugin-updater.php:1426
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Failisüsteemiga ei õnnestu ühendust luua. Palun kinnitage oma volitused."
+
+#: includes/class-fs-plugin-updater.php:1608
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Kaugpluginpakett ei sisalda soovitud nimega kausta ja ümbernimetamine ei õnnestunud."
+
+#: includes/fs-plugin-info-dialog.php:542
+msgid "Purchase More"
+msgstr "Osta rohkem"
+
+#: includes/fs-plugin-info-dialog.php:543, templates/account/partials/addon.php:390
+msgctxt "verb"
+msgid "Purchase"
+msgstr "Osta"
+
+#. translators: %s: N-days trial
+#: includes/fs-plugin-info-dialog.php:547
+msgid "Start my free %s"
+msgstr "Alusta oma tasuta %s"
+
+#: includes/fs-plugin-info-dialog.php:755
+msgid "Install Free Version Now"
+msgstr "Installi tasuta versioon kohe"
+
+#: includes/fs-plugin-info-dialog.php:756, templates/add-ons.php:323, templates/auto-installation.php:111, templates/account/partials/addon.php:423, templates/account/partials/addon.php:370
+msgid "Install Now"
+msgstr "Installi kohe"
+
+#: includes/fs-plugin-info-dialog.php:745
+msgid "Install Free Version Update Now"
+msgstr "Installi tasuta versiooni uuendus kohe"
+
+#: includes/fs-plugin-info-dialog.php:746, templates/account.php:652
+msgid "Install Update Now"
+msgstr "Installi uuendus kohe"
+
+#: includes/fs-plugin-info-dialog.php:772
+msgctxt "as download latest version"
+msgid "Download Latest Free Version"
+msgstr "Laadi alla uusim tasuta versioon"
+
+#: includes/fs-plugin-info-dialog.php:773, templates/account.php:110, templates/add-ons.php:37, templates/account/partials/addon.php:30
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "Laadi alla uusim"
+
+#: includes/fs-plugin-info-dialog.php:788, templates/add-ons.php:329, templates/account/partials/addon.php:417, templates/account/partials/addon.php:361
+msgid "Activate this add-on"
+msgstr "Aktiveeri see lisandmoodul"
+
+#: includes/fs-plugin-info-dialog.php:790, templates/connect.php:439
+msgid "Activate Free Version"
+msgstr "Aktiveeri tasuta versioon"
+
+#: includes/fs-plugin-info-dialog.php:791, templates/account.php:134, templates/add-ons.php:330, templates/account/partials/addon.php:53
+msgid "Activate"
+msgstr "Aktiveeri"
+
+#: includes/fs-plugin-info-dialog.php:999
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: includes/fs-plugin-info-dialog.php:1000
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "Installimine"
+
+#: includes/fs-plugin-info-dialog.php:1001
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "KKK"
+
+#: includes/fs-plugin-info-dialog.php:1002, templates/plugin-info/description.php:55
+msgid "Screenshots"
+msgstr "Ekraanipildid"
+
+#: includes/fs-plugin-info-dialog.php:1003
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "Muudatuste logi"
+
+#: includes/fs-plugin-info-dialog.php:1004
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "Arvustused"
+
+#: includes/fs-plugin-info-dialog.php:1005
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "Muud märkused"
+
+#: includes/fs-plugin-info-dialog.php:1020
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "Funktsioonid ja hinnastamine"
+
+#: includes/fs-plugin-info-dialog.php:1030
+msgid "Plugin Install"
+msgstr "Plugina installimine"
+
+#: includes/fs-plugin-info-dialog.php:1102
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s plaan"
+
+#: includes/fs-plugin-info-dialog.php:1128
+msgctxt "e.g. the best product"
+msgid "Best"
+msgstr "Parim"
+
+#: includes/fs-plugin-info-dialog.php:1134, includes/fs-plugin-info-dialog.php:1154
+msgctxt "as every month"
+msgid "Monthly"
+msgstr "Igakuine"
+
+#: includes/fs-plugin-info-dialog.php:1137
+msgctxt "as once a year"
+msgid "Annual"
+msgstr "Iga-aastane"
+
+#: includes/fs-plugin-info-dialog.php:1140
+msgid "Lifetime"
+msgstr "Eluaegne"
+
+#: includes/fs-plugin-info-dialog.php:1154, includes/fs-plugin-info-dialog.php:1156, includes/fs-plugin-info-dialog.php:1158
+msgctxt "e.g. billed monthly"
+msgid "Billed %s"
+msgstr "Arveldatakse %s"
+
+#: includes/fs-plugin-info-dialog.php:1156
+msgctxt "as once a year"
+msgid "Annually"
+msgstr "Aastas"
+
+#: includes/fs-plugin-info-dialog.php:1158
+msgctxt "as once a year"
+msgid "Once"
+msgstr "Üks kord"
+
+#: includes/fs-plugin-info-dialog.php:1164
+msgid "Single Site License"
+msgstr "Ühe saidi litsents"
+
+#: includes/fs-plugin-info-dialog.php:1166
+msgid "Unlimited Licenses"
+msgstr "Piiramatu arv litsentse"
+
+#: includes/fs-plugin-info-dialog.php:1168
+msgid "Up to %s Sites"
+msgstr "Kuni %s saiti"
+
+#: includes/fs-plugin-info-dialog.php:1178, templates/plugin-info/features.php:82
+msgctxt "as monthly period"
+msgid "mo"
+msgstr "kuus"
+
+#: includes/fs-plugin-info-dialog.php:1185, templates/plugin-info/features.php:80
+msgctxt "as annual period"
+msgid "year"
+msgstr "aasta"
+
+#: includes/fs-plugin-info-dialog.php:1239
+msgctxt "noun"
+msgid "Price"
+msgstr "Hind"
+
+#. translators: %s: Discount (e.g. discount of $5 or 10%)
+#: includes/fs-plugin-info-dialog.php:1287
+msgid "Save %s"
+msgstr "Säästa %s"
+
+#: includes/fs-plugin-info-dialog.php:1297
+msgid "No commitment for %s - cancel anytime"
+msgstr "Kohustuseta %s - tühista igal ajal"
+
+#: includes/fs-plugin-info-dialog.php:1300
+msgid "After your free %s, pay as little as %s"
+msgstr "Pärast tasuta %s maksa vaid %s"
+
+#: includes/fs-plugin-info-dialog.php:1311
+msgid "Details"
+msgstr "Üksikasjad"
+
+#: includes/fs-plugin-info-dialog.php:1315, templates/account.php:121, templates/debug.php:300, templates/debug.php:342, templates/debug.php:601, templates/account/partials/addon.php:41
+msgctxt "product version"
+msgid "Version"
+msgstr "Versioon"
+
+#: includes/fs-plugin-info-dialog.php:1322
+msgctxt "as the plugin author"
+msgid "Author"
+msgstr "Autor"
+
+#: includes/fs-plugin-info-dialog.php:1329
+msgid "Last Updated"
+msgstr "Viimati uuendatud"
+
+#. translators: %s: time period (e.g. "2 hours" ago)
+#: includes/fs-plugin-info-dialog.php:1334, templates/account.php:540
+msgctxt "x-ago"
+msgid "%s ago"
+msgstr "%s tagasi"
+
+#: includes/fs-plugin-info-dialog.php:1343
+msgid "Requires WordPress Version"
+msgstr "Nõuab WordPressi versiooni"
+
+#. translators: %s: Version number.
+#: includes/fs-plugin-info-dialog.php:1346, includes/fs-plugin-info-dialog.php:1366
+msgid "%s or higher"
+msgstr "%s või uuem"
+
+#: includes/fs-plugin-info-dialog.php:1354
+msgid "Compatible up to"
+msgstr "Ühildub kuni"
+
+#: includes/fs-plugin-info-dialog.php:1362
+msgid "Requires PHP Version"
+msgstr "Nõuab PHP versiooni"
+
+#: includes/fs-plugin-info-dialog.php:1375
+msgid "Downloaded"
+msgstr "Alla laaditud"
+
+#. translators: %s: 1 or One (Number of times downloaded)
+#: includes/fs-plugin-info-dialog.php:1379
+msgid "%s time"
+msgstr "%s kord"
+
+#. translators: %s: Number of times downloaded
+#: includes/fs-plugin-info-dialog.php:1381
+msgid "%s times"
+msgstr "%s korda"
+
+#: includes/fs-plugin-info-dialog.php:1392
+msgid "WordPress.org Plugin Page"
+msgstr "WordPress.org plugina leht"
+
+#: includes/fs-plugin-info-dialog.php:1401
+msgid "Plugin Homepage"
+msgstr "Plugina koduleht"
+
+#: includes/fs-plugin-info-dialog.php:1410, includes/fs-plugin-info-dialog.php:1494
+msgid "Donate to this plugin"
+msgstr "Anneta sellele pluginale"
+
+#: includes/fs-plugin-info-dialog.php:1417
+msgid "Average Rating"
+msgstr "Keskmine hinnang"
+
+#: includes/fs-plugin-info-dialog.php:1424
+msgid "based on %s"
+msgstr "põhineb %s"
+
+#. translators: %s: 1 or One
+#: includes/fs-plugin-info-dialog.php:1428
+msgid "%s rating"
+msgstr "%s hinnang"
+
+#. translators: %s: Number larger than 1
+#: includes/fs-plugin-info-dialog.php:1430
+msgid "%s ratings"
+msgstr "%s hinnangut"
+
+#. translators: %s: 1 or One
+#: includes/fs-plugin-info-dialog.php:1445
+msgid "%s star"
+msgstr "%s täht"
+
+#. translators: %s: Number larger than 1
+#: includes/fs-plugin-info-dialog.php:1447
+msgid "%s stars"
+msgstr "%s tähte"
+
+#. translators: %s: # of stars (e.g. 5 stars)
+#: includes/fs-plugin-info-dialog.php:1459
+msgid "Click to see reviews that provided a rating of %s"
+msgstr "Klõpsake, et näha arvustusi, mis andsid hinnangu %s"
+
+#: includes/fs-plugin-info-dialog.php:1472
+msgid "Contributors"
+msgstr "Kaasautorid"
+
+#: includes/fs-plugin-info-dialog.php:1513
+msgid "This plugin requires a newer version of PHP."
+msgstr "See plugin nõuab uuemat PHP versiooni."
+
+#. translators: %s: URL to Update PHP page.
+#: includes/fs-plugin-info-dialog.php:1522
+msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating PHP</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">Klõpsake siia, et saada rohkem teavet PHP uuendamise kohta</a>."
+
+#: includes/fs-plugin-info-dialog.php:1538, includes/fs-plugin-info-dialog.php:1536
+msgid "Warning"
+msgstr "Hoiatus"
+
+#: includes/fs-plugin-info-dialog.php:1538
+msgid "This plugin has not been marked as compatible with your version of WordPress."
+msgstr "Seda pluginat pole märgitud ühilduvaks teie WordPressi versiooniga."
+
+#: includes/fs-plugin-info-dialog.php:1536
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "Seda pluginat pole testitud teie praeguse WordPressi versiooniga."
+
+#: includes/fs-plugin-info-dialog.php:1557
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "Tasuline lisandmoodul tuleb paigaldada Freemiusesse."
+
+#: includes/fs-plugin-info-dialog.php:1558
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "Lisandmoodul tuleb paigaldada WordPress.org-i või Freemiusesse."
+
+#: includes/fs-plugin-info-dialog.php:1587
+msgid "Latest Version Installed"
+msgstr "Uusim versioon on installitud"
+
+#: includes/fs-plugin-info-dialog.php:1588
+msgid "Latest Free Version Installed"
+msgstr "Uusim tasuta versioon on installitud"
+
+#: includes/fs-plugin-info-dialog.php:1579
+msgid "Newer Version (%s) Installed"
+msgstr "Uuem versioon (%s) on installitud"
+
+#: includes/fs-plugin-info-dialog.php:1580
+msgid "Newer Free Version (%s) Installed"
+msgstr "Uuem tasuta versioon (%s) on installitud"
+
+#: templates/account.php:111, templates/forms/subscription-cancellation.php:96, templates/account/partials/addon.php:31, templates/account/partials/site.php:313
+msgid "Downgrading your plan"
+msgstr "Plaani alandamine"
+
+#: templates/account.php:112, templates/forms/subscription-cancellation.php:97, templates/account/partials/addon.php:32, templates/account/partials/site.php:314
+msgid "Cancelling the subscription"
+msgstr "Tellimuse tühistamine"
+
+#. translators: %1$s: Either 'Downgrading your plan' or 'Cancelling the subscription'
+#: templates/account.php:114, templates/forms/subscription-cancellation.php:99, templates/account/partials/addon.php:34, templates/account/partials/site.php:316
+msgid "%1$s will immediately stop all future recurring payments and your %2$s plan license will expire in %3$s."
+msgstr "%1$s peatab koheselt kõik tulevased korduvad maksed ja teie %2$s plaani litsents aegub %3$s pärast."
+
+#: templates/account.php:115, templates/forms/subscription-cancellation.php:100, templates/account/partials/addon.php:35, templates/account/partials/site.php:317
+msgid "Please note that we will not be able to grandfather outdated pricing for renewals/new subscriptions after a cancellation. If you choose to renew the subscription manually in the future, after a price increase, which typically occurs once a year, you will be charged the updated price."
+msgstr "Palun pange tähele, et me ei saa säilitada vananenud hindasid uuenduste/uute tellimuste puhul pärast tühistamist. Kui otsustate tellimuse tulevikus käsitsi uuendada pärast hinnatõusu, mis tavaliselt toimub kord aastas, arvestatakse teile uuendatud hind."
+
+#: templates/account.php:116, templates/forms/subscription-cancellation.php:106, templates/account/partials/addon.php:36
+msgid "Cancelling the trial will immediately block access to all premium features. Are you sure?"
+msgstr "Prooviversiooni tühistamine blokeerib koheselt juurdepääsu kõigile premium-funktsioonidele. Kas olete kindel?"
+
+#: templates/account.php:117, templates/forms/subscription-cancellation.php:101, templates/account/partials/addon.php:37, templates/account/partials/site.php:318
+msgid "You can still enjoy all %s features but you will not have access to %s security & feature updates, nor support."
+msgstr "Saate endiselt kasutada kõiki %s funktsioone, kuid teil pole juurdepääsu %s turvalisuse ja funktsioonide uuendustele ega toele."
+
+#: templates/account.php:118, templates/forms/subscription-cancellation.php:102, templates/account/partials/addon.php:38, templates/account/partials/site.php:319
+msgid "Once your license expires you can still use the Free version but you will NOT have access to the %s features."
+msgstr "Kui teie litsents aegub, saate endiselt kasutada tasuta versiooni, kuid teil POLE juurdepääsu %s funktsioonidele."
+
+#. translators: %s: Plan title (e.g. "Professional")
+#: templates/account.php:120, templates/account/partials/activate-license-button.php:31, templates/account/partials/addon.php:40
+msgid "Activate %s Plan"
+msgstr "Aktiveeri %s plaan"
+
+#. translators: %s: Time period (e.g. Auto renews in "2 months")
+#: templates/account.php:123, templates/account/partials/addon.php:43, templates/account/partials/site.php:293
+msgid "Auto renews in %s"
+msgstr "Uueneb automaatselt %s pärast"
+
+#. translators: %s: Time period (e.g. Expires in "2 months")
+#: templates/account.php:125, templates/account/partials/addon.php:45, templates/account/partials/site.php:295
+msgid "Expires in %s"
+msgstr "Aegub %s pärast"
+
+#: templates/account.php:126
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "Sünkroniseeri litsents"
+
+#: templates/account.php:127, templates/account/partials/addon.php:46
+msgid "Cancel Trial"
+msgstr "Tühista prooviversioon"
+
+#: templates/account.php:128, templates/account/partials/addon.php:47
+msgid "Change Plan"
+msgstr "Muuda plaani"
+
+#: templates/account.php:129, templates/account/partials/addon.php:48
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "Uuenda"
+
+#: templates/account.php:131, templates/account/partials/addon.php:50, templates/account/partials/site.php:320
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "Alanda"
+
+#: templates/account.php:133, templates/add-ons.php:246, templates/plugin-info/features.php:72, templates/account/partials/addon.php:52, templates/account/partials/site.php:33
+msgid "Free"
+msgstr "Tasuta"
+
+#: templates/account.php:135, templates/debug.php:490, includes/customizer/class-fs-customizer-upsell-control.php:110, templates/account/partials/addon.php:54
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "Plaan"
+
+#: templates/account.php:136
+msgid "Bundle Plan"
+msgstr "Komplekti plaan"
+
+#: templates/account.php:268
+msgid "Free Trial"
+msgstr "Tasuta prooviversioon"
+
+#: templates/account.php:279
+msgid "Account Details"
+msgstr "Konto üksikasjad"
+
+#: templates/account.php:288
+msgid "Stop Debug"
+msgstr "Peata silumine"
+
+#: templates/account.php:286, templates/forms/data-debug-mode.php:33
+msgid "Start Debug"
+msgstr "Alusta silumist"
+
+#: templates/account.php:295
+msgid "Billing & Invoices"
+msgstr "Arveldus ja arved"
+
+#: templates/account.php:318, templates/account/partials/addon.php:236, templates/account/partials/deactivate-license-button.php:35
+msgid "Deactivate License"
+msgstr "Deaktiveeri litsents"
+
+#: templates/account.php:341, templates/forms/subscription-cancellation.php:125
+msgid "Are you sure you want to proceed?"
+msgstr "Kas olete kindel, et soovite jätkata?"
+
+#: templates/account.php:341, templates/account/partials/addon.php:260
+msgid "Cancel Subscription"
+msgstr "Tühista tellimus"
+
+#: templates/account.php:370, templates/account/partials/addon.php:345
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "Sünkroniseeri"
+
+#: templates/account.php:385, templates/debug.php:663
+msgid "Name"
+msgstr "Nimi"
+
+#: templates/account.php:391, templates/debug.php:664
+msgid "Email"
+msgstr "E-post"
+
+#: templates/account.php:398, templates/debug.php:488, templates/debug.php:718
+msgid "User ID"
+msgstr "Kasutaja ID"
+
+#: templates/account.php:416, templates/account.php:734, templates/account.php:785, templates/debug.php:340, templates/debug.php:482, templates/debug.php:598, templates/debug.php:662, templates/debug.php:716, templates/debug.php:799, templates/account/payments.php:35, templates/debug/logger.php:21
+msgid "ID"
+msgstr "ID"
+
+#: templates/account.php:423
+msgid "Site ID"
+msgstr "Saidi ID"
+
+#: templates/account.php:426
+msgid "No ID"
+msgstr "ID puudub"
+
+#: templates/account.php:431, templates/debug.php:347, templates/debug.php:491, templates/debug.php:602, templates/debug.php:666, templates/account/partials/site.php:228
+msgid "Public Key"
+msgstr "Avalik võti"
+
+#: templates/account.php:437, templates/debug.php:492, templates/debug.php:603, templates/debug.php:667, templates/account/partials/site.php:241
+msgid "Secret Key"
+msgstr "Salajane võti"
+
+#: templates/account.php:440
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "Salajane võti puudub"
+
+#: templates/account.php:494, templates/debug.php:724, templates/account/partials/site.php:262
+msgid "License Key"
+msgstr "Litsentsi võti"
+
+#: templates/account.php:467, templates/account/partials/site.php:122, templates/account/partials/site.php:120
+msgid "Trial"
+msgstr "Prooviversioon"
+
+#: templates/account.php:525
+msgid "Join the Beta program"
+msgstr "Liitu beetaprogrammiga"
+
+#: templates/account.php:531
+msgid "not verified"
+msgstr "kinnitamata"
+
+#: templates/account.php:600
+msgid "Free version"
+msgstr "Tasuta versioon"
+
+#: templates/account.php:598
+msgid "Premium version"
+msgstr "Premium versioon"
+
+#: templates/account.php:540, templates/account/partials/addon.php:195
+msgid "Expired"
+msgstr "Aegunud"
+
+#: templates/account.php:612
+msgid "Verify Email"
+msgstr "Kinnita e-post"
+
+#: templates/account.php:689, templates/forms/user-change.php:27
+msgid "Change User"
+msgstr "Muuda kasutajat"
+
+#: templates/account.php:676
+msgid "What is your %s?"
+msgstr "Mis on teie %s?"
+
+#: templates/account.php:684, templates/account/billing.php:21
+msgctxt "verb"
+msgid "Edit"
+msgstr "Muuda"
+
+#: templates/account.php:660, templates/account.php:923, templates/account/partials/site.php:250, templates/account/partials/site.php:272
+msgctxt "verb"
+msgid "Show"
+msgstr "Näita"
+
+#: templates/account.php:626
+msgid "Download %s Version"
+msgstr "Laadi alla %s versioon"
+
+#: templates/account.php:642
+msgid "Download Paid Version"
+msgstr "Laadi alla tasuline versioon"
+
+#: templates/account.php:713
+msgid "Sites"
+msgstr "Saidid"
+
+#: templates/account.php:726
+msgid "Search by address"
+msgstr "Otsi aadressi järgi"
+
+#: templates/account.php:735, templates/debug.php:485
+msgid "Address"
+msgstr "Aadress"
+
+#: templates/account.php:736
+msgid "License"
+msgstr "Litsents"
+
+#: templates/account.php:737
+msgid "Plan"
+msgstr "Plaan"
+
+#: templates/account.php:788
+msgctxt "as software license"
+msgid "License"
+msgstr "Litsents"
+
+#: templates/account.php:917
+msgctxt "verb"
+msgid "Hide"
+msgstr "Peida"
+
+#: templates/account.php:939, templates/forms/data-debug-mode.php:31, templates/forms/deactivation/form.php:358, templates/forms/deactivation/form.php:389
+msgid "Processing"
+msgstr "Töötlemine"
+
+#: templates/account.php:942
+msgid "Get updates for bleeding edge Beta versions of %s."
+msgstr "Hangi uuendusi %s uusimate beetaversioonide jaoks."
+
+#: templates/account.php:1000
+msgid "Cancelling %s"
+msgstr "%s tühistamine"
+
+#: templates/account.php:1000, templates/account.php:1017, templates/forms/subscription-cancellation.php:27, templates/forms/deactivation/form.php:178
+msgid "trial"
+msgstr "prooviversioon"
+
+#: templates/account.php:1015, templates/forms/deactivation/form.php:195
+msgid "Cancelling %s..."
+msgstr "%s tühistamine..."
+
+#: templates/account.php:1018, templates/forms/subscription-cancellation.php:28, templates/forms/deactivation/form.php:179
+msgid "subscription"
+msgstr "tellimus"
+
+#: templates/account.php:1032
+msgid "Deactivating your license will block all premium features, but will enable activating the license on another site. Are you sure you want to proceed?"
+msgstr "Litsentsi deaktiveerimine blokeerib kõik premium-funktsioonid, kuid võimaldab litsentsi aktiveerida teisel saidil. Kas olete kindel, et soovite jätkata?"
+
+#: templates/account.php:1106
+msgid "Disabling white-label mode"
+msgstr "Valge märgistuse režiimi väljalülitamine"
+
+#: templates/account.php:1107
+msgid "Enabling white-label mode"
+msgstr "Valge märgistuse režiimi sisselülitamine"
+
+#: templates/add-ons.php:38
+msgid "View details"
+msgstr "Vaata üksikasju"
+
+#: templates/add-ons.php:48
+msgid "Add Ons for %s"
+msgstr "Lisandmoodulid %s jaoks"
+
+#: templates/add-ons.php:58
+msgid "We couldn't load the add-ons list. It's probably an issue on our side, please try to come back in few minutes."
+msgstr "Me ei saanud lisandmoodulite nimekirja laadida. Tõenäoliselt on tegemist probleemiga meie poolel, palun proovige mõne minuti pärast uuesti."
+
+#: templates/add-ons.php:229
+msgctxt "active add-on"
+msgid "Active"
+msgstr "Aktiivne"
+
+#: templates/add-ons.php:230
+msgctxt "installed add-on"
+msgid "Installed"
+msgstr "Installitud"
+
+#: templates/admin-notice.php:17, templates/forms/license-activation.php:245, templates/forms/resend-key.php:80
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "Loobu"
+
+#. translators: %s: Number of seconds
+#: templates/auto-installation.php:45
+msgid "%s sec"
+msgstr "%s sek"
+
+#: templates/auto-installation.php:83
+msgid "Automatic Installation"
+msgstr "Automaatne installimine"
+
+#: templates/auto-installation.php:93
+msgid "An automated download and installation of %s (paid version) from %s will start in %s. If you would like to do it manually - click the cancellation button now."
+msgstr "Automaatne %s (tasuline versioon) allalaadimine ja installimine %s-st algab %s pärast. Kui soovite seda käsitsi teha, klõpsake kohe tühistamise nuppu."
+
+#: templates/auto-installation.php:104
+msgid "The installation process has started and may take a few minutes to complete. Please wait until it is done - do not refresh this page."
+msgstr "Installimine on alanud ja võib võtta mõne minuti. Palun oodake, kuni see on lõppenud - ärge värskendage seda lehte."
+
+#: templates/auto-installation.php:109
+msgid "Cancel Installation"
+msgstr "Tühista installimine"
+
+#. translators: %s: name (e.g. Hey John,)
+#: templates/connect.php:118
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "Tere %s,"
+
+#. translators: %1$s: plugin name (e.g., "Awesome Plugin"); %2$s: version (e.g., "1.2.3")
+#: templates/connect.php:185
+msgid "Thank you for updating to %1$s v%2$s!"
+msgstr "Täname, et uuendasite versioonile %1$s v%2$s!"
+
+#: templates/connect.php:177
+msgid "Never miss an important update"
+msgstr "Ärge jääge kunagi olulisest uuendusest ilma"
+
+#: templates/connect.php:195
+msgid "Allow & Continue"
+msgstr "Luba ja jätka"
+
+#. translators: %s: module type (plugin, theme, or add-on)
+#: templates/connect.php:235
+msgid "We have introduced this opt-in so you never miss an important update and help us make the %s more compatible with your site and better at doing what you need it to."
+msgstr "Oleme selle nõusoleku lisanud, et te ei jääks kunagi olulisest uuendusest ilma ja aitaksite meil muuta %s teie saidiga ühilduvamaks ja teie vajadustele paremini vastavaks."
+
+#: templates/connect.php:237
+msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info."
+msgstr "Nõustuge e-posti teel saama teateid turvalisuse ja funktsioonide uuenduste, hariva sisu ja aeg-ajalt pakkumiste kohta ning jagama mõningaid põhilisi WordPressi keskkonna andmeid."
+
+#: templates/connect.php:240
+msgid "If you skip this, that's okay! %1$s will still work just fine."
+msgstr "Kui jätate selle vahele, pole hullu! %1$s töötab endiselt hästi."
+
+#: templates/connect.php:226
+msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info. This will help us make the %s more compatible with your site and better at doing what you need it to."
+msgstr "Nõustuge e-posti teel saama teateid turvalisuse ja funktsioonide uuenduste, hariva sisu ja aeg-ajalt pakkumiste kohta ning jagama mõningaid põhilisi WordPressi keskkonna andmeid. See aitab meil muuta %s teie saidiga ühilduvamaks ja teie vajadustele paremini vastavaks."
+
+#: templates/connect.php:215
+msgid "Welcome to %s! To get started, please enter your license key:"
+msgstr "Tere tulemast %s! Alustamiseks sisestage oma litsentsivõti:"
+
+#: templates/connect.php:199
+msgid "Re-send activation email"
+msgstr "Saada aktiveerimise e-kiri uuesti"
+
+#: templates/connect.php:203
+msgid "Thanks %s!"
+msgstr "Aitäh %s!"
+
+#: templates/connect.php:204
+msgid "You should receive a confirmation email for %s to your mailbox at %s. Please make sure you click the button in that email to %s."
+msgstr "Peaksite saama kinnituskirja %s kohta oma postkasti aadressil %s. Palun klõpsake kindlasti selles e-kirjas olevat nuppu, et %s."
+
+#: templates/connect.php:270
+msgid "We're excited to introduce the Freemius network-level integration."
+msgstr "Meil on hea meel tutvustada Freemiuse võrgutaseme integratsiooni."
+
+#: templates/connect.php:284
+msgid "During the update process we detected %s site(s) in the network that are still pending your attention."
+msgstr "Uuendusprotsessi käigus tuvastasime võrgus %s saiti, mis ootavad endiselt teie tähelepanu."
+
+#: templates/connect.php:273
+msgid "During the update process we detected %d site(s) that are still pending license activation."
+msgstr "Uuendusprotsessi käigus tuvastasime %d saiti, mis ootavad endiselt litsentsi aktiveerimist."
+
+#: templates/connect.php:275
+msgid "If you'd like to use the %s on those sites, please enter your license key below and click the activation button."
+msgstr "Kui soovite nendel saitidel kasutada %s, sisestage allpool oma litsentsivõti ja klõpsake aktiveerimise nuppu."
+
+#: templates/connect.php:277
+msgid "%s's paid features"
+msgstr "%s tasulised funktsioonid"
+
+#: templates/connect.php:282
+msgid "Alternatively, you can skip it for now and activate the license later, in your %s's network-level Account page."
+msgstr "Teise võimalusena võite selle praegu vahele jätta ja aktiveerida litsentsi hiljem oma %s võrgutaseme konto lehel."
+
+#: templates/connect.php:293, templates/forms/data-debug-mode.php:35, templates/forms/license-activation.php:42
+msgid "License key"
+msgstr "Litsentsivõti"
+
+#: templates/connect.php:296, templates/forms/license-activation.php:22
+msgid "Can't find your license key?"
+msgstr "Ei leia oma litsentsivõtit?"
+
+#: templates/connect.php:340
+msgid "A user has not yet been associated with the license, which is necessary to prevent unauthorized activation. To assign the license to your user, you agree to share your WordPress user's full name and email address."
+msgstr "Litsentsiga pole veel seotud kasutajat, mis on vajalik volitamata aktiveerimise vältimiseks. Litsentsi oma kasutajale määramiseks nõustute jagama oma WordPressi kasutaja täisnime ja e-posti aadressi."
+
+#: templates/connect.php:362, templates/connect.php:692, templates/forms/deactivation/retry-skip.php:20
+msgctxt "verb"
+msgid "Skip"
+msgstr "Jäta vahele"
+
+#: templates/connect.php:365
+msgid "Delegate to Site Admins"
+msgstr "Delegeeri saidi administraatoritele"
+
+#: templates/connect.php:365
+msgid "If you click it, this decision will be delegated to the sites administrators."
+msgstr "Kui klõpsate sellel, delegeeritakse see otsus saitide administraatoritele."
+
+#: templates/connect.php:394
+msgid "License issues?"
+msgstr "Probleemid litsentsiga?"
+
+#: templates/connect.php:423
+msgid "This will allow %s to"
+msgstr "See võimaldab %s-l"
+
+#: templates/connect.php:418
+msgid "For delivery of security & feature updates, and license management, %s needs to"
+msgstr "Turvalisuse ja funktsioonide uuenduste edastamiseks ning litsentside haldamiseks peab %s"
+
+#: templates/connect.php:441
+msgid "Have a license key?"
+msgstr "Kas teil on litsentsivõti?"
+
+#: templates/connect.php:438
+msgid "Don't have a license key?"
+msgstr "Kas teil pole litsentsivõtit?"
+
+#: templates/connect.php:449
+msgid "Freemius is our licensing and software updates engine"
+msgstr "Freemius on meie litsentsimis- ja tarkvarauuenduste mootor"
+
+#: templates/connect.php:452
+msgid "Privacy Policy"
+msgstr "Privaatsuspoliitika"
+
+#: templates/connect.php:457
+msgid "Terms of Service"
+msgstr "Teenusetingimused"
+
+#: templates/connect.php:455
+msgid "License Agreement"
+msgstr "Litsentsileping"
+
+#: templates/connect.php:879
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "E-kirja saatmine"
+
+#: templates/connect.php:880
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "Aktiveerimine"
+
+#: templates/contact.php:63
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/debug.php:17
+msgctxt "as turned off"
+msgid "Off"
+msgstr "Väljas"
+
+#: templates/debug.php:18
+msgctxt "as turned on"
+msgid "On"
+msgstr "Sees"
+
+#: templates/debug.php:29, includes/managers/class-fs-debug-manager.php:26
+msgid "Freemius Debug"
+msgstr "Freemiuse silumine"
+
+#: templates/debug.php:29
+msgid "SDK"
+msgstr "SDK"
+
+#: templates/debug.php:32
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "Silumine"
+
+#: templates/debug.php:38
+msgctxt "timer for auto-disabling debug"
+msgid "Auto off in:"
+msgstr "Automaatne väljalülitus:"
+
+#: templates/debug.php:117, templates/debug.php:352, templates/debug.php:493, templates/debug.php:668
+msgid "Actions"
+msgstr "Tegevused"
+
+#: templates/debug.php:127
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "Kas oled kindel, et soovid kustutada kõik Freemiuse andmed?"
+
+#: templates/debug.php:127
+msgid "Delete All Accounts"
+msgstr "Kustuta kõik kontod"
+
+#: templates/debug.php:134
+msgid "Clear API Cache"
+msgstr "Tühjenda API vahemälu"
+
+#: templates/debug.php:142
+msgid "Clear Updates Transients"
+msgstr "Tühjenda uuenduste ajutised andmed"
+
+#: templates/debug.php:151
+msgid "Reset Deactivation Snoozing"
+msgstr "Lähtesta deaktiveerimise edasilükkamine"
+
+#: templates/debug.php:159
+msgid "Sync Data From Server"
+msgstr "Sünkrooni andmed serverist"
+
+#: templates/debug.php:168
+msgid "Migrate Options to Network"
+msgstr "Migreerige valikud võrku"
+
+#: templates/debug.php:173
+msgid "Load DB Option"
+msgstr "Laadi andmebaasi valik"
+
+#: templates/debug.php:176
+msgid "Set DB Option"
+msgstr "Määra andmebaasi valik"
+
+#: templates/debug.php:274
+msgid "Key"
+msgstr "Võti"
+
+#: templates/debug.php:275
+msgid "Value"
+msgstr "Väärtus"
+
+#: templates/debug.php:295
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK versioonid"
+
+#: templates/debug.php:301
+msgid "SDK Path"
+msgstr "SDK tee"
+
+#: templates/debug.php:302, templates/debug.php:346
+msgid "Module Path"
+msgstr "Mooduli tee"
+
+#: templates/debug.php:303
+msgid "Is Active"
+msgstr "On aktiivne"
+
+#: templates/debug.php:335, templates/debug/plugins-themes-sync.php:35
+msgid "Plugins"
+msgstr "Pluginad"
+
+#: templates/debug.php:335, templates/debug/plugins-themes-sync.php:56
+msgid "Themes"
+msgstr "Teemad"
+
+#: templates/debug.php:341, templates/debug.php:487, templates/debug.php:600, templates/debug/scheduled-crons.php:91
+msgid "Slug"
+msgstr "Slug"
+
+#: templates/debug.php:343, templates/debug.php:599
+msgid "Title"
+msgstr "Pealkiri"
+
+#: templates/debug.php:344
+msgctxt "as application program interface"
+msgid "API"
+msgstr "API"
+
+#: templates/debug.php:345
+msgid "Freemius State"
+msgstr "Freemiuse olek"
+
+#: templates/debug.php:349
+msgid "Network Blog"
+msgstr "Võrgu blogi"
+
+#: templates/debug.php:350
+msgid "Network User"
+msgstr "Võrgu kasutaja"
+
+#: templates/debug.php:396
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "Ühendatud"
+
+#: templates/debug.php:398
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "Blokeeritud"
+
+#: templates/debug.php:399
+msgctxt "API connectivity state is unknown"
+msgid "Unknown"
+msgstr "Tundmatu"
+
+#: templates/debug.php:435
+msgid "Simulate Trial Promotion"
+msgstr "Simuleeri prooviperioodi reklaami"
+
+#: templates/debug.php:447
+msgid "Simulate Network Upgrade"
+msgstr "Simuleeri võrgu uuendust"
+
+#. translators: %s: 'plugin' or 'theme'
+#: templates/debug.php:475
+msgid "%s Installs"
+msgstr "%s paigaldust"
+
+#: templates/debug.php:477
+msgctxt "like websites"
+msgid "Sites"
+msgstr "Saidid"
+
+#: templates/debug.php:484, templates/account/partials/site.php:156
+msgid "Blog ID"
+msgstr "Blogi ID"
+
+#: templates/debug.php:489
+msgid "License ID"
+msgstr "Litsentsi ID"
+
+#: templates/debug.php:575, templates/debug.php:691, templates/account/partials/addon.php:440
+msgctxt "verb"
+msgid "Delete"
+msgstr "Kustuta"
+
+#: templates/debug.php:593
+msgid "Add Ons of module %s"
+msgstr "Mooduli %s lisandmoodulid"
+
+#: templates/debug.php:657
+msgid "Users"
+msgstr "Kasutajad"
+
+#: templates/debug.php:665
+msgid "Verified"
+msgstr "Kinnitatud"
+
+#: templates/debug.php:711
+msgid "%s Licenses"
+msgstr "%s litsentsi"
+
+#: templates/debug.php:717
+msgid "Plugin ID"
+msgstr "Plugina ID"
+
+#: templates/debug.php:719
+msgid "Plan ID"
+msgstr "Plaani ID"
+
+#: templates/debug.php:720
+msgid "Quota"
+msgstr "Kvoot"
+
+#: templates/debug.php:721
+msgid "Activated"
+msgstr "Aktiveeritud"
+
+#: templates/debug.php:722
+msgid "Blocking"
+msgstr "Blokeerimine"
+
+#: templates/debug.php:723, templates/debug.php:798, templates/debug/logger.php:22
+msgid "Type"
+msgstr "Tüüp"
+
+#: templates/debug.php:725
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "Aegumiskuupäev"
+
+#: templates/debug.php:757
+msgid "Debug Log"
+msgstr "Silumislogi"
+
+#: templates/debug.php:761
+msgid "All Types"
+msgstr "Kõik tüübid"
+
+#: templates/debug.php:768
+msgid "All Requests"
+msgstr "Kõik päringud"
+
+#: templates/debug.php:773, templates/debug.php:802, templates/debug/logger.php:25
+msgid "File"
+msgstr "Fail"
+
+#: templates/debug.php:774, templates/debug.php:800, templates/debug/logger.php:23
+msgid "Function"
+msgstr "Funktsioon"
+
+#: templates/debug.php:775
+msgid "Process ID"
+msgstr "Protsessi ID"
+
+#: templates/debug.php:776
+msgid "Logger"
+msgstr "Logija"
+
+#: templates/debug.php:777, templates/debug.php:801, templates/debug/logger.php:24
+msgid "Message"
+msgstr "Sõnum"
+
+#: templates/debug.php:779
+msgid "Filter"
+msgstr "Filter"
+
+#: templates/debug.php:787
+msgid "Download"
+msgstr "Laadi alla"
+
+#: templates/debug.php:803, templates/debug/logger.php:26
+msgid "Timestamp"
+msgstr "Ajatempel"
+
+#. translators: %s: Page name
+#: templates/secure-https-header.php:28
+msgid "Secure HTTPS %s page, running from an external domain"
+msgstr "Turvaline HTTPS %s leht, mis töötab väliselt domeenilt"
+
+#: includes/customizer/class-fs-customizer-support-section.php:55, templates/plugin-info/features.php:43
+msgid "Support"
+msgstr "Tugi"
+
+#: includes/debug/class-fs-debug-bar-panel.php:51, templates/debug/api-calls.php:54, templates/debug/logger.php:62
+msgctxt "milliseconds"
+msgid "ms"
+msgstr "ms"
+
+#: includes/debug/debug-bar-start.php:41
+msgid "Freemius API"
+msgstr "Freemiuse API"
+
+#: includes/debug/debug-bar-start.php:42
+msgid "Requests"
+msgstr "Päringud"
+
+#: includes/managers/class-fs-clone-manager.php:849
+msgid "Invalid clone resolution action."
+msgstr "Vigane klooni lahendamise toiming."
+
+#: includes/managers/class-fs-clone-manager.php:1034
+msgid "products"
+msgstr "toodet"
+
+#: includes/managers/class-fs-clone-manager.php:1221
+msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of %3$s:%1$s"
+msgstr "Allolevad tooted on pandud turvarežiimi, kuna märkasime, et %2$s on täpne koopia %3$s:%1$s"
+
+#: includes/managers/class-fs-clone-manager.php:1222
+msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of these sites:%3$s%1$s"
+msgstr "Allolevad tooted on pandud turvarežiimi, kuna märkasime, et %2$s on täpne koopia nendest saitidest:%3$s%1$s"
+
+#: includes/managers/class-fs-clone-manager.php:1215
+msgid "%1$s has been placed into safe mode because we noticed that %2$s is an exact copy of %3$s."
+msgstr "%1$s on pandud turvarežiimi, kuna märkasime, et %2$s on täpne koopia %3$s."
+
+#: includes/managers/class-fs-clone-manager.php:1248
+msgid "the above-mentioned sites"
+msgstr "ülalmainitud saidid"
+
+#: includes/managers/class-fs-clone-manager.php:1261
+msgid "Is %2$s a duplicate of %4$s?"
+msgstr "Kas %2$s on %4$s duplikaat?"
+
+#: includes/managers/class-fs-clone-manager.php:1262
+msgid "Yes, %2$s is a duplicate of %4$s for the purpose of testing, staging, or development."
+msgstr "Jah, %2$s on %4$s duplikaat testimise, lavastamise või arenduse eesmärgil."
+
+#: includes/managers/class-fs-clone-manager.php:1267
+msgid "Long-Term Duplicate"
+msgstr "Pikaajaline duplikaat"
+
+#: includes/managers/class-fs-clone-manager.php:1272
+msgid "Duplicate Website"
+msgstr "Duplikaat veebisait"
+
+#: includes/managers/class-fs-clone-manager.php:1278
+msgid "Is %2$s the new home of %4$s?"
+msgstr "Kas %2$s on %4$s uus asukoht?"
+
+#: includes/managers/class-fs-clone-manager.php:1280
+msgid "Yes, %%2$s is replacing %%4$s. I would like to migrate my %s from %%4$s to %%2$s."
+msgstr "Jah, %%2$s asendab %%4$s. Soovin migreerida oma %s %%4$s-st %%2$s-le."
+
+#: includes/managers/class-fs-clone-manager.php:1281, templates/forms/subscription-cancellation.php:52
+msgid "license"
+msgstr "litsentsi"
+
+#: includes/managers/class-fs-clone-manager.php:1281
+msgid "data"
+msgstr "andmed"
+
+#: includes/managers/class-fs-clone-manager.php:1287
+msgid "Migrate License"
+msgstr "Migreerige litsents"
+
+#: includes/managers/class-fs-clone-manager.php:1288
+msgid "Migrate"
+msgstr "Migreerige"
+
+#: includes/managers/class-fs-clone-manager.php:1294
+msgid "Is %2$s a new website?"
+msgstr "Kas %2$s on uus veebisait?"
+
+#: includes/managers/class-fs-clone-manager.php:1295
+msgid "Yes, %2$s is a new and different website that is separate from %4$s."
+msgstr "Jah, %2$s on uus ja erinev veebisait, mis on eraldiseisev %4$s-st."
+
+#: includes/managers/class-fs-clone-manager.php:1297
+msgid "It requires license activation."
+msgstr "See vajab litsentsi aktiveerimist."
+
+#: includes/managers/class-fs-clone-manager.php:1304
+msgid "New Website"
+msgstr "Uus veebisait"
+
+#: includes/managers/class-fs-clone-manager.php:1329
+msgctxt "Clone resolution admin notice products list label"
+msgid "Products"
+msgstr "Tooted"
+
+#: includes/managers/class-fs-clone-manager.php:1418
+msgid "You marked this website, %s, as a temporary duplicate of %s."
+msgstr "Märkisid selle veebisaidi, %s, ajutiseks duplikaadiks %s."
+
+#: includes/managers/class-fs-clone-manager.php:1419
+msgid "You marked this website, %s, as a temporary duplicate of these sites"
+msgstr "Märkisid selle veebisaidi, %s, ajutiseks duplikaadiks nendele saitidele"
+
+#: includes/managers/class-fs-clone-manager.php:1433
+msgid "%s automatic security & feature updates and paid functionality will keep working without interruptions until %s (or when your license expires, whatever comes first)."
+msgstr "%s automaatsed turvalisuse ja funktsioonide uuendused ning tasulised funktsioonid jätkavad tööd ilma katkestusteta kuni %s (või kuni teie litsents aegub, kumb iganes enne juhtub)."
+
+#: includes/managers/class-fs-clone-manager.php:1436
+msgctxt "\"The <product_label>\", e.g.: \"The plugin\""
+msgid "The %s's"
+msgstr "%s"
+
+#: includes/managers/class-fs-clone-manager.php:1439
+msgid "The following products'"
+msgstr "Järgmiste toodete"
+
+#: includes/managers/class-fs-clone-manager.php:1447
+msgid "If this is a long term duplicate, to keep automatic updates and paid functionality after %s, please %s."
+msgstr "Kui see on pikaajaline duplikaat, siis automaatsete uuenduste ja tasuliste funktsioonide säilitamiseks pärast %s, palun %s."
+
+#: includes/managers/class-fs-clone-manager.php:1449
+msgid "activate a license here"
+msgstr "aktiveerige siin litsents"
+
+#: includes/managers/class-fs-permission-manager.php:191
+msgid "View Basic Website Info"
+msgstr "Vaata põhilist veebisaidi infot"
+
+#: includes/managers/class-fs-permission-manager.php:192
+msgid "Homepage URL & title, WP & PHP versions, and site language"
+msgstr "Kodulehe URL ja pealkiri, WP ja PHP versioonid ning saidi keel"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:195
+msgid "To provide additional functionality that's relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the %s should be translated and tailored to."
+msgstr "Et pakkuda teie veebisaidile asjakohast lisafunktsionaalsust, vältida WordPressi või PHP versiooni ühilduvusprobleeme, mis võivad teie veebisaidi rikkuda, ning tuvastada, millisesse keelde ja piirkonda %s tuleks tõlkida ja kohandada."
+
+#: includes/managers/class-fs-permission-manager.php:207
+msgid "View Basic %s Info"
+msgstr "Vaata põhilist %s infot"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:210
+msgid "Current %s & SDK versions, and if active or uninstalled"
+msgstr "Praegused %s ja SDK versioonid ning kas on aktiivne või desinstallitud"
+
+#: includes/managers/class-fs-permission-manager.php:261
+msgid "View License Essentials"
+msgstr "Vaata litsentsi põhiandmeid"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:272
+msgid "To let you manage & control where the license is activated and ensure %s security & feature updates are only delivered to websites you authorize."
+msgstr "Et võimaldada teil hallata ja kontrollida, kus litsents on aktiveeritud, ning tagada, et %s turvalisuse ja funktsioonide uuendused edastatakse ainult teie poolt volitatud veebisaitidele."
+
+#: includes/managers/class-fs-permission-manager.php:284
+msgid "View %s State"
+msgstr "Vaata %s olekut"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:287
+msgid "Is active, deactivated, or uninstalled"
+msgstr "On aktiivne, deaktiveeritud või desinstallitud"
+
+#: includes/managers/class-fs-permission-manager.php:290
+msgid "So you can reuse the license when the %s is no longer active."
+msgstr "Et saaksite litsentsi uuesti kasutada, kui %s pole enam aktiivne."
+
+#: includes/managers/class-fs-permission-manager.php:326
+msgid "View Diagnostic Info"
+msgstr "Vaata diagnostilist infot"
+
+#: includes/managers/class-fs-permission-manager.php:326, includes/managers/class-fs-permission-manager.php:363
+msgid "optional"
+msgstr "valikuline"
+
+#: includes/managers/class-fs-permission-manager.php:327
+msgid "WordPress & PHP versions, site language & title"
+msgstr "WordPressi ja PHP versioonid, saidi keel ja pealkiri"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:330
+msgid "To avoid breaking your website due to WordPress or PHP version incompatibilities, and recognize which languages & regions the %s should be translated and tailored to."
+msgstr "Et vältida teie veebisaidi rikkumist WordPressi või PHP versiooni ühilduvusprobleemide tõttu ning tuvastada, millisesse keelde ja piirkonda %s tuleks tõlkida ja kohandada."
+
+#: includes/managers/class-fs-permission-manager.php:363
+msgid "View Plugins & Themes List"
+msgstr "Vaata pluginate ja teemade nimekirja"
+
+#: includes/managers/class-fs-permission-manager.php:364
+msgid "Names, slugs, versions, and if active or not"
+msgstr "Nimed, slugid, versioonid ja kas on aktiivsed või mitte"
+
+#: includes/managers/class-fs-permission-manager.php:365
+msgid "To ensure compatibility and avoid conflicts with your installed plugins and themes."
+msgstr "Et tagada ühilduvus ja vältida konflikte teie paigaldatud pluginate ja teemadega."
+
+#: includes/managers/class-fs-permission-manager.php:382
+msgid "View Basic Profile Info"
+msgstr "Vaata põhilist profiili infot"
+
+#: includes/managers/class-fs-permission-manager.php:383
+msgid "Your WordPress user's: first & last name, and email address"
+msgstr "Teie WordPressi kasutaja: ees- ja perekonnanimi ning e-posti aadress"
+
+#: includes/managers/class-fs-permission-manager.php:384
+msgid "Never miss important updates, get security warnings before they become public knowledge, and receive notifications about special offers and awesome new features."
+msgstr "Ära jää ilma olulistest uuendustest, saa turvahoiatusi enne, kui need avalikuks saavad, ning võta vastu teateid eripakkumiste ja lahedate uute funktsioonide kohta."
+
+#: includes/managers/class-fs-permission-manager.php:405
+msgid "Newsletter"
+msgstr "Uudiskiri"
+
+#: includes/managers/class-fs-permission-manager.php:406
+msgid "Updates, announcements, marketing, no spam"
+msgstr "Uuendused, teadaanded, turundus, ilma rämpspostita"
+
+#: templates/account/billing.php:22
+msgctxt "verb"
+msgid "Update"
+msgstr "Uuenda"
+
+#: templates/account/billing.php:33
+msgid "Billing"
+msgstr "Arveldamine"
+
+#: templates/account/billing.php:38, templates/account/billing.php:38
+msgid "Business name"
+msgstr "Ettevõtte nimi"
+
+#: templates/account/billing.php:39, templates/account/billing.php:39
+msgid "Tax / VAT ID"
+msgstr "Maksu-/käibemaksu ID"
+
+#: templates/account/billing.php:42, templates/account/billing.php:42, templates/account/billing.php:43, templates/account/billing.php:43
+msgid "Address Line %d"
+msgstr "Aadressirida %d"
+
+#: templates/account/billing.php:46, templates/account/billing.php:46
+msgid "City"
+msgstr "Linn"
+
+#: templates/account/billing.php:46, templates/account/billing.php:46
+msgid "Town"
+msgstr "Asula"
+
+#: templates/account/billing.php:47, templates/account/billing.php:47
+msgid "ZIP / Postal Code"
+msgstr "Sihtnumber"
+
+#: templates/account/billing.php:302
+msgid "Country"
+msgstr "Riik"
+
+#: templates/account/billing.php:304
+msgid "Select Country"
+msgstr "Vali riik"
+
+#: templates/account/billing.php:311, templates/account/billing.php:312
+msgid "State"
+msgstr "Osariik"
+
+#: templates/account/billing.php:311, templates/account/billing.php:312
+msgid "Province"
+msgstr "Maakond"
+
+#: templates/account/payments.php:29
+msgid "Payments"
+msgstr "Maksed"
+
+#: templates/account/payments.php:36
+msgid "Date"
+msgstr "Kuupäev"
+
+#: templates/account/payments.php:37
+msgid "Amount"
+msgstr "Summa"
+
+#: templates/account/payments.php:38, templates/account/payments.php:50
+msgid "Invoice"
+msgstr "Arve"
+
+#: templates/checkout/frame.php:77
+msgid "Checkout"
+msgstr "Kassa"
+
+#: templates/checkout/frame.php:77
+msgid "PCI compliant"
+msgstr "PCI nõuetele vastav"
+
+#: templates/checkout/process-redirect.php:41
+msgid "Processing, please wait and do not close or refresh this window..."
+msgstr "Töötlemine, palun oodake ja ärge sulgege ega värskendage seda akent..."
+
+#: templates/checkout/redirect.php:87
+msgid "Redirecting, please <a href=\"%1$s\">click here</a> if you're stuck..."
+msgstr "Ümbersuunamine, palun <a href=\"%1$s\">kliki siia</a>, kui sa ei jõua edasi..."
+
+#: templates/connect/permissions-group.php:31, templates/forms/optout.php:26, templates/js/permissions.php:78
+msgctxt "verb"
+msgid "Opt Out"
+msgstr "Loobumine"
+
+#: templates/connect/permissions-group.php:32, templates/js/permissions.php:77
+msgctxt "verb"
+msgid "Opt In"
+msgstr "Valige sisse"
+
+#: templates/debug/api-calls.php:56
+msgid "API"
+msgstr "API"
+
+#: templates/debug/api-calls.php:68
+msgid "Method"
+msgstr "Meetod"
+
+#: templates/debug/api-calls.php:69
+msgid "Code"
+msgstr "Kood"
+
+#: templates/debug/api-calls.php:70
+msgid "Length"
+msgstr "Pikkus"
+
+#: templates/debug/api-calls.php:71
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "Tee"
+
+#: templates/debug/api-calls.php:73
+msgid "Body"
+msgstr "Sisu"
+
+#: templates/debug/api-calls.php:75
+msgid "Result"
+msgstr "Tulemus"
+
+#: templates/debug/api-calls.php:76
+msgid "Start"
+msgstr "Alusta"
+
+#: templates/debug/api-calls.php:77
+msgid "End"
+msgstr "Lõpeta"
+
+#: templates/debug/logger.php:15
+msgid "Log"
+msgstr "Logi"
+
+#. translators: %s: time period (e.g. In "2 hours")
+#: templates/debug/plugins-themes-sync.php:18, templates/debug/scheduled-crons.php:102
+msgid "In %s"
+msgstr "%s jooksul"
+
+#. translators: %s: time period (e.g. "2 hours" ago)
+#: templates/debug/plugins-themes-sync.php:20, templates/debug/scheduled-crons.php:104
+msgid "%s ago"
+msgstr "%s tagasi"
+
+#: templates/debug/plugins-themes-sync.php:21, templates/debug/scheduled-crons.php:76
+msgctxt "seconds"
+msgid "sec"
+msgstr "sek"
+
+#: templates/debug/plugins-themes-sync.php:23
+msgid "Plugins & Themes Sync"
+msgstr "Pluginate ja teemade sünkroonimine"
+
+#: templates/debug/plugins-themes-sync.php:28
+msgid "Total"
+msgstr "Kokku"
+
+#: templates/debug/plugins-themes-sync.php:29, templates/debug/scheduled-crons.php:95
+msgid "Last"
+msgstr "Viimane"
+
+#: templates/debug/scheduled-crons.php:86, templates/debug/scheduled-crons.php:83
+msgid "Scheduled Crons"
+msgstr "Planeeritud cronid"
+
+#: templates/debug/scheduled-crons.php:92
+msgid "Module"
+msgstr "Moodul"
+
+#: templates/debug/scheduled-crons.php:93
+msgid "Module Type"
+msgstr "Mooduli tüüp"
+
+#: templates/debug/scheduled-crons.php:94
+msgid "Cron Type"
+msgstr "Croni tüüp"
+
+#: templates/debug/scheduled-crons.php:96
+msgid "Next"
+msgstr "Järgmine"
+
+#: templates/forms/affiliation.php:86
+msgid "Non-expiring"
+msgstr "Aegumatu"
+
+#: templates/forms/affiliation.php:89
+msgid "Apply to become an affiliate"
+msgstr "Esita taotlus partneriks saamiseks"
+
+#: templates/forms/affiliation.php:137
+msgid "Due to violation of our affiliation terms, we decided to temporarily block your affiliation account. If you have any questions, please contact support."
+msgstr "Meie partnerlustingimuste rikkumise tõttu otsustasime teie partnerkonto ajutiselt blokeerida. Kui teil on küsimusi, võtke palun ühendust klienditoega."
+
+#: templates/forms/affiliation.php:134
+msgid "Thank you for applying for our affiliate program, unfortunately, we've decided at this point to reject your application. Please try again in 30 days."
+msgstr "Täname teid meie partnerprogrammi taotlemise eest, kuid kahjuks otsustasime praegu teie taotluse tagasi lükata. Palun proovige uuesti 30 päeva pärast."
+
+#: templates/forms/affiliation.php:131
+msgid "Your affiliation account was temporarily suspended."
+msgstr "Teie partnerkonto on ajutiselt peatatud."
+
+#: templates/forms/affiliation.php:128
+msgid "Thank you for applying for our affiliate program, we'll review your details during the next 14 days and will get back to you with further information."
+msgstr "Täname teid meie partnerprogrammi taotlemise eest. Vaatame teie andmed läbi järgmise 14 päeva jooksul ja anname teile edasist teavet."
+
+#: templates/forms/affiliation.php:113
+msgid "Your affiliate application for %s has been accepted! Log in to your affiliate area at: %s."
+msgstr "Teie partnerluse taotlus %s jaoks on vastu võetud! Logige oma partneralasse sisse aadressil: %s."
+
+#: templates/forms/affiliation.php:150
+msgid "Like the %s? Become our ambassador and earn cash ;-)"
+msgstr "Meeldib %s? Saage meie saadikuks ja teenige raha ;-)"
+
+#: templates/forms/affiliation.php:151
+msgid "Refer new customers to our %s and earn %s commission on each successful sale you refer!"
+msgstr "Soovitage uusi kliente meie %s-le ja teenige %s komisjonitasu iga eduka müügi pealt, mille te soovitate!"
+
+#: templates/forms/affiliation.php:154
+msgid "Program Summary"
+msgstr "Programmi kokkuvõte"
+
+#: templates/forms/affiliation.php:156
+msgid "%s commission when a customer purchases a new license."
+msgstr "%s komisjonitasu, kui klient ostab uue litsentsi."
+
+#: templates/forms/affiliation.php:158
+msgid "Get commission for automated subscription renewals."
+msgstr "Saage komisjonitasu automaatsete tellimuste uuendamiste eest."
+
+#: templates/forms/affiliation.php:161
+msgid "%s tracking cookie after the first visit to maximize earnings potential."
+msgstr "%s jälgimisküpsis pärast esimest külastust, et maksimeerida teenimispotentsiaali."
+
+#: templates/forms/affiliation.php:164
+msgid "Unlimited commissions."
+msgstr "Piiramatu komisjonitasu."
+
+#: templates/forms/affiliation.php:166
+msgid "%s minimum payout amount."
+msgstr "%s minimaalne väljamakse summa."
+
+#: templates/forms/affiliation.php:167
+msgid "Payouts are in USD and processed monthly via PayPal."
+msgstr "Väljamaksed tehakse USD-s ja töödeldakse igakuiselt PayPali kaudu."
+
+#: templates/forms/affiliation.php:168
+msgid "As we reserve 30 days for potential refunds, we only pay commissions that are older than 30 days."
+msgstr "Kuna me reserveerime 30 päeva võimalikeks tagasimakseteks, maksame välja ainult komisjonitasud, mis on vanemad kui 30 päeva."
+
+#: templates/forms/affiliation.php:171
+msgid "Affiliate"
+msgstr "Partner"
+
+#: templates/forms/affiliation.php:174, templates/forms/resend-key.php:23
+msgid "Email address"
+msgstr "E-posti aadress"
+
+#: templates/forms/affiliation.php:178
+msgid "Full name"
+msgstr "Täisnimi"
+
+#: templates/forms/affiliation.php:182
+msgid "PayPal account email address"
+msgstr "PayPali konto e-posti aadress"
+
+#: templates/forms/affiliation.php:186
+msgid "Where are you going to promote the %s?"
+msgstr "Kus te kavatsete %s reklaamida?"
+
+#: templates/forms/affiliation.php:188
+msgid "Enter the domain of your website or other websites from where you plan to promote the %s."
+msgstr "Sisestage oma veebisaidi domeen või muud veebisaidid, kust kavatsete %s reklaamida."
+
+#: templates/forms/affiliation.php:190
+msgid "Add another domain"
+msgstr "Lisa teine domeen"
+
+#: templates/forms/affiliation.php:194
+msgid "Extra Domains"
+msgstr "Lisakoodid"
+
+#: templates/forms/affiliation.php:195
+msgid "Extra domains where you will be marketing the product from."
+msgstr "Täiendavad domeenid, kust te toodet turundama hakkate."
+
+#: templates/forms/affiliation.php:205
+msgid "Promotion methods"
+msgstr "Reklaamimise meetodid"
+
+#: templates/forms/affiliation.php:208
+msgid "Social media (Facebook, Twitter, etc.)"
+msgstr "Sotsiaalmeedia (Facebook, Twitter jne)"
+
+#: templates/forms/affiliation.php:212
+msgid "Mobile apps"
+msgstr "Mobiilirakendused"
+
+#: templates/forms/affiliation.php:216
+msgid "Website, email, and social media statistics (optional)"
+msgstr "Veebisaidi, e-posti ja sotsiaalmeedia statistika (valikuline)"
+
+#: templates/forms/affiliation.php:219
+msgid "Please feel free to provide any relevant website or social media statistics, e.g. monthly unique site visits, number of email subscribers, followers, etc. (we will keep this information confidential)."
+msgstr "Palun esitage vabalt asjakohast veebisaidi või sotsiaalmeedia statistikat, nt igakuised unikaalsed saidi külastused, e-posti tellijate arv, jälgijate arv jne (hoiame selle teabe konfidentsiaalsena)."
+
+#: templates/forms/affiliation.php:223
+msgid "How will you promote us?"
+msgstr "Kuidas te meid reklaamite?"
+
+#: templates/forms/affiliation.php:226
+msgid "Please provide details on how you intend to promote %s (please be as specific as possible)."
+msgstr "Palun kirjeldage üksikasjalikult, kuidas kavatsete %s reklaamida (palun olge võimalikult konkreetne)."
+
+#: templates/forms/affiliation.php:238, templates/forms/resend-key.php:22, templates/forms/subscription-cancellation.php:142, templates/account/partials/disconnect-button.php:92
+msgid "Cancel"
+msgstr "Tühista"
+
+#: templates/forms/affiliation.php:240
+msgid "Become an affiliate"
+msgstr "Hakka partneriks"
+
+#: templates/forms/data-debug-mode.php:25
+msgid "Please enter the license key to enable the debug mode:"
+msgstr "Palun sisestage litsentsivõti silumisrežiimi lubamiseks:"
+
+#: templates/forms/data-debug-mode.php:27
+msgid "To enter the debug mode, please enter the secret key of the license owner (UserID = %d), which you can find in your \"My Profile\" section of your User Dashboard:"
+msgstr "Silumisrežiimi sisenemiseks sisestage litsentsiomaniku (UserID = %d) salajane võti, mille leiate oma kasutaja juhtpaneeli jaotisest „Minu profiil“:"
+
+#: templates/forms/data-debug-mode.php:32
+msgid "Submit"
+msgstr "Esita"
+
+#: templates/forms/data-debug-mode.php:36
+msgid "User key"
+msgstr "Kasutaja võti"
+
+#: templates/forms/email-address-update.php:32
+msgid "Email address update"
+msgstr "E-posti aadressi uuendamine"
+
+#: templates/forms/email-address-update.php:33, templates/forms/user-change.php:81
+msgctxt "close window"
+msgid "Dismiss"
+msgstr "Loobu"
+
+#: templates/forms/email-address-update.php:38
+msgid "Enter the new email address"
+msgstr "Sisestage uus e-posti aadress"
+
+#: templates/forms/email-address-update.php:42
+msgid "Are both %s and %s your email addresses?"
+msgstr "Kas nii %s kui ka %s on teie e-posti aadressid?"
+
+#: templates/forms/email-address-update.php:50
+msgid "Yes - both addresses are mine"
+msgstr "Jah - mõlemad aadressid on minu omad"
+
+#: templates/forms/email-address-update.php:57
+msgid "%s is my client's email address"
+msgstr "%s on minu kliendi e-posti aadress"
+
+#: templates/forms/email-address-update.php:66
+msgid "%s is my email address"
+msgstr "%s on minu e-posti aadress"
+
+#: templates/forms/email-address-update.php:75
+msgid "Would you like to merge %s into %s?"
+msgstr "Kas soovite ühendada %s %s-ga?"
+
+#: templates/forms/email-address-update.php:84
+msgid "Yes - move all my data and assets from %s to %s"
+msgstr "Jah - liiguta kõik minu andmed ja varad %s-st %s-sse"
+
+#: templates/forms/email-address-update.php:94
+msgid "No - only move this site's data to %s"
+msgstr "Ei - liiguta ainult selle saidi andmed %s-sse"
+
+#: templates/forms/email-address-update.php:292, templates/forms/email-address-update.php:298
+msgid "Update"
+msgstr "Uuenda"
+
+#: templates/forms/license-activation.php:23
+msgid "Please enter the license key that you received in the email right after the purchase:"
+msgstr "Palun sisestage litsentsivõti, mille saite e-kirjaga kohe pärast ostu:"
+
+#: templates/forms/license-activation.php:28
+msgid "Update License"
+msgstr "Uuenda litsentsi"
+
+#: templates/forms/license-activation.php:34
+msgid "The %1$s will be periodically sending essential license data to %2$s to check for security and feature updates, and verify the validity of your license."
+msgstr "%1$s saadab perioodiliselt olulisi litsentsiandmeid %2$s-le, et kontrollida turva- ja funktsioonivärskendusi ning kinnitada teie litsentsi kehtivust."
+
+#: templates/forms/license-activation.php:39
+msgid "Agree & Activate License"
+msgstr "Nõustu ja aktiveeri litsents"
+
+#: templates/forms/license-activation.php:206
+msgid "Associate with the license owner's account."
+msgstr "Seosta litsentsi omaniku kontoga."
+
+#: templates/forms/optout.php:104
+msgid "Keep automatic updates"
+msgstr "Hoia automaatsed uuendused"
+
+#: templates/forms/optout.php:44
+msgid "Communication"
+msgstr "Suhtlus"
+
+#: templates/forms/optout.php:56
+msgid "Stay Connected"
+msgstr "Jää ühendatuks"
+
+#: templates/forms/optout.php:61
+msgid "Diagnostic Info"
+msgstr "Diagnostikainfo"
+
+#: templates/forms/optout.php:77
+msgid "Keep Sharing"
+msgstr "Jätka jagamist"
+
+#: templates/forms/optout.php:82
+msgid "Extensions"
+msgstr "Laiendused"
+
+#: templates/forms/premium-versions-upgrade-handler.php:40
+msgid "There is a new version of %s available."
+msgstr "%s uus versioon on saadaval."
+
+#: templates/forms/premium-versions-upgrade-handler.php:41
+msgid " %s to access version %s security & feature updates, and support."
+msgstr " %s, et pääseda ligi versiooni %s turva- ja funktsioonivärskenduste ning toe juurde."
+
+#: templates/forms/premium-versions-upgrade-handler.php:54
+msgid "New Version Available"
+msgstr "Uus versioon saadaval"
+
+#: templates/forms/premium-versions-upgrade-handler.php:75
+msgctxt "close a window"
+msgid "Dismiss"
+msgstr "Loobu"
+
+#: templates/forms/resend-key.php:21
+msgid "Send License Key"
+msgstr "Saada litsentsivõti"
+
+#: templates/forms/resend-key.php:58
+msgid "Enter the email address you've used during the purchase and we will resend you the license key."
+msgstr "Sisestage e-posti aadress, mida kasutasite ostu ajal, ja me saadame teile litsentsivõtme uuesti."
+
+#: templates/forms/resend-key.php:59
+msgid "Enter the email address you've used for the upgrade below and we will resend you the license key."
+msgstr "Sisestage allpool e-posti aadress, mida kasutasite uuenduse jaoks, ja me saadame teile litsentsivõtme uuesti."
+
+#: templates/forms/subscription-cancellation.php:37
+msgid "Deactivating or uninstalling the %s will automatically disable the license, which you'll be able to use on another site."
+msgstr "%s deaktiveerimine või eemaldamine keelab automaatselt litsentsi, mida saate kasutada teisel saidil."
+
+#: templates/forms/subscription-cancellation.php:47
+msgid "In case you are NOT planning on using this %s on this site (or any other site) - would you like to cancel the %s as well?"
+msgstr "Juhul kui te EI plaani kasutada seda %s sellel saidil (ega ühelgi teisel saidil) - kas soovite tühistada ka %s?"
+
+#: templates/forms/subscription-cancellation.php:57
+msgid "Cancel %s - I no longer need any security & feature updates, nor support for %s because I'm not planning to use the %s on this, or any other site."
+msgstr "Tühista %s - Ma ei vaja enam turva- ega funktsioonivärskendusi ega tuge %s jaoks, kuna ma ei plaani kasutada %s sellel ega ühelgi teisel saidil."
+
+#: templates/forms/subscription-cancellation.php:68
+msgid "Don't cancel %s - I'm still interested in getting security & feature updates, as well as be able to contact support."
+msgstr "Ära tühista %s - Olen endiselt huvitatud turva- ja funktsioonivärskenduste saamisest ning võimalusest võtta ühendust toega."
+
+#: templates/forms/subscription-cancellation.php:103
+msgid "Once your license expires you will no longer be able to use the %s, unless you activate it again with a valid premium license."
+msgstr "Kui teie litsents aegub, ei saa te enam %s kasutada, kui te seda uuesti kehtiva preemiumlitsentsiga ei aktiveeri."
+
+#: templates/forms/subscription-cancellation.php:136
+msgid "Cancel %s?"
+msgstr "Tühistada %s?"
+
+#: templates/forms/subscription-cancellation.php:143
+msgid "Proceed"
+msgstr "Jätka"
+
+#: templates/forms/subscription-cancellation.php:191, templates/forms/deactivation/form.php:216
+msgid "Cancel %s & Proceed"
+msgstr "Tühista %s ja jätka"
+
+#. translators: %1$s: Number of trial days; %2$s: Plan name;
+#: templates/forms/trial-start.php:22
+msgid "You are 1-click away from starting your %1$s-day free trial of the %2$s plan."
+msgstr "Olete ühe klõpsu kaugusel %1$s-päevase %2$s plaani tasuta prooviperioodi alustamisest."
+
+#. translators: %s: Link to freemius.com
+#: templates/forms/trial-start.php:28
+msgid "For compliance with the WordPress.org guidelines, before we start the trial we ask that you opt in with your user and non-sensitive site information, allowing the %s to periodically send data to %s to check for version updates and to validate your trial."
+msgstr "WordPress.org juhiste järgimiseks palume teil enne prooviperioodi alustamist nõustuda oma kasutaja- ja mittesensitiivsete saidiandmete jagamisega, mis võimaldab %s-l perioodiliselt saata andmeid %s-le versiooniuuenduste kontrollimiseks ja teie prooviperioodi kinnitamiseks."
+
+#: templates/forms/user-change.php:26
+msgid "By changing the user, you agree to transfer the account ownership to:"
+msgstr "Kasutaja muutmisega nõustute konto omandiõiguse üleandmisega:"
+
+#: templates/forms/user-change.php:28
+msgid "I Agree - Change User"
+msgstr "Nõustun - muuda kasutajat"
+
+#: templates/forms/user-change.php:30
+msgid "Enter email address"
+msgstr "Sisesta e-posti aadress"
+
+#: templates/js/permissions.php:337, templates/js/permissions.php:485
+msgid "Saved"
+msgstr "Salvestatud"
+
+#: templates/js/style-premium-theme.php:39
+msgid "Premium"
+msgstr "Premium"
+
+#: templates/js/style-premium-theme.php:42
+msgid "Beta"
+msgstr "Beeta"
+
+#: templates/partials/network-activation.php:36
+msgid "Activate license on all pending sites."
+msgstr "Aktiveeri litsents kõigil ootel saitidel."
+
+#: templates/partials/network-activation.php:37
+msgid "Apply on all pending sites."
+msgstr "Rakenda kõigil ootel saitidel."
+
+#: templates/partials/network-activation.php:32
+msgid "Activate license on all sites in the network."
+msgstr "Aktiveeri litsents kõigil võrgustiku saitidel."
+
+#: templates/partials/network-activation.php:33
+msgid "Apply on all sites in the network."
+msgstr "Rakenda kõigil võrgustiku saitidel."
+
+#: templates/partials/network-activation.php:45, templates/partials/network-activation.php:79
+msgid "allow"
+msgstr "luba"
+
+#: templates/partials/network-activation.php:48, templates/partials/network-activation.php:82
+msgid "delegate"
+msgstr "delegeeri"
+
+#: templates/partials/network-activation.php:52, templates/partials/network-activation.php:86
+msgid "skip"
+msgstr "jäta vahele"
+
+#: templates/plugin-info/description.php:67, templates/plugin-info/screenshots.php:26
+msgid "Click to view full-size screenshot %d"
+msgstr "Klõpsake täissuuruses kuvatõmmise %d vaatamiseks"
+
+#: templates/plugin-info/features.php:56
+msgid "Unlimited Updates"
+msgstr "Piiramatud uuendused"
+
+#: templates/account/partials/activate-license-button.php:46
+msgid "Localhost"
+msgstr "Localhost"
+
+#: templates/account/partials/activate-license-button.php:50
+msgctxt "as 5 licenses left"
+msgid "%s left"
+msgstr "%s järel"
+
+#: templates/account/partials/activate-license-button.php:51
+msgid "Last license"
+msgstr "Viimane litsents"
+
+#: templates/account/partials/addon.php:200
+msgid "No expiration"
+msgstr "Aegumistähtaeg puudub"
+
+#: templates/account/partials/addon.php:190
+msgid "Cancelled"
+msgstr "Tühistatud"
+
+#. translators: %s is replaced with the website's homepage address.
+#: templates/account/partials/disconnect-button.php:78
+msgid "Disconnecting the website will permanently remove %s from your User Dashboard's account."
+msgstr "Veebisaidi lahtiühendamine eemaldab %s jäädavalt teie kasutaja juhtpaneeli kontolt."
+
+#: templates/account/partials/disconnect-button.php:74
+msgid "By disconnecting the website, previously shared diagnostic data about %1$s will be deleted and no longer visible to %2$s."
+msgstr "Veebisaidi lahtiühendamisel kustutatakse varem jagatud diagnostikaandmed %1$s kohta ja need ei ole enam %2$s-le nähtavad."
+
+#. translators: %1$s is replaced by the paid plan name, %2$s is replaced with an anchor link with the text "User Dashboard".
+#: templates/account/partials/disconnect-button.php:84
+msgid "If you wish to cancel your %1$s plan's subscription instead, please navigate to the %2$s and cancel it there."
+msgstr "Kui soovite selle asemel tühistada oma %1$s plaani tellimuse, minge palun %2$s-le ja tühistage see seal."
+
+#: templates/account/partials/disconnect-button.php:88
+msgid "Are you sure you would like to proceed with the disconnection?"
+msgstr "Kas olete kindel, et soovite lahtiühendamisega jätkata?"
+
+#: templates/account/partials/site.php:190
+msgid "Owner Name"
+msgstr "Omaniku nimi"
+
+#: templates/account/partials/site.php:202
+msgid "Owner Email"
+msgstr "Omaniku e-post"
+
+#: templates/account/partials/site.php:214
+msgid "Owner ID"
+msgstr "Omaniku ID"
+
+#: templates/account/partials/site.php:288
+msgid "Subscription"
+msgstr "Tellimus"
+
+#: templates/forms/deactivation/contact.php:19
+msgid "Sorry for the inconvenience and we are here to help if you give us a chance."
+msgstr "Vabandame ebamugavuste pärast ja oleme siin, et aidata, kui annate meile võimaluse."
+
+#: templates/forms/deactivation/contact.php:22
+msgid "Contact Support"
+msgstr "Võta ühendust toega"
+
+#: templates/forms/deactivation/form.php:65
+msgid "Anonymous feedback"
+msgstr "Anonüümne tagasiside"
+
+#: templates/forms/deactivation/form.php:71
+msgid "hour"
+msgstr "tund"
+
+#: templates/forms/deactivation/form.php:76
+msgid "hours"
+msgstr "tundi"
+
+#: templates/forms/deactivation/form.php:81, templates/forms/deactivation/form.php:86
+msgid "days"
+msgstr "päeva"
+
+#: templates/forms/deactivation/form.php:106
+msgid "Deactivate"
+msgstr "Deaktiveeri"
+
+#: templates/forms/deactivation/form.php:108
+msgid "Activate %s"
+msgstr "Aktiveeri %s"
+
+#: templates/forms/deactivation/form.php:111
+msgid "Submit & %s"
+msgstr "Esita ja %s"
+
+#: templates/forms/deactivation/form.php:130
+msgid "Quick Feedback"
+msgstr "Kiire tagasiside"
+
+#: templates/forms/deactivation/form.php:134
+msgid "If you have a moment, please let us know why you are %s"
+msgstr "Kui teil on hetk aega, palun andke meile teada, miks te %s"
+
+#: templates/forms/deactivation/form.php:134
+msgid "deactivating"
+msgstr "deaktiveerite"
+
+#: templates/forms/deactivation/form.php:134
+msgid "switching"
+msgstr "vahetate"
+
+#: templates/forms/deactivation/form.php:448
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Palun öelge meile põhjus, et saaksime paremaks muutuda."
+
+#: templates/forms/deactivation/form.php:478
+msgid "Snooze & %s"
+msgstr "Lükka edasi ja %s"
+
+#: templates/forms/deactivation/form.php:638
+msgid "Yes - %s"
+msgstr "Jah - %s"
+
+#: templates/forms/deactivation/form.php:645
+msgid "Skip & %s"
+msgstr "Jäta vahele ja %s"
+
+#: templates/forms/deactivation/retry-skip.php:21
+msgid "Click here to use the plugin anonymously"
+msgstr "Klõpsake siia, et kasutada pistikprogrammi anonüümselt"
+
+#: templates/forms/deactivation/retry-skip.php:23
+msgid "You might have missed it, but you don't have to share any data and can just %s the opt-in."
+msgstr "Võib-olla jäi teil märkamata, aga te ei pea andmeid jagama ja võite lihtsalt %s nõusolekust."
