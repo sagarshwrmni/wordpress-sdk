@@ -19,377 +19,377 @@ msgstr ""
 
 #: includes/class-freemius.php:1821, templates/account.php:943
 msgid "An update to a Beta version will replace your installed version of %s with the latest Beta release - use with caution, and not on production sites. You have been warned."
-msgstr "A béta verzióra való frissítés lecseréli a telepített %s verziót a legújabb béta kiadásra - óvatosan használd, és ne használd éles weboldalakon. Figyelmeztetésben részesültél."
+msgstr "Beta-version päivitys korvaa asennetun %s-versiosi uusimmalla Beta-julkaisulla - käytä varoen äläkä tuotantosivustoilla. Olet saanut varoituksen."
 
 #: includes/class-freemius.php:1828
 msgid "Would you like to proceed with the update?"
-msgstr "Szeretnéd folytatni a frissítést?"
+msgstr "Haluatko jatkaa päivitystä?"
 
 #: includes/class-freemius.php:2053
 msgid "Freemius SDK couldn't find the plugin's main file. Please contact sdk@freemius.com with the current error."
-msgstr "A Freemius SDK nem találja a bővítmény fő fájlját. Kérlek írj az sdk@freemius.com email címre a problémával kapcsolatban."
+msgstr "Freemius SDK ei löytänyt lisäosan päätiedostoa. Ota yhteyttä sdk@freemius.com nykyisen virheen kanssa."
 
 #: includes/class-freemius.php:2055, includes/fs-plugin-info-dialog.php:1513
 msgid "Error"
-msgstr "Hiba"
+msgstr "Virhe"
 
 #: includes/class-freemius.php:2501
 msgid "I found a better %s"
-msgstr "Jobb %st találtam"
+msgstr "Löysin paremman %s"
 
 #: includes/class-freemius.php:2503
 msgid "What's the %s's name?"
-msgstr "Mi a %s neve?"
+msgstr "Mikä on %s nimi?"
 
 #: includes/class-freemius.php:2509
 msgid "It's a temporary %s - I'm troubleshooting an issue"
-msgstr "Ez egy ideiglenes %s - épp egy problémát próbálok megoldani"
+msgstr "Kyseessä on väliaikainen %s - selvitän ongelmaa"
 
 #: includes/class-freemius.php:2511
 msgid "Deactivation"
-msgstr "Deaktiválás"
+msgstr "Käytöstä poisto"
 
 #: includes/class-freemius.php:2512
 msgid "Theme Switch"
-msgstr "Sablon váltás"
+msgstr "Teeman vaihto"
 
 #: includes/class-freemius.php:2521, templates/forms/resend-key.php:24, templates/forms/user-change.php:29
 msgid "Other"
-msgstr "Egyéb"
+msgstr "Muu"
 
 #: includes/class-freemius.php:2529
 msgid "I no longer need the %s"
-msgstr "Nincs tovább szükségem rá"
+msgstr "En enää tarvitse %s"
 
 #: includes/class-freemius.php:2536
 msgid "I only needed the %s for a short period"
-msgstr "Csak egy kis időre használtam"
+msgstr "Tarvitsin %s vain lyhyen aikaa"
 
 #: includes/class-freemius.php:2542
 msgid "The %s broke my site"
-msgstr "A(z) %s hibát generált az oldalon"
+msgstr "%s rikkoi sivustoni"
 
 #: includes/class-freemius.php:2549
 msgid "The %s suddenly stopped working"
-msgstr "A(z) %s egyszer csak nem működött"
+msgstr "%s lakkasi yhtäkkiä toimimasta"
 
 #: includes/class-freemius.php:2559
 msgid "I can't pay for it anymore"
-msgstr "Nem tudom tovább fizetni"
+msgstr "En pysty enää maksamaan siitä"
 
 #: includes/class-freemius.php:2561
 msgid "What price would you feel comfortable paying?"
-msgstr "Mi lenne az elfogadható ár, amit tudnál fizetni?"
+msgstr "Minkä hinnan olisit valmis maksamaan?"
 
 #: includes/class-freemius.php:2567
 msgid "I don't like to share my information with you"
-msgstr "Nem szeretném megosztani veletek az információt"
+msgstr "En halua jakaa tietojani kanssanne"
 
 #: includes/class-freemius.php:2588
 msgid "The %s didn't work"
-msgstr "A(z) %s nem működött"
+msgstr "%s ei toiminut"
 
 #: includes/class-freemius.php:2598
 msgid "I couldn't understand how to make it work"
-msgstr "Nem értettem, hogy kell használni"
+msgstr "En ymmärtänyt miten sen saa toimimaan"
 
 #: includes/class-freemius.php:2606
 msgid "The %s is great, but I need specific feature that you don't support"
-msgstr "A(z) %s nagyszerű, de nekem olyan funkcióra van szükségem, amit nem tud"
+msgstr "%s on mahtava, mutta tarvitsen tietyn ominaisuuden jota ette tue"
 
 #: includes/class-freemius.php:2608
 msgid "What feature?"
-msgstr "Melyik funkcióra van szükséged?"
+msgstr "Mikä ominaisuus?"
 
 #: includes/class-freemius.php:2612
 msgid "The %s is not working"
-msgstr "A(z) %s nem működik"
+msgstr "%s ei toimi"
 
 #: includes/class-freemius.php:2614
 msgid "Kindly share what didn't work so we can fix it for future users..."
-msgstr "Ha elmondod mi nem működött, ki tudjuk javítani a leendő felhasználók számára..."
+msgstr "Kerro ystävällisesti mikä ei toiminut, jotta voimme korjata sen tulevia käyttäjiä varten..."
 
 #: includes/class-freemius.php:2618
 msgid "It's not what I was looking for"
-msgstr "Nem ezt kerestem"
+msgstr "Se ei ole sitä mitä etsin"
 
 #: includes/class-freemius.php:2620
 msgid "What you've been looking for?"
-msgstr "Pontosan mit kerestél?"
+msgstr "Mitä olit etsimässä?"
 
 #: includes/class-freemius.php:2624
 msgid "The %s didn't work as expected"
-msgstr "A %s nem az elvárásoknak megfelelően működött"
+msgstr "%s ei toiminut odotetusti"
 
 #: includes/class-freemius.php:2626
 msgid "What did you expect?"
-msgstr "Mire számítottál?"
+msgstr "Mitä odotit?"
 
 #. translators: %s: License type (e.g. you have a professional license)
 #: includes/class-freemius.php:4549
 msgid "You have purchased a %s license."
-msgstr "Megvásároltál egy %s licencet."
+msgstr "Olet ostanut %s lisenssin."
 
 #: includes/class-freemius.php:4553
 msgid " The %s's %sdownload link%s, license key, and installation instructions have been sent to %s. If you can't find the email after 5 min, please check your spam box."
-msgstr " A %s%s letöltési linkjét%s, a licenckulcsot és a telepítési útmutatót elküldtük a következő címre: %s. Ha 5 perc után sem találod az e-mailt, kérlek, ellenőrizd a spam mappádat."
+msgstr " %s'n %s latauslinkki%s, lisenssiavain ja asennusohjeet on lähetetty osoitteeseen %s. Jos et löydä sähköpostia 5 minuutin kuluttua, tarkista roskapostikansiosi."
 
 #: includes/class-freemius.php:4563, includes/class-freemius.php:21006, includes/class-freemius.php:24736
 msgctxt "interjection expressing joy or exuberance"
 msgid "Yee-haw"
-msgstr "Juhuuu"
+msgstr "Jippii"
 
 #: includes/class-freemius.php:4577
 msgctxt "addonX cannot run without pluginY"
 msgid "%s cannot run without %s."
-msgstr "A %s nem futtatható %s nélkül."
+msgstr "%s ei voi toimia ilman %s."
 
 #: includes/class-freemius.php:4578
 msgctxt "addonX cannot run..."
 msgid "%s cannot run without the plugin."
-msgstr "A %s nem futtatható a bővítmény nélkül."
+msgstr "%s ei voi toimia ilman lisäosaa."
 
 #: includes/class-freemius.php:4580, includes/class-freemius.php:5808, includes/class-freemius.php:13562, includes/class-freemius.php:14323, includes/class-freemius.php:18112, includes/class-freemius.php:18232, includes/class-freemius.php:18409, includes/class-freemius.php:20737, includes/class-freemius.php:21860, includes/class-freemius.php:22896, includes/class-freemius.php:23026, includes/class-freemius.php:23169, templates/add-ons.php:57
 msgctxt "exclamation"
 msgid "Oops"
-msgstr "Hoppá"
+msgstr "Hups"
 
 #: includes/class-freemius.php:4859
 msgid "There was an unexpected API error while processing your request. Please try again in a few minutes and if it still doesn't work, contact the %s's author with the following:"
-msgstr "Váratlan API hiba történt a kérésed feldolgozása közben. Kérlek, próbáld újra néhány perc múlva, és ha még mindig nem működik, vedd fel a kapcsolatot a %s szerzőjével a következő információkkal:"
+msgstr "Tapahtui odottamaton API-virhe pyyntöäsi käsiteltäessä. Yritä uudelleen muutaman minuutin kuluttua, ja jos se ei vieläkään toimi, ota yhteyttä %s tekijään seuraavilla tiedoilla:"
 
 #. translators: %s: License type (e.g. you have a professional license)
 #: includes/class-freemius.php:5500
 msgid "You have a %s license."
-msgstr "Licensz típusa: %s"
+msgstr "Sinulla on %s lisenssi."
 
 #: includes/class-freemius.php:5473
 msgid "Premium %s version was successfully activated."
-msgstr "%s prémium verziója sikeresen aktiválva."
+msgstr "Premium %s versio aktivoitiin onnistuneesti."
 
 #: includes/class-freemius.php:5485, includes/class-freemius.php:7508
 msgctxt "Used to express elation, enthusiasm, or triumph (especially in electronic communication)."
 msgid "W00t"
-msgstr "Fantasztikus"
+msgstr "Jippii"
 
 #: includes/class-freemius.php:5791
 msgid "%s free trial was successfully cancelled. Since the add-on is premium only it was automatically deactivated. If you like to use it in the future, you'll have to purchase a license."
-msgstr "A %s ingyenes próbaidőszakot sikeresen lemondtuk. Mivel a kiegészítő csak prémium verzióban érhető el, automatikusan deaktiváltuk. Ha a jövőben használni szeretnéd, licencet kell vásárolnod."
+msgstr "%s ilmainen kokeilu peruutettiin onnistuneesti. Koska lisäosa on vain premium-versiona saatavilla, se poistettiin automaattisesti käytöstä. Jos haluat käyttää sitä tulevaisuudessa, sinun on ostettava lisenssi."
 
 #: includes/class-freemius.php:5795
 msgid "%s is a premium only add-on. You have to purchase a license first before activating the plugin."
-msgstr "A(z) %s egy prémium kiegészítő. A bővítmény aktiválásához előbb egy érvényes licenszt kell vásárolnod."
+msgstr "%s on vain premium-lisäosa. Sinun on ostettava lisenssi ennen lisäosan aktivointia."
 
 #: includes/class-freemius.php:5804, templates/add-ons.php:186, templates/account/partials/addon.php:386
 msgid "More information about %s"
-msgstr "További információ"
+msgstr "Lisätietoja %s"
 
 #: includes/class-freemius.php:5805
 msgid "Purchase License"
-msgstr "Licensz vásárlása"
+msgstr "Osta lisenssi"
 
 #. translators: %3$s: What the user is expected to receive via email (e.g.: "the installation instructions" or "a license key")
 #: includes/class-freemius.php:6821
 msgid "You should receive %3$s for %1$s to your mailbox at %2$s in the next 5 minutes."
-msgstr "A következő 5 percben meg kell kapnod %3$s a %1$s számára a %2$s e-mail címedre."
+msgstr "Sinun pitäisi saada %3$s tuotteelle %1$s sähköpostiisi osoitteeseen %2$s seuraavan 5 minuutin kuluessa."
 
 #: includes/class-freemius.php:6830
 msgctxt "Part of the message telling the user what they should receive via email."
 msgid "a license key"
-msgstr "egy licenckulcsot"
+msgstr "lisenssiavain"
 
 #. translators: %s: activation link (e.g.: <a>Click here</a>)
 #: includes/class-freemius.php:6838
 msgid "%s to activate the license once you get it."
-msgstr "a %s a licenc aktiválásához, amint megkapod."
+msgstr "%s aktivoidaksesi lisenssin, kun saat sen."
 
 #: includes/class-freemius.php:6846
 msgctxt "Part of an activation link message."
 msgid "Click here"
-msgstr "Kattints ide"
+msgstr "Klikkaa tästä"
 
 #: includes/class-freemius.php:6824
 msgctxt "Part of the message telling the user what they should receive via email."
 msgid "the installation instructions"
-msgstr "a telepítési útmutatót"
+msgstr "asennusohjeet"
 
 #: includes/class-freemius.php:6853
 msgctxt "Part of the message that tells the user to check their spam folder for a specific email."
 msgid "the product's support email address"
-msgstr "a termék támogatási e-mail címét"
+msgstr "tuotteen tukisähköpostiosoite"
 
 #: includes/class-freemius.php:6859
 msgid "If you didn't get the email, try checking your spam folder or search for emails from %4$s."
-msgstr "Ha nem kaptad meg az e-mailt, ellenőrizd a spam mappádat, vagy keress rá a %4$s által küldött e-mailekre."
+msgstr "Jos et saanut sähköpostia, tarkista roskapostikansiosi tai etsi sähköposteja lähettäjältä %4$s."
 
 #: includes/class-freemius.php:6861
 msgid "Thanks for upgrading."
-msgstr "Köszönjük, hogy frissítettél."
+msgstr "Kiitos päivityksestä."
 
 #: includes/class-freemius.php:6812
 msgid "You should receive a confirmation email for %1$s to your mailbox at %2$s. Please make sure you click the button in that email to %3$s."
-msgstr "Hamarosan kapsz egy megerősítő e-mailt a %1$s kapcsán a %2$s e-mail címedre. Kérlek, kattints az e-mailben található gombra, hogy %3$s."
+msgstr "Sinun pitäisi saada vahvistussähköposti tuotteelle %1$s sähköpostiisi osoitteeseen %2$s. Varmista, että klikkaat kyseisessä sähköpostissa olevaa painiketta %3$s."
 
 #: includes/class-freemius.php:6815
 msgid "start the trial"
-msgstr "próbaidő indítása"
+msgstr "aloittaaksesi kokeilun"
 
 #: includes/class-freemius.php:6816, templates/connect.php:208
 msgid "complete the opt-in"
-msgstr "befejezd a feliratkozást"
+msgstr "suorittaaksesi käyttöönoton loppuun"
 
 #: includes/class-freemius.php:6818
 msgid "Thanks!"
-msgstr "Köszönjük!"
+msgstr "Kiitos!"
 
 #: includes/class-freemius.php:6997
 msgid "You are just one step away - %s"
-msgstr "Már csak egy lépés van hátra - %s"
+msgstr "Olet vain yhden askeleen päässä - %s"
 
 #: includes/class-freemius.php:7000
 msgctxt "%s - plugin name. As complete \"PluginX\" activation now"
 msgid "Complete \"%s\" Activation Now"
-msgstr "\"%s\" aktiválásának a befejezése most"
+msgstr "Suorita ”%s” aktivointi nyt"
 
 #: includes/class-freemius.php:7082
 msgid "We made a few tweaks to the %s, %s"
-msgstr "Néhány frissítést kapott a %s.  %s"
+msgstr "Teimme muutamia parannuksia %s, %s"
 
 #: includes/class-freemius.php:7086
 msgid "Opt in to make \"%s\" better!"
-msgstr "Iratkozz fel, hogy a(z) %s még jobb lehessen!"
+msgstr "Ota käyttöön tehdäksesi ”%s” paremmaksi!"
 
 #: includes/class-freemius.php:7507
 msgid "The upgrade of %s was successfully completed."
-msgstr "A(z) %s frissítése sikeres volt."
+msgstr "%s päivitys suoritettiin onnistuneesti."
 
 #: includes/class-freemius.php:10280, includes/class-fs-plugin-updater.php:1126, includes/class-fs-plugin-updater.php:1348, includes/class-fs-plugin-updater.php:1341, templates/auto-installation.php:32
 msgid "Add-On"
-msgstr "Kiegészítő"
+msgstr "Lisäosa"
 
 #: includes/class-freemius.php:10282, templates/account.php:407, templates/account.php:415, templates/debug.php:476, templates/debug.php:711
 msgid "Plugin"
-msgstr "Bővítmény"
+msgstr "Lisäosa"
 
 #: includes/class-freemius.php:10283, templates/account.php:408, templates/account.php:416, templates/debug.php:476, templates/debug.php:711, templates/forms/deactivation/form.php:107
 msgid "Theme"
-msgstr "Sablon"
+msgstr "Teema"
 
 #: includes/class-freemius.php:13368
 msgid "An unknown error has occurred while trying to toggle the license's white-label mode."
-msgstr "Ismeretlen hiba történt a licenc white-label módjának átváltása közben."
+msgstr "Tuntematon virhe tapahtui yritettäessä vaihtaa lisenssin white-label-tilaa."
 
 #: includes/class-freemius.php:13382
 msgid "Your %s license was flagged as white-labeled to hide sensitive information from the WP Admin (e.g. your email, license key, prices, billing address & invoices). If you ever wish to revert it back, you can easily do it through your %s. If this was a mistake you can also %s."
-msgstr "A %s licenced white-label módba került, hogy elrejtse az érzékeny információkat a WordPress adminisztrációs felületről (pl. e-mail címed, licenckulcs, árak, számlázási cím és számlák). Ha bármikor vissza szeretnéd állítani, könnyen megteheted a %s keresztül. Ha ez tévedés volt, %s."
+msgstr "%s lisenssisi merkittiin white-label-tilaan arkaluontoisten tietojen piilottamiseksi WP-hallintapaneelista (esim. sähköpostisi, lisenssiavain, hinnat, laskutusosoite ja laskut). Jos haluat palauttaa sen takaisin, voit tehdä sen helposti %s kautta. Jos tämä oli virhe, voit myös %s."
 
 #: includes/class-freemius.php:13387, templates/account/partials/disconnect-button.php:84
 msgid "User Dashboard"
-msgstr "Felhasználó vezérlőpult"
+msgstr "Käyttäjän hallintapaneeli"
 
 #: includes/class-freemius.php:13388
 msgid "revert it now"
-msgstr "most visszaállíthatod"
+msgstr "palauttaa sen nyt"
 
 #: includes/class-freemius.php:13446
 msgid "An unknown error has occurred while trying to set the user's beta mode."
-msgstr "Ismeretlen hiba történt a felhasználó béta módjának beállítása közben."
+msgstr "Tuntematon virhe tapahtui yritettäessä asettaa käyttäjän beta-tilaa."
 
 #: includes/class-freemius.php:13533
 msgid "Invalid new user ID or email address."
-msgstr "Érvénytelen új felhasználói azonosító vagy e-mail cím."
+msgstr "Virheellinen uusi käyttäjätunnus tai sähköpostiosoite."
 
 #: includes/class-freemius.php:13563
 msgid "Sorry, we could not complete the email update. Another user with the same email is already registered."
-msgstr "Sajnáljuk, nem tudtuk befejezni az e-mail cím frissítését. Egy másik felhasználó már regisztrált ugyanezzel az e-mail címmel."
+msgstr "Valitettavasti emme voineet suorittaa sähköpostin päivitystä. Toinen käyttäjä samalla sähköpostiosoitteella on jo rekisteröitynyt."
 
 #: includes/class-freemius.php:13564
 msgid "If you would like to give up the ownership of the %s's account to %s click the Change Ownership button."
-msgstr "Ha szeretnéd átadni a %s fiók tulajdonjogát %s számára, kattints a Tulajdonosváltás gombra."
+msgstr "Jos haluat luovuttaa %s tilin omistajuuden käyttäjälle %s, klikkaa Vaihda omistajuus -painiketta."
 
 #: includes/class-freemius.php:13571
 msgid "Change Ownership"
-msgstr "Tulajdonos módosítása"
+msgstr "Vaihda omistajuus"
 
 #: includes/class-freemius.php:14190
 msgid "Invalid site details collection."
-msgstr "Érvénytelen oldal-adatgyűjtemény."
+msgstr "Virheelliset sivuston tietojen keräystiedot."
 
 #: includes/class-freemius.php:14312
 msgid "We can't see any active licenses associated with that email address, are you sure it's the right address?"
-msgstr "Nem látunk aktív licencet ehhez az e-mail címhez kapcsolódóan. Biztos vagy benne, hogy ez a helyes cím?"
+msgstr "Emme näe yhtään aktiivista lisenssiä liitettynä tuohon sähköpostiosoitteeseen, oletko varma että se on oikea osoite?"
 
 #: includes/class-freemius.php:14310
 msgid "We couldn't find your email address in the system, are you sure it's the right address?"
-msgstr "Nem találtuk meg az e-mail címedet a rendszerben. Biztos vagy benne, hogy ez a helyes cím?"
+msgstr "Emme löytäneet sähköpostiosoitettasi järjestelmästä, oletko varma että se on oikea osoite?"
 
 #: includes/class-freemius.php:14616
 msgid "Account is pending activation. Please check your email and click the link to activate your account and then submit the affiliate form again."
-msgstr "A fiók aktiválásra vár. Kérlek, ellenőrizd az e-mailedet, kattints az aktiválási linkre, majd küldd be újra az affiliate űrlapot."
+msgstr "Tili odottaa aktivointia. Tarkista sähköpostisi, klikkaa aktivointilinkkiä ja lähetä sitten kumppanuuslomake uudelleen."
 
 #: includes/class-freemius.php:14742, templates/forms/premium-versions-upgrade-handler.php:46
 msgid "Renew your license now"
-msgstr "Licensz kulcs megújítása"
+msgstr "Uusi lisenssisi nyt"
 
 #: includes/class-freemius.php:14730, templates/forms/premium-versions-upgrade-handler.php:47
 msgid "Buy a license now"
-msgstr "Vásárolj licenszet most"
+msgstr "Osta lisenssi nyt"
 
 #: includes/class-freemius.php:14746
 msgid "%s to access version %s security & feature updates, and support."
-msgstr "%s a %s verzió biztonsági és funkciófrissítéseinek, valamint támogatásának eléréséhez."
+msgstr "%s päästäksesi käsiksi version %s tietoturva- ja ominaisuuspäivityksiin sekä tukeen."
 
 #: includes/class-freemius.php:17452
 msgid "%s opt-in was successfully completed."
-msgstr "A %s feliratkozás sikeresen befejeződött."
+msgstr "%s käyttöönotto onnistui."
 
 #: includes/class-freemius.php:17476, includes/class-freemius.php:21463
 msgid "Your trial has been successfully started."
-msgstr "A próbaidőszakodat sikeresen aktiváltuk."
+msgstr "Kokeilujakso on aloitettu onnistuneesti."
 
 #: includes/class-freemius.php:17466
 msgid "Your account was successfully activated with the %s plan."
-msgstr "A fiókodat sikeresen aktiváltuk a következő csomaggal: %s"
+msgstr "Tilisi aktivoitiin onnistuneesti %s-suunnitelmalla."
 
 #: includes/class-freemius.php:18110, includes/class-freemius.php:18230, includes/class-freemius.php:18407
 msgid "Couldn't activate %s."
-msgstr "A(z) %s aktiválása nem sikerült."
+msgstr "%s aktivointi epäonnistui."
 
 #: includes/class-freemius.php:18111, includes/class-freemius.php:18231, includes/class-freemius.php:18408
 msgid "Please contact us with the following message:"
-msgstr "Kérlek írj nekünk a következő üzenettel:"
+msgstr "Ota meihin yhteyttä seuraavalla viestillä:"
 
 #: includes/class-freemius.php:18227, templates/forms/data-debug-mode.php:162
 msgid "An unknown error has occurred."
-msgstr "Ismeretlen hiba."
+msgstr "Tuntematon virhe on tapahtunut."
 
 #: includes/class-freemius.php:18769, includes/class-freemius.php:24292
 msgid "Upgrade"
-msgstr "Előfizetés"
+msgstr "Päivitä"
 
 #: includes/class-freemius.php:18777
 msgid "Pricing"
-msgstr "Árak"
+msgstr "Hinnoittelu"
 
 #: includes/class-freemius.php:18775
 msgid "Start Trial"
-msgstr "Próbaidő indítása"
+msgstr "Aloita kokeilu"
 
 #: includes/class-freemius.php:18859, includes/class-freemius.php:18861
 msgid "Affiliation"
-msgstr "Ajánlórendszer"
+msgstr "Kumppanuus"
 
 #: includes/class-freemius.php:18889, includes/class-freemius.php:18891, templates/account.php:260, templates/debug.php:439
 msgid "Account"
-msgstr "Fiók"
+msgstr "Tili"
 
 #: includes/class-freemius.php:18917, includes/class-freemius.php:18906, includes/class-freemius.php:18908, includes/customizer/class-fs-customizer-support-section.php:60
 msgid "Contact Us"
-msgstr "Kapcsolat"
+msgstr "Ota yhteyttä"
 
 #: includes/class-freemius.php:18931, includes/class-freemius.php:18933, includes/class-freemius.php:24306, templates/account.php:130, templates/account/partials/addon.php:49
 msgid "Add-Ons"
-msgstr "Kiegészítők"
+msgstr "Lisäosat"
 
 #: includes/class-freemius.php:18966
 msgctxt "ASCII arrow left icon"
@@ -404,49 +404,49 @@ msgstr "➤"
 #: includes/class-freemius.php:18984
 msgctxt "noun"
 msgid "Pricing"
-msgstr "Árak"
+msgstr "Hinnoittelu"
 
 #: includes/class-freemius.php:19200, includes/customizer/class-fs-customizer-support-section.php:67
 msgid "Support Forum"
-msgstr "Támogató fórum"
+msgstr "Tukifoorumi"
 
 #: includes/class-freemius.php:20231
 msgid "Your email has been successfully verified - you are AWESOME!"
-msgstr "Az email címedet sikerült ellenőrizni - ez nagyszerű!"
+msgstr "Sähköpostisi on vahvistettu onnistuneesti - olet MAHTAVA!"
 
 #: includes/class-freemius.php:20232
 msgctxt "a positive response"
 msgid "Right on"
-msgstr "Rendben"
+msgstr "Hienoa"
 
 #: includes/class-freemius.php:20738
 msgid "seems like the key you entered doesn't match our records."
-msgstr "úgy tűnik, a megadott kulcs nem egyezik a nyilvántartásunkkal."
+msgstr "näyttää siltä, että antamasi avain ei täsmää tietoihimme."
 
 #: includes/class-freemius.php:20762
 msgid "Debug mode was successfully enabled and will be automatically disabled in 60 min. You can also disable it earlier by clicking the \"Stop Debug\" link."
-msgstr "A hibakeresési mód sikeresen engedélyezve lett, és 60 perc múlva automatikusan kikapcsol. Korábban is kikapcsolhatod a „Hibakeresés leállítása” linkre kattintva."
+msgstr "Debug-tila otettiin onnistuneesti käyttöön ja se poistetaan automaattisesti käytöstä 60 minuutin kuluttua. Voit myös poistaa sen käytöstä aiemmin klikkaamalla ”Lopeta Debug” -linkkiä."
 
 #: includes/class-freemius.php:20997
 msgid "Your %s Add-on plan was successfully upgraded."
-msgstr "A %s kiegészítő csomagod sikeresen frissítve lett."
+msgstr "%s-lisäosan suunnitelmasi päivitettiin onnistuneesti."
 
 #. translators: %s:product name, e.g. Facebook add-on was successfully...
 #: includes/class-freemius.php:20999
 msgid "%s Add-on was successfully purchased."
-msgstr "A %s kiegészítőt sikeresen megvásároltad."
+msgstr "%s-lisäosa ostettiin onnistuneesti."
 
 #: includes/class-freemius.php:21002
 msgid "Download the latest version"
-msgstr "Töltsd le a legfrissebb verziót"
+msgstr "Lataa uusin versio"
 
 #: includes/class-freemius.php:21120
 msgid "It seems like one of the authentication parameters is wrong. Update your Public Key, Secret Key & User ID, and try again."
-msgstr "Úgy tűnik, az egyik hitelesítési paraméter hibás. Frissítsd a Nyilvános Kulcsot, a Titkos Kulcsot és a Felhasználói Azonosítót, majd próbáld újra."
+msgstr "Näyttää siltä, että jokin todennusparametreista on väärä. Päivitä julkinen avaimesi, salainen avaimesi ja käyttäjätunnuksesi, ja yritä uudelleen."
 
 #: includes/class-freemius.php:21120, includes/class-freemius.php:21533, includes/class-freemius.php:21641, includes/class-freemius.php:21728
 msgid "Error received from the server:"
-msgstr "Hiba érkezett a szervertől."
+msgstr "Palvelimelta saatu virhe:"
 
 #: includes/class-freemius.php:21361, includes/class-freemius.php:21646, includes/class-freemius.php:21699, includes/class-freemius.php:21806
 msgctxt "something somebody says when they are thinking about what you have just said."
@@ -455,1246 +455,1246 @@ msgstr "Hmm"
 
 #: includes/class-freemius.php:21374
 msgid "It looks like you are still on the %s plan. If you did upgrade or change your plan, it's probably an issue on our side - sorry."
-msgstr "Úgy tűnik, hogy még mindig a %s csomagban vagy. Ha biztosan előfizettél vagy csomagot váltottál, akkor valószínű a hiba a mi oldalunkon van. Elnézést!"
+msgstr "Näyttää siltä, että olet edelleen %s-suunnitelmassa. Jos olet päivittänyt tai vaihtanut suunnitelmaasi, kyseessä on todennäköisesti ongelma meidän päässämme - pahoittelut."
 
 #: includes/class-freemius.php:21375, templates/account.php:132, templates/add-ons.php:250, templates/account/partials/addon.php:51
 msgctxt "trial period"
 msgid "Trial"
-msgstr "Próbaidő"
+msgstr "Kokeilu"
 
 #: includes/class-freemius.php:21380
 msgid "I have upgraded my account but when I try to Sync the License, the plan remains %s."
-msgstr "Frissítettem a fiókomat, de amikor megpróbálom szinkronizálni a licencet, a csomag továbbra is %s marad."
+msgstr "Olen päivittänyt tilini, mutta kun yritän synkronoida lisenssin, suunnitelma pysyy edelleen %s."
 
 #: includes/class-freemius.php:21384, includes/class-freemius.php:21442
 msgid "Please contact us here"
-msgstr "Írj nekünk itt"
+msgstr "Ota meihin yhteyttä täällä"
 
 #: includes/class-freemius.php:21412
 msgid "Your plan was successfully changed to %s."
-msgstr "Az előfizetés sikeresen módosítva: %s."
+msgstr "Suunnitelmasi vaihdettiin onnistuneesti %s."
 
 #: includes/class-freemius.php:21428
 msgid "Your license has expired. You can still continue using the free %s forever."
-msgstr "A licensz lejárt. A(z) %s ingyenes verziója továbbra is használható korlátlanul."
+msgstr "Lisenssisi on vanhentunut. Voit jatkaa ilmaisen %s:n käyttöä ikuisesti."
 
 #. translators: %1$s: product title; %2$s, %3$s: wrapping HTML anchor element; %4$s: 'plugin', 'theme', or 'add-on'.
 #: includes/class-freemius.php:21430
 msgid "Your license has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
-msgstr "A licenced lejárt. %1$sFrissíts most%2$s, hogy továbbra is megszakítás nélkül használhasd a %3$s."
+msgstr "Lisenssisi on vanhentunut. %1$sPäivitä nyt%2$s jatkaaksesi %3$s:n käyttöä keskeytyksettä."
 
 #: includes/class-freemius.php:21438
 msgid "Your license has been cancelled. If you think it's a mistake, please contact support."
-msgstr "A licensz kikapcsolásra került. Ha úgy gondolod, hogy ez tévedés volt, kérlek írj az ügyfélszolgálatra!"
+msgstr "Lisenssisi on peruutettu. Jos luulet, että kyseessä on virhe, ota yhteyttä tukeen."
 
 #: includes/class-freemius.php:21451
 msgid "Your license has expired. You can still continue using all the %s features, but you'll need to renew your license to continue getting updates and support."
-msgstr "A licenced lejárt. Továbbra is használhatod az összes %s funkciót, de a frissítések és támogatás további igénybevételéhez meg kell újítanod a licencedet."
+msgstr "Lisenssisi on vanhentunut. Voit jatkaa kaikkien %s-ominaisuuksien käyttöä, mutta sinun on uusittava lisenssisi jatkaaksesi päivitysten ja tuen saamista."
 
 #: includes/class-freemius.php:21477
 msgid "Your free trial has expired. You can still continue using all our free features."
-msgstr "Az ingyenes próbaidőszakod lejárt. Továbbra is használhatod az összes ingyenes funkciónkat."
+msgstr "Ilmainen kokeilujaksosi on päättynyt. Voit jatkaa kaikkien ilmaisten ominaisuuksiemme käyttöä."
 
 #. translators: %1$s: product title; %2$s, %3$s: wrapping HTML anchor element; %4$s: 'plugin', 'theme', or 'add-on'.
 #: includes/class-freemius.php:21479
 msgid "Your free trial has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
-msgstr "Az ingyenes próbaidőszakod lejárt. %1$sFrissíts most%2$s, hogy továbbra is megszakítás nélkül használhasd a %3$s."
+msgstr "Ilmainen kokeilujaksosi on päättynyt. %1$sPäivitä nyt%2$s jatkaaksesi %3$s:n käyttöä keskeytyksettä."
 
 #: includes/class-freemius.php:21525
 msgid "Your server is blocking the access to Freemius' API, which is crucial for %1$s synchronization. Please contact your host to whitelist the following domains:%2$s"
-msgstr "A szervered blokkolja a hozzáférést a Freemius API-hoz, ami elengedhetetlen a %1$s szinkronizálásához. Kérlek, vedd fel a kapcsolatot a tárhelyszolgáltatóddal, hogy engedélyezzék a következő domaineket:%2$s"
+msgstr "Palvelimesi estää pääsyn Freemiuksen API:in, joka on välttämätön %1$s:n synkronoinnille. Ota yhteyttä palveluntarjoajaasi ja pyydä heitä sallimaan seuraavat verkkotunnukset:%2$s"
 
 #: includes/class-freemius.php:21527
 msgid "Show error details"
-msgstr "Hibarészletek megjelenítése"
+msgstr "Näytä virhetiedot"
 
 #: includes/class-freemius.php:21637
 msgid "It looks like the license could not be activated."
-msgstr "Úgy tűnik, hogy a licensz nem aktiválható."
+msgstr "Näyttää siltä, että lisenssiä ei voitu aktivoida."
 
 #: includes/class-freemius.php:21679
 msgid "Your license was successfully activated."
-msgstr "A licensz sikeresen aktiválva."
+msgstr "Lisenssisi aktivoitiin onnistuneesti."
 
 #: includes/class-freemius.php:21703
 msgid "It looks like your site currently doesn't have an active license."
-msgstr "Úgy tűnik, hogy a weboldalhoz nem tartozik aktív licensz."
+msgstr "Näyttää siltä, että sivustollasi ei ole tällä hetkellä aktiivista lisenssiä."
 
 #: includes/class-freemius.php:21727
 msgid "It looks like the license deactivation failed."
-msgstr "Úgy tűnik a licensz kikapcsolása nem sikerült."
+msgstr "Näyttää siltä, että lisenssin deaktivointi epäonnistui."
 
 #: includes/class-freemius.php:21756
 msgid "Your %s license was successfully deactivated."
-msgstr "A(z) %s licensz kikapcsolása sikerült."
+msgstr "%s-lisenssisi deaktivoitiin onnistuneesti."
 
 #: includes/class-freemius.php:21757
 msgid "Your license was successfully deactivated, you are back to the %s plan."
-msgstr "A licenszedet sikeresen deaktiváltuk, az aktuális csomagod: %s"
+msgstr "Lisenssisi deaktivoitiin onnistuneesti, olet palannut %s-suunnitelmaan."
 
 #: includes/class-freemius.php:21760
 msgid "O.K"
-msgstr "Rendben"
+msgstr "OK"
 
 #: includes/class-freemius.php:21813
 msgid "Seems like we are having some temporary issue with your subscription cancellation. Please try again in few minutes."
-msgstr "Úgy tűnik, átmeneti problémánk van az előfizetésed lemondásával. Kérlek, próbáld újra néhány perc múlva."
+msgstr "Vaikuttaa siltä, että meillä on väliaikainen ongelma tilauksesi peruutuksessa. Yritä uudelleen muutaman minuutin kuluttua."
 
 #: includes/class-freemius.php:21822
 msgid "Your subscription was successfully cancelled. Your %s plan license will expire in %s."
-msgstr "Az előfizetésed sikeresen lemondva. A %s terv licenced %s múlva jár le."
+msgstr "Tilauksesi peruutettiin onnistuneesti. %s-suunnitelman lisenssisi vanhenee %s."
 
 #: includes/class-freemius.php:21865
 msgid "You are already running the %s in a trial mode."
-msgstr "Már %s próbaverzióját használod."
+msgstr "Käytät jo %s:ää kokeilutilassa."
 
 #: includes/class-freemius.php:21877
 msgid "You already utilized a trial before."
-msgstr "Már igénybe vettél egy próbaidőszakot korábban."
+msgstr "Olet jo käyttänyt kokeilujakson aiemmin."
 
 #: includes/class-freemius.php:21916
 msgid "None of the %s's plans supports a trial period."
-msgstr "A %s egyik terve sem támogat próbaidőszakot."
+msgstr "Mikään %s:n suunnitelmista ei tue kokeilujaksoa."
 
 #: includes/class-freemius.php:21892
 msgid "Plan %s do not exist, therefore, can't start a trial."
-msgstr "A %s terv nem létezik, ezért nem lehet próbaidőszakot indítani."
+msgstr "Suunnitelmaa %s ei ole olemassa, joten kokeilujaksoa ei voi aloittaa."
 
 #: includes/class-freemius.php:21904
 msgid "Plan %s does not support a trial period."
-msgstr "A %s terv nem támogat próbaidőszakot."
+msgstr "Suunnitelma %s ei tue kokeilujaksoa."
 
 #: includes/class-freemius.php:21978
 msgid "It looks like you are not in trial mode anymore so there's nothing to cancel :)"
-msgstr "Úgy tűnik, már nem vagy próba üzemmódban, így nincs mit lemondani :)"
+msgstr "Näyttää siltä, ettet ole enää kokeilutilassa, joten mitään ei ole peruttavana :)"
 
 #: includes/class-freemius.php:22014
 msgid "Seems like we are having some temporary issue with your trial cancellation. Please try again in few minutes."
-msgstr "Úgy tűnik, átmeneti problémánk van a próbaidőszakod lemondásával. Kérlek, próbáld újra néhány perc múlva."
+msgstr "Vaikuttaa siltä, että meillä on väliaikainen ongelma kokeilujaksosi peruutuksessa. Yritä uudelleen muutaman minuutin kuluttua."
 
 #: includes/class-freemius.php:22033
 msgid "Your %s free trial was successfully cancelled."
-msgstr "A %s ingyenes próbaidőszakod sikeresen lemondva."
+msgstr "%s ilmainen kokeilujaksosi peruutettiin onnistuneesti."
 
 #: includes/class-freemius.php:22380
 msgid "Seems like you got the latest release."
-msgstr "Úgy tűnik, a legfrissebb verzióval rendelkezel."
+msgstr "Näyttää siltä, että sinulla on uusin versio."
 
 #: includes/class-freemius.php:22381
 msgid "You are all good!"
-msgstr "Minden rendben!"
+msgstr "Kaikki on kunnossa!"
 
 #: includes/class-freemius.php:22363
 msgid "Version %s was released."
-msgstr "A %s verzió kiadásra került."
+msgstr "Versio %s on julkaistu."
 
 #: includes/class-freemius.php:22363
 msgid "Please download %s."
-msgstr "Kérlek, töltsd le a %s verziót."
+msgstr "Lataa %s."
 
 #: includes/class-freemius.php:22370
 msgid "the latest %s version here"
-msgstr "a legújabb %s verziót itt"
+msgstr "uusin %s-versio täältä"
 
 #: includes/class-freemius.php:22375
 msgid "New"
-msgstr "Új"
+msgstr "Uusi"
 
 #: includes/class-freemius.php:22784
 msgid "Verification mail was just sent to %s. If you can't find it after 5 min, please check your spam box."
-msgstr "Az ellenőrző e-mailt elküldtük a %s címre. Ha 5 perc múlva sem találod, kérlek, ellenőrizd a spam mappádat."
+msgstr "Vahvistussähköposti lähetettiin juuri osoitteeseen %s. Jos et löydä sitä 5 minuutin kuluttua, tarkista roskapostikansiosi."
 
 #: includes/class-freemius.php:22924
 msgid "Site successfully opted in."
-msgstr "A webhely sikeresen bekapcsolva."
+msgstr "Sivusto liittyi onnistuneesti."
 
 #: includes/class-freemius.php:22925, includes/class-freemius.php:24000
 msgid "Awesome"
-msgstr "Nagyszerű"
+msgstr "Mahtavaa"
 
 #: includes/class-freemius.php:22951
 msgid "Diagnostic data will no longer be sent from %s to %s."
-msgstr "A diagnosztikai adatok többé nem kerülnek elküldésre a %s-ról a %s részére."
+msgstr "Diagnostiikkatietoja ei enää lähetetä %s:stä %s:lle."
 
 #: includes/class-freemius.php:22941
 msgid "Sharing diagnostic data with %s helps to provide functionality that's more relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the plugin should be translated and tailored to."
-msgstr "A diagnosztikai adatok megosztása a %s-val segít abban, hogy relevánsabb funkciókat biztosítsunk a webhelyedhez, elkerüljük a WordPress vagy PHP verzió inkompatibilitásokat, amelyek tönkretehetik a webhelyedet, és felismerjük, mely nyelvekre és régiókra kell a bővítményt lefordítani és testreszabni."
+msgstr "Diagnostiikkatietojen jakaminen %s:n kanssa auttaa tarjoamaan verkkosivullesi sopivampia toimintoja, välttämään WordPress- tai PHP-versioiden yhteensopivuusongelmia, jotka voivat rikkoa sivustosi, sekä tunnistamaan, mille kielille ja alueille lisäosa pitäisi kääntää ja räätälöidä."
 
 #: includes/class-freemius.php:22942
 msgid "Thank you!"
-msgstr "Köszönjük!"
+msgstr "Kiitos!"
 
 #: includes/class-freemius.php:23111
 msgid "A confirmation email was just sent to %s. You must confirm the update within the next 4 hours. If you cannot find the email, please check your spam folder."
-msgstr "Egy megerősítő e-mailt küldtünk a %s címre. A frissítést a következő 4 órán belül meg kell erősítened. Ha nem találod az e-mailt, kérlek, ellenőrizd a spam mappádat."
+msgstr "Vahvistussähköposti lähetettiin juuri osoitteeseen %s. Sinun täytyy vahvistaa päivitys seuraavan 4 tunnin kuluessa. Jos et löydä sähköpostia, tarkista roskapostikansiosi."
 
 #: includes/class-freemius.php:23109
 msgid "A confirmation email was just sent to %s. The email owner must confirm the update within the next 4 hours."
-msgstr "Egy megerősítő e-mailt küldtünk a %s címre. Az e-mail tulajdonosának a következő 4 órán belül meg kell erősítenie a frissítést."
+msgstr "Vahvistussähköposti lähetettiin juuri osoitteeseen %s. Sähköpostin omistajan täytyy vahvistaa päivitys seuraavan 4 tunnin kuluessa."
 
 #: includes/class-freemius.php:23123
 msgid "Thanks for confirming the ownership change. An email was just sent to %s for final approval."
-msgstr "Köszönjük, hogy megerősítetted a tulajdonosváltást. Egy e-mailt küldtünk a %s címre a végső jóváhagyáshoz."
+msgstr "Kiitos omistajuuden muutoksen vahvistamisesta. Sähköposti lähetettiin juuri osoitteeseen %s lopullista hyväksyntää varten."
 
 #: includes/class-freemius.php:23129
 msgid "%s is the new owner of the account."
-msgstr "A %s az új tulajdonosa a fióknak."
+msgstr "%s on nyt tilin uusi omistaja."
 
 #: includes/class-freemius.php:23131
 msgctxt "as congratulations"
 msgid "Congrats"
-msgstr "Gratulálunk"
+msgstr "Onneksi olkoon"
 
 #: includes/class-freemius.php:23153
 msgid "Your name was successfully updated."
-msgstr "A neved sikeresen frissítettük."
+msgstr "Nimesi päivitettiin onnistuneesti."
 
 #: includes/class-freemius.php:23148
 msgid "Please provide your full name."
-msgstr "Kérlek add meg a teljes neved!"
+msgstr "Anna koko nimesi."
 
 #. translators: %s: User's account property (e.g. email address, name)
 #: includes/class-freemius.php:23218
 msgid "You have successfully updated your %s."
-msgstr "A(z) %s sikeresen frissítve."
+msgstr "Olet onnistuneesti päivittänyt %s:n."
 
 #: includes/class-freemius.php:23282
 msgid "Is this your client's site? %s if you wish to hide sensitive info like your email, license key, prices, billing address & invoices from the WP Admin."
-msgstr "Ez egy ügyfélnek készült weboldal? %s ha szeretnéd inkább elrejteni az admin felületről az érzékeny információkat, mint például email cím, licensz kulcs, árak, számlázási adatok és számlák."
+msgstr "Onko tämä asiakkaasi sivusto? %s, jos haluat piilottaa arkaluontoisia tietoja kuten sähköpostisi, lisenssiavaimen, hinnat, laskutusosoitteen ja laskut WordPress-hallintapaneelista."
 
 #: includes/class-freemius.php:23285
 msgid "Click here"
-msgstr "Kattints ide"
+msgstr "Klikkaa tästä"
 
 #: includes/class-freemius.php:23322
 msgid "Bundle"
-msgstr "Csomag"
+msgstr "Paketti"
 
 #: includes/class-freemius.php:23395
 msgid "Just letting you know that the add-ons information of %s is being pulled from an external server."
-msgstr "Csak tájékoztatásul: a %s kiegészítőinek információit külső szerverről töltjük be."
+msgstr "Haluamme vain ilmoittaa, että %s:n lisäosien tiedot haetaan ulkoiselta palvelimelta."
 
 #: includes/class-freemius.php:23396
 msgctxt "advance notice of something that will need attention."
 msgid "Heads up"
-msgstr "Figyelem"
+msgstr "Huomio"
 
 #: includes/class-freemius.php:24040
 msgctxt "exclamation"
 msgid "Hey"
-msgstr "Üdv"
+msgstr "Hei"
 
 #: includes/class-freemius.php:24040
 msgid "How do you like %s so far? Test all our %s premium features with a %d-day free trial."
-msgstr "Hogy tetszik eddig a %s? Próbáld ki az összes %s prémium funkciót %d napos ingyenes próbaidőszakkal."
+msgstr "Miten olet tykännyt %s:sta tähän mennessä? Testaa kaikkia %s:n premium-ominaisuuksia %d päivän ilmaisella kokeilujaksolla."
 
 #: includes/class-freemius.php:24048
 msgid "No commitment for %s days - cancel anytime!"
-msgstr "Nincs elköteleződés %s napig - bármikor lemondhatod!"
+msgstr "Ei sitoumusta %s päivään - voit perua milloin vain!"
 
 #: includes/class-freemius.php:24049
 msgid "No credit card required"
-msgstr "Bankkártya megadása nem kötelező"
+msgstr "Luottokorttia ei tarvita"
 
 #: includes/class-freemius.php:24056, templates/forms/trial-start.php:53
 msgctxt "call to action"
 msgid "Start free trial"
-msgstr "Ingyenes próbaidőszak indítása"
+msgstr "Aloita ilmainen kokeilu"
 
 #: includes/class-freemius.php:24135
 msgid "Hey there, did you know that %s has an affiliate program? If you like the %s you can become our ambassador and earn some cash!"
-msgstr "Hé, tudtad, hogy a %s-nak van egy partnerprogram? Ha tetszik a %s, lehetsz a nagykövetünk és kereshetsz egy kis pénzt!"
+msgstr "Hei, tiesitkö että %s:lla on kumppaniohjelma? Jos pidät %s:sta, voit ryhtyä lähettilääksemme ja tienata rahaa!"
 
 #: includes/class-freemius.php:24144
 msgid "Learn more"
-msgstr "Bővebben"
+msgstr "Lue lisää"
 
 #: includes/class-freemius.php:24330, templates/account.php:569, templates/account.php:721, templates/connect.php:211, templates/connect.php:442, includes/managers/class-fs-clone-manager.php:1305, templates/forms/license-activation.php:27, templates/account/partials/addon.php:326
 msgid "Activate License"
-msgstr "Licensz aktiválása"
+msgstr "Aktivoi lisenssi"
 
 #: includes/class-freemius.php:24331, templates/account.php:663, templates/account.php:720, templates/account/partials/addon.php:327, templates/account/partials/site.php:273
 msgid "Change License"
-msgstr "Licensz módosítása"
+msgstr "Vaihda lisenssi"
 
 #: includes/class-freemius.php:24446, includes/class-freemius.php:24440, templates/account/partials/site.php:49, templates/account/partials/site.php:170
 msgid "Opt In"
-msgstr "Feliratkozás"
+msgstr "Hyväksy"
 
 #: includes/class-freemius.php:24438, templates/account/partials/site.php:170
 msgid "Opt Out"
-msgstr "Leiratkozás"
+msgstr "Kieltäydy"
 
 #: includes/class-freemius.php:24704
 msgid "Please follow these steps to complete the upgrade"
-msgstr "Kérlek, kövesd ezeket a lépéseket a frissítés befejezéséhez"
+msgstr "Seuraa näitä vaiheita päivityksen suorittamiseksi"
 
 #. translators: %s: Plan title
 #: includes/class-freemius.php:24708
 msgid "Download the latest %s version"
-msgstr "Töltsd le a legújabb %s verziót"
+msgstr "Lataa uusin %s-versio"
 
 #: includes/class-freemius.php:24712
 msgid "Upload and activate the downloaded version"
-msgstr "Töltsd fel és aktiváld a letöltött verziót"
+msgstr "Lataa ja aktivoi ladattu versio"
 
 #: includes/class-freemius.php:24714
 msgid "How to upload and activate?"
-msgstr "Hogyan kell feltölteni és aktiválni?"
+msgstr "Miten ladata ja aktivoida?"
 
 #: includes/class-freemius.php:24681
 msgid " The paid version of %1$s is already installed. Please activate it to start benefiting the %2$s features. %3$s"
-msgstr "A(z) %1$s fizetős verziója sikeresen telepítve. Kérlek aktiváld, hogy a(z) %2$s minden funkciója elérhető legyen. %3$s"
+msgstr " %1$s:n maksullinen versio on jo asennettu. Aktivoi se aloittaaksesi %2$s-ominaisuuksien käytön. %3$s"
 
 #: includes/class-freemius.php:24691
 msgid "Activate %s features"
-msgstr "%s funkciók aktiválása"
+msgstr "Aktivoi %s-ominaisuudet"
 
 #: includes/class-freemius.php:24749
 msgid "Your plan was successfully upgraded."
-msgstr "Az előfizetés sikeresen frissítve."
+msgstr "Suunnitelmasi päivitettiin onnistuneesti."
 
 #: includes/class-freemius.php:24750
 msgid "Your plan was successfully activated."
-msgstr "Az előfizetés sikeresen aktiválva."
+msgstr "Suunnitelmasi aktivoitiin onnistuneesti."
 
 #: includes/class-freemius.php:24859
 msgid "%sClick here%s to choose the sites where you'd like to activate the license on."
-msgstr "%sKattints ide%s azon webhelyek kiválasztásához, ahol aktiválni szeretnéd a licencet."
+msgstr "%sKlikkaa tästä%s valitaksesi sivustot, joilla haluat aktivoida lisenssin."
 
 #: includes/class-freemius.php:25028
 msgid "Auto installation only works for opted-in users."
-msgstr "Az automatikus telepítés csak a bekapcsolt felhasználók számára működik."
+msgstr "Automaattinen asennus toimii vain käyttäjille, jotka ovat hyväksyneet tietojen keräämisen."
 
 #: includes/class-freemius.php:25038, includes/class-freemius.php:25071, includes/class-fs-plugin-updater.php:1320, includes/class-fs-plugin-updater.php:1334
 msgid "Invalid module ID."
-msgstr "Érvénytelen modul azonosító."
+msgstr "Virheellinen moduulin tunnus."
 
 #: includes/class-freemius.php:25079, includes/class-fs-plugin-updater.php:1355
 msgid "Premium add-on version already installed."
-msgstr "A prémium kiegészítő verziója már telepítve van."
+msgstr "Premium-lisäosan versio on jo asennettu."
 
 #: includes/class-freemius.php:25047, includes/class-fs-plugin-updater.php:1356
 msgid "Premium version already active."
-msgstr "A prémium verzió már aktív."
+msgstr "Premium-versio on jo aktiivinen."
 
 #: includes/class-freemius.php:25054
 msgid "You do not have a valid license to access the premium version."
-msgstr "Nincs érvényes licenced a prémium verzió eléréséhez."
+msgstr "Sinulla ei ole voimassa olevaa lisenssiä premium-version käyttöön."
 
 #: includes/class-freemius.php:25061
 msgid "Plugin is a \"Serviceware\" which means it does not have a premium code version."
-msgstr "A bővítmény egy „Serviceware”, ami azt jelenti, hogy nincs prémium kódverziója."
+msgstr "Lisäosa on ”Serviceware”, mikä tarkoittaa, että siitä ei ole premium-koodiversiota."
 
 #: includes/class-freemius.php:25439
 msgid "View paid features"
-msgstr "Fizetős funkciók megtekintése"
+msgstr "Näytä maksulliset ominaisuudet"
 
 #: includes/class-freemius.php:25754
 msgid "Thank you so much for using our products!"
-msgstr "Nagyon köszönjük, hogy használod a termékeinket!"
+msgstr "Kiitos paljon tuotteidemme käytöstä!"
 
 #: includes/class-freemius.php:25755
 msgid "You've already opted-in to our usage-tracking, which helps us keep improving them."
-msgstr "Már bekapcsoltad a használati adatok követését, ami segít nekünk folyamatosan fejleszteni azokat."
+msgstr "Olet jo hyväksynyt käyttötietojen seurannan, mikä auttaa meitä parantamaan niitä jatkuvasti."
 
 #: includes/class-freemius.php:25774
 msgid "%s and its add-ons"
-msgstr "%s és kiegészítői"
+msgstr "%s ja sen lisäosat"
 
 #: includes/class-freemius.php:25783
 msgid "Products"
-msgstr "Termékek"
+msgstr "Tuotteet"
 
 #: includes/class-freemius.php:25743
 msgid "Thank you so much for using %s and its add-ons!"
-msgstr "Nagyon köszönjük, hogy használod a %s-t és kiegészítőit!"
+msgstr "Kiitos paljon %s:n ja sen lisäosien käytöstä!"
 
 #: includes/class-freemius.php:25744
 msgid "Thank you so much for using %s!"
-msgstr "Nagyon köszönjük, hogy használod a %s-t!"
+msgstr "Kiitos paljon %s:n käytöstä!"
 
 #: includes/class-freemius.php:25750
 msgid "You've already opted-in to our usage-tracking, which helps us keep improving the %s."
-msgstr "Már bekapcsoltad a használati adatok követését, ami segít nekünk folyamatosan fejleszteni a %s-t."
+msgstr "Olet jo hyväksynyt käyttötietojen seurannan, mikä auttaa meitä parantamaan %s:a jatkuvasti."
 
 #: includes/class-freemius.php:25790, templates/connect.php:312
 msgid "Yes"
-msgstr "Igen"
+msgstr "Kyllä"
 
 #: includes/class-freemius.php:25791, templates/connect.php:313
 msgid "send me security & feature updates, educational content and offers."
-msgstr "kérek biztonsági és funkcionális frissítéseket, használati ismertetőket és ajánlatokat."
+msgstr "lähetä minulle tietoturva- ja ominaisuuspäivityksiä, opetussisältöä ja tarjouksia."
 
 #: includes/class-freemius.php:25792, templates/connect.php:318
 msgid "No"
-msgstr "Nem"
+msgstr "Ei"
 
 #: includes/class-freemius.php:25794, templates/connect.php:320
 msgid "do %sNOT%s send me security & feature updates, educational content and offers."
-msgstr "%sNE%s küldj nekem biztonsági és funkciófrissítéseket, oktatási tartalmakat és ajánlatokat."
+msgstr "%sÄLÄ%s lähetä minulle tietoturva- ja ominaisuuspäivityksiä, opetussisältöä ja tarjouksia."
 
 #: includes/class-freemius.php:25804
 msgid "Due to the new %sEU General Data Protection Regulation (GDPR)%s compliance requirements it is required that you provide your explicit consent, again, confirming that you are onboard :-)"
-msgstr "Az új %sEU Általános Adatvédelmi Rendelet (GDPR)%s megfelelőségi követelményei miatt szükséges, hogy ismét kifejezetten hozzájárulj, megerősítve, hogy egyetértesz :-)"
+msgstr "Uusien %sEU:n yleisen tietosuoja-asetuksen (GDPR)%s vaatimusten vuoksi sinun on annettava nimenomainen suostumuksesi uudelleen, vahvistaaksesi että olet mukana :-)"
 
 #: includes/class-freemius.php:25806, templates/connect.php:327
 msgid "Please let us know if you'd like us to contact you for security & feature updates, educational content, and occasional offers:"
-msgstr "Kérlek, jelezd, ha szeretnéd, hogy kapcsolatba lépjünk veled biztonsági és funkciófrissítések, oktatási tartalmak és alkalmi ajánlatok kapcsán:"
+msgstr "Kerro meille, haluatko että otamme sinuun yhteyttä tietoturva- ja ominaisuuspäivitysten, opetussisällön ja satunnaisten tarjousten osalta:"
 
 #: includes/class-freemius.php:26096
 msgid "License key is empty."
-msgstr "A licensz kulcs üres."
+msgstr "Lisenssiavain on tyhjä."
 
 #: includes/class-fs-plugin-updater.php:247, templates/forms/premium-versions-upgrade-handler.php:57
 msgid "Renew license"
-msgstr "Licensz megújítása"
+msgstr "Uudista lisenssi"
 
 #: includes/class-fs-plugin-updater.php:252, templates/forms/premium-versions-upgrade-handler.php:58
 msgid "Buy license"
-msgstr "Licensz vásárlása"
+msgstr "Osta lisenssi"
 
 #: includes/class-fs-plugin-updater.php:405, includes/class-fs-plugin-updater.php:372
 msgid "There is a %s of %s available."
-msgstr "Elérhető egy %s a %s-ból."
+msgstr "Saatavilla on %s %s."
 
 #: includes/class-fs-plugin-updater.php:410, includes/class-fs-plugin-updater.php:374
 msgid "new Beta version"
-msgstr "új Béta verzió"
+msgstr "uusi beetaversio"
 
 #: includes/class-fs-plugin-updater.php:411, includes/class-fs-plugin-updater.php:375
 msgid "new version"
-msgstr "új verzió"
+msgstr "uusi versio"
 
 #: includes/class-fs-plugin-updater.php:434
 msgid "Important Upgrade Notice:"
-msgstr "Fontos frissítési információ:"
+msgstr "Tärkeä päivitysilmoitus:"
 
 #: includes/class-fs-plugin-updater.php:1385
 msgid "Installing plugin: %s"
-msgstr "Bővítmény telepítése: %s"
+msgstr "Asennetaan lisäosaa: %s"
 
 #: includes/class-fs-plugin-updater.php:1426
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr "Nem sikerült kapcsolódni a fájlrendszerhez. Kérlek, erősítsd meg a hitelesítő adataidat."
+msgstr "Tiedostojärjestelmään ei saada yhteyttä. Vahvista kirjautumistietosi."
 
 #: includes/class-fs-plugin-updater.php:1608
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr "A távoli bővítménycsomag nem tartalmaz mappát a kívánt azonosítóval, és az átnevezés sem sikerült."
+msgstr "Etäliitännäispaketti ei sisällä kansiota halutulla tunnuksella, eikä uudelleennimeäminen onnistunut."
 
 #: includes/fs-plugin-info-dialog.php:542
 msgid "Purchase More"
-msgstr "Vásárlás folytatása"
+msgstr "Osta lisää"
 
 #: includes/fs-plugin-info-dialog.php:543, templates/account/partials/addon.php:390
 msgctxt "verb"
 msgid "Purchase"
-msgstr "Vásárlás"
+msgstr "Osta"
 
 #. translators: %s: N-days trial
 #: includes/fs-plugin-info-dialog.php:547
 msgid "Start my free %s"
-msgstr "Ingyenes %s indítása"
+msgstr "Aloita ilmainen %s"
 
 #: includes/fs-plugin-info-dialog.php:755
 msgid "Install Free Version Now"
-msgstr "Ingyenes verzió telepítése most"
+msgstr "Asenna ilmainen versio nyt"
 
 #: includes/fs-plugin-info-dialog.php:756, templates/add-ons.php:323, templates/auto-installation.php:111, templates/account/partials/addon.php:423, templates/account/partials/addon.php:370
 msgid "Install Now"
-msgstr "Telepítés most"
+msgstr "Asenna nyt"
 
 #: includes/fs-plugin-info-dialog.php:745
 msgid "Install Free Version Update Now"
-msgstr "Ingyenes verzió frissítésének telepítése most"
+msgstr "Asenna ilmaisen version päivitys nyt"
 
 #: includes/fs-plugin-info-dialog.php:746, templates/account.php:652
 msgid "Install Update Now"
-msgstr "Frissítés telepítése most"
+msgstr "Asenna päivitys nyt"
 
 #: includes/fs-plugin-info-dialog.php:772
 msgctxt "as download latest version"
 msgid "Download Latest Free Version"
-msgstr "A legfrissebb ingyenes verzió letöltése"
+msgstr "Lataa uusin ilmainen versio"
 
 #: includes/fs-plugin-info-dialog.php:773, templates/account.php:110, templates/add-ons.php:37, templates/account/partials/addon.php:30
 msgctxt "as download latest version"
 msgid "Download Latest"
-msgstr "Legfrissebb verzió letöltése"
+msgstr "Lataa uusin"
 
 #: includes/fs-plugin-info-dialog.php:788, templates/add-ons.php:329, templates/account/partials/addon.php:417, templates/account/partials/addon.php:361
 msgid "Activate this add-on"
-msgstr "Kiegészítő bekapcsolása"
+msgstr "Aktivoi tämä lisäosa"
 
 #: includes/fs-plugin-info-dialog.php:790, templates/connect.php:439
 msgid "Activate Free Version"
-msgstr "Ingyenes verzió aktiválása"
+msgstr "Aktivoi ilmainen versio"
 
 #: includes/fs-plugin-info-dialog.php:791, templates/account.php:134, templates/add-ons.php:330, templates/account/partials/addon.php:53
 msgid "Activate"
-msgstr "Aktiválás"
+msgstr "Aktivoi"
 
 #: includes/fs-plugin-info-dialog.php:999
 msgctxt "Plugin installer section title"
 msgid "Description"
-msgstr "Leírás"
+msgstr "Kuvaus"
 
 #: includes/fs-plugin-info-dialog.php:1000
 msgctxt "Plugin installer section title"
 msgid "Installation"
-msgstr "Telepítés"
+msgstr "Asennus"
 
 #: includes/fs-plugin-info-dialog.php:1001
 msgctxt "Plugin installer section title"
 msgid "FAQ"
-msgstr "GYIK"
+msgstr "UKK"
 
 #: includes/fs-plugin-info-dialog.php:1002, templates/plugin-info/description.php:55
 msgid "Screenshots"
-msgstr "Képernyőfotók"
+msgstr "Kuvakaappaukset"
 
 #: includes/fs-plugin-info-dialog.php:1003
 msgctxt "Plugin installer section title"
 msgid "Changelog"
-msgstr "Változtatások"
+msgstr "Muutosloki"
 
 #: includes/fs-plugin-info-dialog.php:1004
 msgctxt "Plugin installer section title"
 msgid "Reviews"
-msgstr "Vélemények"
+msgstr "Arvostelut"
 
 #: includes/fs-plugin-info-dialog.php:1005
 msgctxt "Plugin installer section title"
 msgid "Other Notes"
-msgstr "Egyéb megjegyzések"
+msgstr "Muut huomiot"
 
 #: includes/fs-plugin-info-dialog.php:1020
 msgctxt "Plugin installer section title"
 msgid "Features & Pricing"
-msgstr "Funkciók & Árak"
+msgstr "Ominaisuudet ja hinnoittelu"
 
 #: includes/fs-plugin-info-dialog.php:1030
 msgid "Plugin Install"
-msgstr "Bővítmény telepítése"
+msgstr "Lisäosan asennus"
 
 #: includes/fs-plugin-info-dialog.php:1102
 msgctxt "e.g. Professional Plan"
 msgid "%s Plan"
-msgstr "%s csomag"
+msgstr "%s-suunnitelma"
 
 #: includes/fs-plugin-info-dialog.php:1128
 msgctxt "e.g. the best product"
 msgid "Best"
-msgstr "Legjobb"
+msgstr "Paras"
 
 #: includes/fs-plugin-info-dialog.php:1134, includes/fs-plugin-info-dialog.php:1154
 msgctxt "as every month"
 msgid "Monthly"
-msgstr "Havi"
+msgstr "Kuukausittain"
 
 #: includes/fs-plugin-info-dialog.php:1137
 msgctxt "as once a year"
 msgid "Annual"
-msgstr "Éves"
+msgstr "Vuosittain"
 
 #: includes/fs-plugin-info-dialog.php:1140
 msgid "Lifetime"
-msgstr "Örök"
+msgstr "Elinikäinen"
 
 #: includes/fs-plugin-info-dialog.php:1154, includes/fs-plugin-info-dialog.php:1156, includes/fs-plugin-info-dialog.php:1158
 msgctxt "e.g. billed monthly"
 msgid "Billed %s"
-msgstr "%s számlázás"
+msgstr "Laskutetaan %s"
 
 #: includes/fs-plugin-info-dialog.php:1156
 msgctxt "as once a year"
 msgid "Annually"
-msgstr "Éves"
+msgstr "Vuosittain"
 
 #: includes/fs-plugin-info-dialog.php:1158
 msgctxt "as once a year"
 msgid "Once"
-msgstr "Egyszeri"
+msgstr "Kerran"
 
 #: includes/fs-plugin-info-dialog.php:1164
 msgid "Single Site License"
-msgstr "Egy weboldalas licensz"
+msgstr "Yhden sivuston lisenssi"
 
 #: includes/fs-plugin-info-dialog.php:1166
 msgid "Unlimited Licenses"
-msgstr "Korlátlan licensz"
+msgstr "Rajoittamaton määrä lisenssejä"
 
 #: includes/fs-plugin-info-dialog.php:1168
 msgid "Up to %s Sites"
-msgstr "Weboldalak száma: %s"
+msgstr "Enintään %s sivustoa"
 
 #: includes/fs-plugin-info-dialog.php:1178, templates/plugin-info/features.php:82
 msgctxt "as monthly period"
 msgid "mo"
-msgstr "hó"
+msgstr "kk"
 
 #: includes/fs-plugin-info-dialog.php:1185, templates/plugin-info/features.php:80
 msgctxt "as annual period"
 msgid "year"
-msgstr "év"
+msgstr "vuosi"
 
 #: includes/fs-plugin-info-dialog.php:1239
 msgctxt "noun"
 msgid "Price"
-msgstr "Ár"
+msgstr "Hinta"
 
 #. translators: %s: Discount (e.g. discount of $5 or 10%)
 #: includes/fs-plugin-info-dialog.php:1287
 msgid "Save %s"
-msgstr "%s mentése"
+msgstr "Säästä %s"
 
 #: includes/fs-plugin-info-dialog.php:1297
 msgid "No commitment for %s - cancel anytime"
-msgstr "Nincs elköteleződés %s - bármikor lemondhatod"
+msgstr "Ei sitoumusta %s - voit peruuttaa milloin tahansa"
 
 #: includes/fs-plugin-info-dialog.php:1300
 msgid "After your free %s, pay as little as %s"
-msgstr "Az ingyenes %s után már %s-tól fizethetsz"
+msgstr "Ilmaisen %s jälkeen maksat vain %s"
 
 #: includes/fs-plugin-info-dialog.php:1311
 msgid "Details"
-msgstr "Részletek"
+msgstr "Tiedot"
 
 #: includes/fs-plugin-info-dialog.php:1315, templates/account.php:121, templates/debug.php:300, templates/debug.php:342, templates/debug.php:601, templates/account/partials/addon.php:41
 msgctxt "product version"
 msgid "Version"
-msgstr "Verzió"
+msgstr "Versio"
 
 #: includes/fs-plugin-info-dialog.php:1322
 msgctxt "as the plugin author"
 msgid "Author"
-msgstr "Szerző"
+msgstr "Tekijä"
 
 #: includes/fs-plugin-info-dialog.php:1329
 msgid "Last Updated"
-msgstr "Utolsó frissítés"
+msgstr "Viimeksi päivitetty"
 
 #. translators: %s: time period (e.g. "2 hours" ago)
 #: includes/fs-plugin-info-dialog.php:1334, templates/account.php:540
 msgctxt "x-ago"
 msgid "%s ago"
-msgstr "%s ezelőtt"
+msgstr "%s sitten"
 
 #: includes/fs-plugin-info-dialog.php:1343
 msgid "Requires WordPress Version"
-msgstr "A következő WordPress verzió szükséges:"
+msgstr "Vaatii WordPress-version"
 
 #. translators: %s: Version number.
 #: includes/fs-plugin-info-dialog.php:1346, includes/fs-plugin-info-dialog.php:1366
 msgid "%s or higher"
-msgstr "%s vagy magasabb"
+msgstr "%s tai uudempi"
 
 #: includes/fs-plugin-info-dialog.php:1354
 msgid "Compatible up to"
-msgstr "Kompatibilitás:"
+msgstr "Yhteensopiva versioon"
 
 #: includes/fs-plugin-info-dialog.php:1362
 msgid "Requires PHP Version"
-msgstr "PHP verzió szükséges"
+msgstr "Vaatii PHP-version"
 
 #: includes/fs-plugin-info-dialog.php:1375
 msgid "Downloaded"
-msgstr "Letöltések száma:"
+msgstr "Ladattu"
 
 #. translators: %s: 1 or One (Number of times downloaded)
 #: includes/fs-plugin-info-dialog.php:1379
 msgid "%s time"
-msgstr "%s"
+msgstr "%s kerran"
 
 #. translators: %s: Number of times downloaded
 #: includes/fs-plugin-info-dialog.php:1381
 msgid "%s times"
-msgstr "%s"
+msgstr "%s kertaa"
 
 #: includes/fs-plugin-info-dialog.php:1392
 msgid "WordPress.org Plugin Page"
-msgstr "WordPress.org bővítmény oldal"
+msgstr "WordPress.org-lisäosasivu"
 
 #: includes/fs-plugin-info-dialog.php:1401
 msgid "Plugin Homepage"
-msgstr "Bővítmény oldala"
+msgstr "Lisäosan kotisivu"
 
 #: includes/fs-plugin-info-dialog.php:1410, includes/fs-plugin-info-dialog.php:1494
 msgid "Donate to this plugin"
-msgstr "Bővítmény támogatása"
+msgstr "Lahjoita tälle lisäosalle"
 
 #: includes/fs-plugin-info-dialog.php:1417
 msgid "Average Rating"
-msgstr "Átlagos értékelés"
+msgstr "Keskimääräinen arvosana"
 
 #: includes/fs-plugin-info-dialog.php:1424
 msgid "based on %s"
-msgstr "%s alapján"
+msgstr "perustuu %s"
 
 #. translators: %s: 1 or One
 #: includes/fs-plugin-info-dialog.php:1428
 msgid "%s rating"
-msgstr "%s értékelés"
+msgstr "%s arvostelu"
 
 #. translators: %s: Number larger than 1
 #: includes/fs-plugin-info-dialog.php:1430
 msgid "%s ratings"
-msgstr "%s értékelés"
+msgstr "%s arvostelua"
 
 #. translators: %s: 1 or One
 #: includes/fs-plugin-info-dialog.php:1445
 msgid "%s star"
-msgstr "%s csillag"
+msgstr "%s tähti"
 
 #. translators: %s: Number larger than 1
 #: includes/fs-plugin-info-dialog.php:1447
 msgid "%s stars"
-msgstr "%s csillag"
+msgstr "%s tähteä"
 
 #. translators: %s: # of stars (e.g. 5 stars)
 #: includes/fs-plugin-info-dialog.php:1459
 msgid "Click to see reviews that provided a rating of %s"
-msgstr "Kattints az %s értékelést adó vélemények megtekintéséhez"
+msgstr "Klikkaa nähdäksesi arvostelut, jotka antoivat %s arvosanan"
 
 #: includes/fs-plugin-info-dialog.php:1472
 msgid "Contributors"
-msgstr "Közreműködők"
+msgstr "Avustajat"
 
 #: includes/fs-plugin-info-dialog.php:1513
 msgid "This plugin requires a newer version of PHP."
-msgstr "Ehhez a bővítményhez újabb PHP verzió szükséges."
+msgstr "Tämä lisäosa vaatii uudemman PHP-version."
 
 #. translators: %s: URL to Update PHP page.
 #: includes/fs-plugin-info-dialog.php:1522
 msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating PHP</a>."
-msgstr "<a href=\"%s\" target=\"_blank\">Kattints ide, hogy többet megtudj a PHP frissítéséről</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">Klikkaa tästä saadaksesi lisätietoja PHP:n päivittämisestä</a>."
 
 #: includes/fs-plugin-info-dialog.php:1538, includes/fs-plugin-info-dialog.php:1536
 msgid "Warning"
-msgstr "Figyelmeztetés"
+msgstr "Varoitus"
 
 #: includes/fs-plugin-info-dialog.php:1538
 msgid "This plugin has not been marked as compatible with your version of WordPress."
-msgstr "Ez a bővítmény nincs kompatibilisként megjelölve a WordPress verziójával."
+msgstr "Tätä lisäosaa ei ole merkitty yhteensopivaksi WordPress-versiosi kanssa."
 
 #: includes/fs-plugin-info-dialog.php:1536
 msgid "This plugin has not been tested with your current version of WordPress."
-msgstr "Ez a bővítmény nem lett tesztelve a jelenlegi WordPress verziójával."
+msgstr "Tätä lisäosaa ei ole testattu nykyisen WordPress-versiosi kanssa."
 
 #: includes/fs-plugin-info-dialog.php:1557
 msgid "Paid add-on must be deployed to Freemius."
-msgstr "A fizetős kiegészítőt telepíteni kell a Freemiusra."
+msgstr "Maksullinen lisäosa täytyy julkaista Freemiuksessa."
 
 #: includes/fs-plugin-info-dialog.php:1558
 msgid "Add-on must be deployed to WordPress.org or Freemius."
-msgstr "A kiegészítőt telepíteni kell a WordPress.org-ra vagy a Freemiusra."
+msgstr "Lisäosa täytyy julkaista WordPress.orgissa tai Freemiuksessa."
 
 #: includes/fs-plugin-info-dialog.php:1587
 msgid "Latest Version Installed"
-msgstr "Legfrissebb verzió telepítve"
+msgstr "Uusin versio asennettu"
 
 #: includes/fs-plugin-info-dialog.php:1588
 msgid "Latest Free Version Installed"
-msgstr "Legfrissebb ingyenes verzió telepítve"
+msgstr "Uusin ilmainen versio asennettu"
 
 #: includes/fs-plugin-info-dialog.php:1579
 msgid "Newer Version (%s) Installed"
-msgstr "Újabb (%s) verzió telepítve"
+msgstr "Uudempi versio (%s) asennettu"
 
 #: includes/fs-plugin-info-dialog.php:1580
 msgid "Newer Free Version (%s) Installed"
-msgstr "Újabb (%s) ingyenes verzió telepítve"
+msgstr "Uudempi ilmainen versio (%s) asennettu"
 
 #: templates/account.php:111, templates/forms/subscription-cancellation.php:96, templates/account/partials/addon.php:31, templates/account/partials/site.php:313
 msgid "Downgrading your plan"
-msgstr "Előfizetés módosítása kisebbre"
+msgstr "Suunnitelman alentaminen"
 
 #: templates/account.php:112, templates/forms/subscription-cancellation.php:97, templates/account/partials/addon.php:32, templates/account/partials/site.php:314
 msgid "Cancelling the subscription"
-msgstr "Előfizetés törlése"
+msgstr "Tilauksen peruuttaminen"
 
 #. translators: %1$s: Either 'Downgrading your plan' or 'Cancelling the subscription'
 #: templates/account.php:114, templates/forms/subscription-cancellation.php:99, templates/account/partials/addon.php:34, templates/account/partials/site.php:316
 msgid "%1$s will immediately stop all future recurring payments and your %2$s plan license will expire in %3$s."
-msgstr "A %1$s azonnal leállítja az összes jövőbeli ismétlődő fizetést, és a %2$s előfizetésed %3$s múlva lejár."
+msgstr "%1$s lopettaa välittömästi kaikki tulevat toistuvat maksut ja %2$s-suunnitelman lisenssisi vanhenee %3$s kuluttua."
 
 #: templates/account.php:115, templates/forms/subscription-cancellation.php:100, templates/account/partials/addon.php:35, templates/account/partials/site.php:317
 msgid "Please note that we will not be able to grandfather outdated pricing for renewals/new subscriptions after a cancellation. If you choose to renew the subscription manually in the future, after a price increase, which typically occurs once a year, you will be charged the updated price."
-msgstr "Kérjük, vedd figyelembe, hogy lemondás után nem tudjuk biztosítani a korábbi árakat a megújításokhoz/új előfizetésekhez. Ha a jövőben manuálisan megújítod az előfizetést egy áremelés után, ami általában évente egyszer történik, a frissített árat fogjuk felszámolni."
+msgstr "Huomaa, että emme voi taata vanhoja hintoja uusille tilauksille tai uusinnoille peruutuksen jälkeen. Jos päätät uusia tilauksen manuaalisesti tulevaisuudessa hinnankorotuksen jälkeen, joka tyypillisesti tapahtuu kerran vuodessa, sinulta veloitetaan päivitetty hinta."
 
 #: templates/account.php:116, templates/forms/subscription-cancellation.php:106, templates/account/partials/addon.php:36
 msgid "Cancelling the trial will immediately block access to all premium features. Are you sure?"
-msgstr "A próbaidőszak lemondása azonnal megszünteti a hozzáférést az összes prémium funkcióhoz. Biztos vagy benne?"
+msgstr "Kokeilujakson peruuttaminen estää välittömästi pääsyn kaikkiin premium-ominaisuuksiin. Oletko varma?"
 
 #: templates/account.php:117, templates/forms/subscription-cancellation.php:101, templates/account/partials/addon.php:37, templates/account/partials/site.php:318
 msgid "You can still enjoy all %s features but you will not have access to %s security & feature updates, nor support."
-msgstr "Továbbra is élvezheted az összes %s funkciót, de nem fogsz hozzáférni a %s biztonsági és funkciófrissítéseihez, valamint a támogatáshoz."
+msgstr "Voit edelleen käyttää kaikkia %s ominaisuuksia, mutta et saa %s tietoturva- ja ominaisuuspäivityksiä etkä tukea."
 
 #: templates/account.php:118, templates/forms/subscription-cancellation.php:102, templates/account/partials/addon.php:38, templates/account/partials/site.php:319
 msgid "Once your license expires you can still use the Free version but you will NOT have access to the %s features."
-msgstr "Amint a licenced lejár, továbbra is használhatod az ingyenes verziót, de NEM fogsz hozzáférni a %s funkciókhoz."
+msgstr "Kun lisenssisi vanhenee, voit edelleen käyttää ilmaisversiota, mutta et pääse käyttämään %s ominaisuuksia."
 
 #. translators: %s: Plan title (e.g. "Professional")
 #: templates/account.php:120, templates/account/partials/activate-license-button.php:31, templates/account/partials/addon.php:40
 msgid "Activate %s Plan"
-msgstr "%s csomag aktiválása"
+msgstr "Aktivoi %s-suunnitelma"
 
 #. translators: %s: Time period (e.g. Auto renews in "2 months")
 #: templates/account.php:123, templates/account/partials/addon.php:43, templates/account/partials/site.php:293
 msgid "Auto renews in %s"
-msgstr "Automatikus megújítás %s múlva"
+msgstr "Uusitaan automaattisesti %s kuluttua"
 
 #. translators: %s: Time period (e.g. Expires in "2 months")
 #: templates/account.php:125, templates/account/partials/addon.php:45, templates/account/partials/site.php:295
 msgid "Expires in %s"
-msgstr "Hátralévő idő: %s"
+msgstr "Vanhenee %s kuluttua"
 
 #: templates/account.php:126
 msgctxt "as synchronize license"
 msgid "Sync License"
-msgstr "Licensz szinkronizálása"
+msgstr "Synkronoi lisenssi"
 
 #: templates/account.php:127, templates/account/partials/addon.php:46
 msgid "Cancel Trial"
-msgstr "Próbaidő törlése"
+msgstr "Peruuta kokeilu"
 
 #: templates/account.php:128, templates/account/partials/addon.php:47
 msgid "Change Plan"
-msgstr "Csomag módosítása"
+msgstr "Vaihda suunnitelmaa"
 
 #: templates/account.php:129, templates/account/partials/addon.php:48
 msgctxt "verb"
 msgid "Upgrade"
-msgstr "Előfizetés"
+msgstr "Päivitä"
 
 #: templates/account.php:131, templates/account/partials/addon.php:50, templates/account/partials/site.php:320
 msgctxt "verb"
 msgid "Downgrade"
-msgstr "Váltás kisebb csomagra"
+msgstr "Alenna"
 
 #: templates/account.php:133, templates/add-ons.php:246, templates/plugin-info/features.php:72, templates/account/partials/addon.php:52, templates/account/partials/site.php:33
 msgid "Free"
-msgstr "Ingyenes"
+msgstr "Ilmainen"
 
 #: templates/account.php:135, templates/debug.php:490, includes/customizer/class-fs-customizer-upsell-control.php:110, templates/account/partials/addon.php:54
 msgctxt "as product pricing plan"
 msgid "Plan"
-msgstr "Csomag"
+msgstr "Suunnitelma"
 
 #: templates/account.php:136
 msgid "Bundle Plan"
-msgstr "Csomag előfizetés"
+msgstr "Pakettitarjous"
 
 #: templates/account.php:268
 msgid "Free Trial"
-msgstr "Ingyenes próbaidő"
+msgstr "Ilmainen kokeilu"
 
 #: templates/account.php:279
 msgid "Account Details"
-msgstr "Fiók információk"
+msgstr "Tilin tiedot"
 
 #: templates/account.php:288
 msgid "Stop Debug"
-msgstr "Hibakeresés leállítása"
+msgstr "Lopeta virheenkorjaus"
 
 #: templates/account.php:286, templates/forms/data-debug-mode.php:33
 msgid "Start Debug"
-msgstr "Hibakeresés indítása"
+msgstr "Aloita virheenkorjaus"
 
 #: templates/account.php:295
 msgid "Billing & Invoices"
-msgstr "Számlázás"
+msgstr "Laskutus ja kuitit"
 
 #: templates/account.php:318, templates/account/partials/addon.php:236, templates/account/partials/deactivate-license-button.php:35
 msgid "Deactivate License"
-msgstr "Licensz deaktiválása"
+msgstr "Poista lisenssi käytöstä"
 
 #: templates/account.php:341, templates/forms/subscription-cancellation.php:125
 msgid "Are you sure you want to proceed?"
-msgstr "Biztosan ezt szeretnéd?"
+msgstr "Oletko varma, että haluat jatkaa?"
 
 #: templates/account.php:341, templates/account/partials/addon.php:260
 msgid "Cancel Subscription"
-msgstr "Előfizetés törlése"
+msgstr "Peruuta tilaus"
 
 #: templates/account.php:370, templates/account/partials/addon.php:345
 msgctxt "as synchronize"
 msgid "Sync"
-msgstr "Szinkronizálás"
+msgstr "Synkronoi"
 
 #: templates/account.php:385, templates/debug.php:663
 msgid "Name"
-msgstr "Név"
+msgstr "Nimi"
 
 #: templates/account.php:391, templates/debug.php:664
 msgid "Email"
-msgstr "E-mail"
+msgstr "Sähköposti"
 
 #: templates/account.php:398, templates/debug.php:488, templates/debug.php:718
 msgid "User ID"
-msgstr "Felhasználó ID"
+msgstr "Käyttäjätunnus"
 
 #: templates/account.php:416, templates/account.php:734, templates/account.php:785, templates/debug.php:340, templates/debug.php:482, templates/debug.php:598, templates/debug.php:662, templates/debug.php:716, templates/debug.php:799, templates/account/payments.php:35, templates/debug/logger.php:21
 msgid "ID"
-msgstr "Azonosító"
+msgstr "Tunnus"
 
 #: templates/account.php:423
 msgid "Site ID"
-msgstr "Weboldal ID"
+msgstr "Sivuston tunnus"
 
 #: templates/account.php:426
 msgid "No ID"
-msgstr "Nincs ID"
+msgstr "Ei tunnusta"
 
 #: templates/account.php:431, templates/debug.php:347, templates/debug.php:491, templates/debug.php:602, templates/debug.php:666, templates/account/partials/site.php:228
 msgid "Public Key"
-msgstr "Publikus kulcs"
+msgstr "Julkinen avain"
 
 #: templates/account.php:437, templates/debug.php:492, templates/debug.php:603, templates/debug.php:667, templates/account/partials/site.php:241
 msgid "Secret Key"
-msgstr "Titkos kulcs"
+msgstr "Salainen avain"
 
 #: templates/account.php:440
 msgctxt "as secret encryption key missing"
 msgid "No Secret"
-msgstr "Nincs titkos kulcs"
+msgstr "Ei salaista avainta"
 
 #: templates/account.php:494, templates/debug.php:724, templates/account/partials/site.php:262
 msgid "License Key"
-msgstr "Licensz kulcs"
+msgstr "Lisenssiavain"
 
 #: templates/account.php:467, templates/account/partials/site.php:122, templates/account/partials/site.php:120
 msgid "Trial"
-msgstr "Próbaidő"
+msgstr "Kokeilu"
 
 #: templates/account.php:525
 msgid "Join the Beta program"
-msgstr "Jelentkezz a Béta programba"
+msgstr "Liity beetaohjelmaan"
 
 #: templates/account.php:531
 msgid "not verified"
-msgstr "nem ellenőrzött"
+msgstr "ei vahvistettu"
 
 #: templates/account.php:600
 msgid "Free version"
-msgstr "Ingyenes verzió"
+msgstr "Ilmainen versio"
 
 #: templates/account.php:598
 msgid "Premium version"
-msgstr "Prémium verzió"
+msgstr "Premium-versio"
 
 #: templates/account.php:540, templates/account/partials/addon.php:195
 msgid "Expired"
-msgstr "Lejárt"
+msgstr "Vanhentunut"
 
 #: templates/account.php:612
 msgid "Verify Email"
-msgstr "Email ellenőrzése"
+msgstr "Vahvista sähköposti"
 
 #: templates/account.php:689, templates/forms/user-change.php:27
 msgid "Change User"
-msgstr "Felhasználó módosítása"
+msgstr "Vaihda käyttäjää"
 
 #: templates/account.php:676
 msgid "What is your %s?"
-msgstr "Mi a te %s?"
+msgstr "Mikä on sinun %s?"
 
 #: templates/account.php:684, templates/account/billing.php:21
 msgctxt "verb"
 msgid "Edit"
-msgstr "Szerkesztés"
+msgstr "Muokkaa"
 
 #: templates/account.php:660, templates/account.php:923, templates/account/partials/site.php:250, templates/account/partials/site.php:272
 msgctxt "verb"
 msgid "Show"
-msgstr "Mutasd"
+msgstr "Näytä"
 
 #: templates/account.php:626
 msgid "Download %s Version"
-msgstr "%s verzió letöltése"
+msgstr "Lataa %s versio"
 
 #: templates/account.php:642
 msgid "Download Paid Version"
-msgstr "Fizetős verzió letöltése"
+msgstr "Lataa maksullinen versio"
 
 #: templates/account.php:713
 msgid "Sites"
-msgstr "Weboldalak"
+msgstr "Sivustot"
 
 #: templates/account.php:726
 msgid "Search by address"
-msgstr "Keresés cím alapján"
+msgstr "Hae osoitteella"
 
 #: templates/account.php:735, templates/debug.php:485
 msgid "Address"
-msgstr "Cím"
+msgstr "Osoite"
 
 #: templates/account.php:736
 msgid "License"
-msgstr "Licensz"
+msgstr "Lisenssi"
 
 #: templates/account.php:737
 msgid "Plan"
-msgstr "Csomag"
+msgstr "Suunnitelma"
 
 #: templates/account.php:788
 msgctxt "as software license"
 msgid "License"
-msgstr "Licensz"
+msgstr "Lisenssi"
 
 #: templates/account.php:917
 msgctxt "verb"
 msgid "Hide"
-msgstr "Elrejt"
+msgstr "Piilota"
 
 #: templates/account.php:939, templates/forms/data-debug-mode.php:31, templates/forms/deactivation/form.php:358, templates/forms/deactivation/form.php:389
 msgid "Processing"
-msgstr "Feldolgozás alatt"
+msgstr "Käsitellään"
 
 #: templates/account.php:942
 msgid "Get updates for bleeding edge Beta versions of %s."
-msgstr "Kapj frissítéseket a %s legújabb béta verzióihoz."
+msgstr "Saat päivityksiä %s:n uusimpiin beetaversioihin."
 
 #: templates/account.php:1000
 msgid "Cancelling %s"
-msgstr "%s lemondása"
+msgstr "Peruutetaan %s"
 
 #: templates/account.php:1000, templates/account.php:1017, templates/forms/subscription-cancellation.php:27, templates/forms/deactivation/form.php:178
 msgid "trial"
-msgstr "próbaidő"
+msgstr "kokeilu"
 
 #: templates/account.php:1015, templates/forms/deactivation/form.php:195
 msgid "Cancelling %s..."
-msgstr "%s törlése..."
+msgstr "Peruutetaan %s..."
 
 #: templates/account.php:1018, templates/forms/subscription-cancellation.php:28, templates/forms/deactivation/form.php:179
 msgid "subscription"
-msgstr "előfizetés"
+msgstr "tilaus"
 
 #: templates/account.php:1032
 msgid "Deactivating your license will block all premium features, but will enable activating the license on another site. Are you sure you want to proceed?"
-msgstr "A licensz deaktiválása után a prémium funkciók használata nem elérhető, de így tudod másik weboldalon aktiválni ugyanezt a licenszt. Folytatod a deaktiválást?"
+msgstr "Lisenssin poistaminen käytöstä estää kaikki premium-ominaisuudet, mutta mahdollistaa lisenssin aktivoinnin toisella sivustolla. Haluatko varmasti jatkaa?"
 
 #: templates/account.php:1106
 msgid "Disabling white-label mode"
-msgstr "Fehér címkés mód kikapcsolása"
+msgstr "Poistetaan white-label-tila käytöstä"
 
 #: templates/account.php:1107
 msgid "Enabling white-label mode"
-msgstr "Fehér címkés mód bekapcsolása"
+msgstr "Otetaan white-label-tila käyttöön"
 
 #: templates/add-ons.php:38
 msgid "View details"
-msgstr "Részletek megtekintése"
+msgstr "Näytä tiedot"
 
 #: templates/add-ons.php:48
 msgid "Add Ons for %s"
-msgstr "Kiegészítők a %s-hoz"
+msgstr "Lisäosat %s:lle"
 
 #: templates/add-ons.php:58
 msgid "We couldn't load the add-ons list. It's probably an issue on our side, please try to come back in few minutes."
-msgstr "Nem tudtuk betölteni a kiegészítők listáját. Valószínűleg a mi oldalunkon van a probléma, kérjük, próbálkozz újra néhány perc múlva."
+msgstr "Lisäosalistaa ei voitu ladata. Kyseessä on todennäköisesti ongelma meidän päässämme, yritä palata muutaman minuutin kuluttua."
 
 #: templates/add-ons.php:229
 msgctxt "active add-on"
 msgid "Active"
-msgstr "Aktív"
+msgstr "Aktiivinen"
 
 #: templates/add-ons.php:230
 msgctxt "installed add-on"
 msgid "Installed"
-msgstr "Telepítve"
+msgstr "Asennettu"
 
 #: templates/admin-notice.php:17, templates/forms/license-activation.php:245, templates/forms/resend-key.php:80
 msgctxt "as close a window"
 msgid "Dismiss"
-msgstr "Mégsem"
+msgstr "Hylkää"
 
 #. translators: %s: Number of seconds
 #: templates/auto-installation.php:45
 msgid "%s sec"
-msgstr "%s mp"
+msgstr "%s s"
 
 #: templates/auto-installation.php:83
 msgid "Automatic Installation"
-msgstr "Automatikus telepítés"
+msgstr "Automaattinen asennus"
 
 #: templates/auto-installation.php:93
 msgid "An automated download and installation of %s (paid version) from %s will start in %s. If you would like to do it manually - click the cancellation button now."
-msgstr "A %s (fizetős verzió) automatikus letöltése és telepítése a %s-ról %s múlva kezdődik. Ha manuálisan szeretnéd elvégezni, kattints most a megszakítás gombra."
+msgstr "Automaattinen %s:n (maksullinen versio) lataus ja asennus %s:sta alkaa %s kuluttua. Jos haluat tehdä sen manuaalisesti, klikkaa peruutuspainiketta nyt."
 
 #: templates/auto-installation.php:104
 msgid "The installation process has started and may take a few minutes to complete. Please wait until it is done - do not refresh this page."
-msgstr "A telepítési folyamat elindult, és néhány percig eltarthat. Kérjük, várj, amíg befejeződik - ne frissítsd ezt az oldalt."
+msgstr "Asennusprosessi on alkanut ja saattaa kestää muutaman minuutin. Odota kunnes se on valmis - älä päivitä tätä sivua."
 
 #: templates/auto-installation.php:109
 msgid "Cancel Installation"
-msgstr "Telepítés törlése"
+msgstr "Peruuta asennus"
 
 #. translators: %s: name (e.g. Hey John,)
 #: templates/connect.php:118
 msgctxt "greeting"
 msgid "Hey %s,"
-msgstr "Üdv %s!"
+msgstr "Hei %s,"
 
 #. translators: %1$s: plugin name (e.g., "Awesome Plugin"); %2$s: version (e.g., "1.2.3")
 #: templates/connect.php:185
 msgid "Thank you for updating to %1$s v%2$s!"
-msgstr "Köszönjük, hogy frissítettél a %1$s v%2$s verzióra!"
+msgstr "Kiitos, että päivitit versioon %1$s v%2$s!"
 
 #: templates/connect.php:177
 msgid "Never miss an important update"
-msgstr "Soha ne maradj le egy fontos frissítésről"
+msgstr "Älä koskaan missaa tärkeää päivitystä"
 
 #: templates/connect.php:195
 msgid "Allow & Continue"
-msgstr "Engedélyezés és folytatás"
+msgstr "Salli ja jatka"
 
 #. translators: %s: module type (plugin, theme, or add-on)
 #: templates/connect.php:235
 msgid "We have introduced this opt-in so you never miss an important update and help us make the %s more compatible with your site and better at doing what you need it to."
-msgstr "Azért vezettük be ezt a feliratkozási lehetőséget, hogy soha ne maradj le egy fontos frissítésről, és segíts nekünk a %s kompatibilisebbé és jobbá tételében, hogy megfeleljen az igényeidnek."
+msgstr "Olemme ottaneet käyttöön tämän valinnaisen ominaisuuden, jotta et koskaan missaisi tärkeää päivitystä ja auttaisit meitä tekemään %s:sta yhteensopivamman sivustosi kanssa ja paremman tekemään sen, mitä tarvitset."
 
 #: templates/connect.php:237
 msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info."
-msgstr "Iratkozz fel, hogy e-mail értesítéseket kapj a biztonsági és funkciófrissítésekről, oktatási tartalmakról és alkalmi ajánlatokról, valamint hogy megoszd velünk néhány alapvető WordPress környezeti információt."
+msgstr "Valitse saadaksesi sähköposti-ilmoituksia tietoturva- ja ominaisuuspäivityksistä, opetussisällöstä ja satunnaisista tarjouksista, sekä jakaaksesi joitakin perustietoja WordPress-ympäristöstäsi."
 
 #: templates/connect.php:240
 msgid "If you skip this, that's okay! %1$s will still work just fine."
-msgstr "Ha kihagyod ezt, az rendben van! A %1$s továbbra is megfelelően fog működni."
+msgstr "Jos ohitat tämän, se on okei! %1$s toimii silti aivan hyvin."
 
 #: templates/connect.php:226
 msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info. This will help us make the %s more compatible with your site and better at doing what you need it to."
-msgstr "Iratkozz fel, hogy e-mail értesítéseket kapj a biztonsági és funkciófrissítésekről, oktatási tartalmakról és alkalmi ajánlatokról, valamint hogy megoszd velünk néhány alapvető WordPress környezeti információt. Ez segít nekünk abban, hogy a %s kompatibilisebb legyen az oldaladon és jobban megfeleljen az igényeidnek."
+msgstr "Valitse saadaksesi sähköposti-ilmoituksia tietoturva- ja ominaisuuspäivityksistä, opetussisällöstä ja satunnaisista tarjouksista, sekä jakaaksesi joitakin perustietoja WordPress-ympäristöstäsi. Tämä auttaa meitä tekemään %s:sta yhteensopivamman sivustosi kanssa ja paremman tekemään sen, mitä tarvitset."
 
 #: templates/connect.php:215
 msgid "Welcome to %s! To get started, please enter your license key:"
-msgstr "Köszönjük, hogy a(z) %s szoftverünket választottad! Kérlek add meg a licensz kulcsod: "
+msgstr "Tervetuloa %s:een! Aloittaaksesi, syötä lisenssinavaimesi:"
 
 #: templates/connect.php:199
 msgid "Re-send activation email"
-msgstr "Aktivációs email újraküldése"
+msgstr "Lähetä aktivointisähköposti uudelleen"
 
 #: templates/connect.php:203
 msgid "Thanks %s!"
-msgstr "Köszönjük %s!"
+msgstr "Kiitos %s!"
 
 #: templates/connect.php:204
 msgid "You should receive a confirmation email for %s to your mailbox at %s. Please make sure you click the button in that email to %s."
-msgstr "Egy megerősítő e-mailt kell kapnod a %s számára a %s postafiókodba. Kérjük, győződj meg róla, hogy rákattintasz az e-mailben lévő gombra a %s-hoz."
+msgstr "Sinun pitäisi saada vahvistussähköposti %s:lle sähköpostiisi osoitteeseen %s. Varmista, että klikkaat kyseisessä sähköpostissa olevaa painiketta %s."
 
 #: templates/connect.php:270
 msgid "We're excited to introduce the Freemius network-level integration."
-msgstr "Örömmel mutatjuk be a Freemius hálózati szintű integrációját."
+msgstr "Olemme innoissamme esitellessämme Freemius-verkkotason integraation."
 
 #: templates/connect.php:284
 msgid "During the update process we detected %s site(s) in the network that are still pending your attention."
-msgstr "A frissítési folyamat során %s olyan oldalt észleltünk a hálózatban, amely még figyelmet igényel."
+msgstr "Päivitysprosessin aikana havaitsimme %s sivustoa verkostossa, jotka vaativat vielä huomiotasi."
 
 #: templates/connect.php:273
 msgid "During the update process we detected %d site(s) that are still pending license activation."
-msgstr "A frissítési folyamat során %d olyan oldalt észleltünk, ahol még aktiválni kell a licencet."
+msgstr "Päivitysprosessin aikana havaitsimme %d sivustoa, joilla lisenssin aktivointi on vielä kesken."
 
 #: templates/connect.php:275
 msgid "If you'd like to use the %s on those sites, please enter your license key below and click the activation button."
-msgstr "Ha szeretnéd használni a %s-t ezeken az oldalakon, kérjük, add meg a licenckulcsodat alább, és kattints az aktiválás gombra."
+msgstr "Jos haluat käyttää %s:a näillä sivustoilla, syötä lisenssinavaimesi alle ja klikkaa aktivointipainiketta."
 
 #: templates/connect.php:277
 msgid "%s's paid features"
-msgstr "A %s fizetős funkciói"
+msgstr "%s:n maksulliset ominaisuudet"
 
 #: templates/connect.php:282
 msgid "Alternatively, you can skip it for now and activate the license later, in your %s's network-level Account page."
-msgstr "Alternatívaként kihagyhatod most, és később aktiválhatod a licencet a %s hálózati szintű Fiók oldalán."
+msgstr "Vaihtoehtoisesti voit ohittaa tämän nyt ja aktivoida lisenssin myöhemmin %s:n verkkotason Tili-sivulla."
 
 #: templates/connect.php:293, templates/forms/data-debug-mode.php:35, templates/forms/license-activation.php:42
 msgid "License key"
-msgstr "Licensz kulcs"
+msgstr "Lisenssiavain"
 
 #: templates/connect.php:296, templates/forms/license-activation.php:22
 msgid "Can't find your license key?"
-msgstr "Nem találod a licensz kulcsod?"
+msgstr "Etkö löydä lisenssiavaintasi?"
 
 #: templates/connect.php:340
 msgid "A user has not yet been associated with the license, which is necessary to prevent unauthorized activation. To assign the license to your user, you agree to share your WordPress user's full name and email address."
-msgstr "Még nem társítottak felhasználót a licenchez, ami szükséges a jogosulatlan aktiválás megakadályozásához. A licenc hozzárendeléséhez a felhasználódhoz hozzájárulsz, hogy megoszd a WordPress felhasználód teljes nevét és e-mail címét."
+msgstr "Käyttäjää ei ole vielä yhdistetty lisenssiin, mikä on välttämätöntä luvattoman aktivoinnin estämiseksi. Yhdistääksesi lisenssin käyttäjätiliisi, suostut jakamaan WordPress-käyttäjäsi koko nimen ja sähköpostiosoitteen."
 
 #: templates/connect.php:362, templates/connect.php:692, templates/forms/deactivation/retry-skip.php:20
 msgctxt "verb"
 msgid "Skip"
-msgstr "Ugrás"
+msgstr "Ohita"
 
 #: templates/connect.php:365
 msgid "Delegate to Site Admins"
-msgstr "Delegálás az oldal adminisztrátorainak"
+msgstr "Delegoi sivuston ylläpitäjille"
 
 #: templates/connect.php:365
 msgid "If you click it, this decision will be delegated to the sites administrators."
-msgstr "Ha rákattintasz, ez a döntés az oldal adminisztrátoraihoz lesz delegálva."
+msgstr "Jos klikkaat tätä, päätös delegoidaan sivustojen ylläpitäjille."
 
 #: templates/connect.php:394
 msgid "License issues?"
-msgstr "Licensszel kapcsolatos problémák?"
+msgstr "Ongelmia lisenssin kanssa?"
 
 #: templates/connect.php:423
 msgid "This will allow %s to"
-msgstr "Ez lehetővé teszi a %s számára, hogy"
+msgstr "Tämä sallii %s:n"
 
 #: templates/connect.php:418
 msgid "For delivery of security & feature updates, and license management, %s needs to"
-msgstr "A biztonsági és funkciófrissítések kézbesítéséhez, valamint a licenckezeléshez a %s-nak szüksége van arra, hogy"
+msgstr "Tietoturva- ja ominaisuuspäivitysten toimittamiseksi sekä lisenssin hallintaa varten %s:n täytyy"
 
 #: templates/connect.php:441
 msgid "Have a license key?"
-msgstr "Van licensz kulcsod?"
+msgstr "Onko sinulla lisenssiavain?"
 
 #: templates/connect.php:438
 msgid "Don't have a license key?"
-msgstr "Nincs még licensz kulcsod?"
+msgstr "Eikö sinulla ole lisenssiavainta?"
 
 #: templates/connect.php:449
 msgid "Freemius is our licensing and software updates engine"
-msgstr "A licenszkezelést és szoftver frissítést a Freemius biztosítja"
+msgstr "Freemius on lisensointi- ja ohjelmistopäivitysmoottorimme"
 
 #: templates/connect.php:452
 msgid "Privacy Policy"
-msgstr "Adatkezelési tájékoztató"
+msgstr "Tietosuojakäytäntö"
 
 #: templates/connect.php:457
 msgid "Terms of Service"
-msgstr "Szolgáltatási feltételek"
+msgstr "Käyttöehdot"
 
 #: templates/connect.php:455
 msgid "License Agreement"
-msgstr "Licensz szerződés"
+msgstr "Lisenssisopimus"
 
 #: templates/connect.php:879
 msgctxt "as in the process of sending an email"
 msgid "Sending email"
-msgstr "Email küldése"
+msgstr "Lähetetään sähköpostia"
 
 #: templates/connect.php:880
 msgctxt "as activating plugin"
 msgid "Activating"
-msgstr "Aktiválás"
+msgstr "Aktivoidaan"
 
 #: templates/contact.php:63
 msgid "Contact"
-msgstr "Kapcsolat"
+msgstr "Ota yhteyttä"
 
 #: templates/debug.php:17
 msgctxt "as turned off"
 msgid "Off"
-msgstr "Ki"
+msgstr "Pois päältä"
 
 #: templates/debug.php:18
 msgctxt "as turned on"
 msgid "On"
-msgstr "Be"
+msgstr "Päällä"
 
 #: templates/debug.php:29, includes/managers/class-fs-debug-manager.php:26
 msgid "Freemius Debug"
-msgstr "Freemius hibakeresés"
+msgstr "Freemius-virheenkorjaus"
 
 #: templates/debug.php:29
 msgid "SDK"
@@ -1703,93 +1703,93 @@ msgstr "SDK"
 #: templates/debug.php:32
 msgctxt "as code debugging"
 msgid "Debugging"
-msgstr "Hibakeresés"
+msgstr "Virheenkorjaus"
 
 #: templates/debug.php:38
 msgctxt "timer for auto-disabling debug"
 msgid "Auto off in:"
-msgstr "Automatikus kikapcsolás:"
+msgstr "Automaattinen sammutus:"
 
 #: templates/debug.php:117, templates/debug.php:352, templates/debug.php:493, templates/debug.php:668
 msgid "Actions"
-msgstr "Események"
+msgstr "Toiminnot"
 
 #: templates/debug.php:127
 msgid "Are you sure you want to delete all Freemius data?"
-msgstr "Biztosan törölsz minden Freemius adatot?"
+msgstr "Oletko varma, että haluat poistaa kaikki Freemiuksen tiedot?"
 
 #: templates/debug.php:127
 msgid "Delete All Accounts"
-msgstr "Minden fiók törlése"
+msgstr "Poista kaikki tilit"
 
 #: templates/debug.php:134
 msgid "Clear API Cache"
-msgstr "API gyorsítótár törlése"
+msgstr "Tyhjennä API-välimuisti"
 
 #: templates/debug.php:142
 msgid "Clear Updates Transients"
-msgstr "Átmeneti frissítési adatok törlése"
+msgstr "Tyhjennä päivitysten väliaikaiset tiedot"
 
 #: templates/debug.php:151
 msgid "Reset Deactivation Snoozing"
-msgstr "Deaktiválás elhalasztásának visszaállítása"
+msgstr "Nollaa käytöstä poiston lykkäys"
 
 #: templates/debug.php:159
 msgid "Sync Data From Server"
-msgstr "Adatok szinkronizálása a szerverről"
+msgstr "Synkronoi tiedot palvelimelta"
 
 #: templates/debug.php:168
 msgid "Migrate Options to Network"
-msgstr "Beállítások migrálása a hálózatra"
+msgstr "Siirrä asetukset verkkoon"
 
 #: templates/debug.php:173
 msgid "Load DB Option"
-msgstr "DB opció betöltése"
+msgstr "Lataa tietokanta-asetus"
 
 #: templates/debug.php:176
 msgid "Set DB Option"
-msgstr "DB opció beállítása"
+msgstr "Aseta tietokanta-asetus"
 
 #: templates/debug.php:274
 msgid "Key"
-msgstr "Kulcs"
+msgstr "Avain"
 
 #: templates/debug.php:275
 msgid "Value"
-msgstr "Érték"
+msgstr "Arvo"
 
 #: templates/debug.php:295
 msgctxt "as software development kit versions"
 msgid "SDK Versions"
-msgstr "SDK verziók"
+msgstr "SDK-versiot"
 
 #: templates/debug.php:301
 msgid "SDK Path"
-msgstr "SDK útvonal"
+msgstr "SDK-polku"
 
 #: templates/debug.php:302, templates/debug.php:346
 msgid "Module Path"
-msgstr "Modul útvonal"
+msgstr "Moduulin polku"
 
 #: templates/debug.php:303
 msgid "Is Active"
-msgstr "Aktív"
+msgstr "Aktiivinen"
 
 #: templates/debug.php:335, templates/debug/plugins-themes-sync.php:35
 msgid "Plugins"
-msgstr "Bővítmények"
+msgstr "Lisäosat"
 
 #: templates/debug.php:335, templates/debug/plugins-themes-sync.php:56
 msgid "Themes"
-msgstr "Sablonok"
+msgstr "Teemat"
 
 #: templates/debug.php:341, templates/debug.php:487, templates/debug.php:600, templates/debug/scheduled-crons.php:91
 msgid "Slug"
-msgstr "Közvetlen hivatkozás"
+msgstr "Tunniste"
 
 #: templates/debug.php:343, templates/debug.php:599
 msgid "Title"
-msgstr "Cím"
+msgstr "Otsikko"
 
 #: templates/debug.php:344
 msgctxt "as application program interface"
@@ -1798,159 +1798,159 @@ msgstr "API"
 
 #: templates/debug.php:345
 msgid "Freemius State"
-msgstr "Freemius állapot"
+msgstr "Freemius-tila"
 
 #: templates/debug.php:349
 msgid "Network Blog"
-msgstr "Hálózati blog"
+msgstr "Verkkosivusto"
 
 #: templates/debug.php:350
 msgid "Network User"
-msgstr "Hálózati felhasználó"
+msgstr "Verkon käyttäjä"
 
 #: templates/debug.php:396
 msgctxt "as connection was successful"
 msgid "Connected"
-msgstr "Kapcsolódva"
+msgstr "Yhdistetty"
 
 #: templates/debug.php:398
 msgctxt "as connection blocked"
 msgid "Blocked"
-msgstr "Blokkolva"
+msgstr "Estetty"
 
 #: templates/debug.php:399
 msgctxt "API connectivity state is unknown"
 msgid "Unknown"
-msgstr "Ismeretlen"
+msgstr "Tuntematon"
 
 #: templates/debug.php:435
 msgid "Simulate Trial Promotion"
-msgstr "Próbaidőszak promóció szimulálása"
+msgstr "Simuloi kokeilujakson mainontaa"
 
 #: templates/debug.php:447
 msgid "Simulate Network Upgrade"
-msgstr "Hálózati frissítés szimulálása"
+msgstr "Simuloi verkon päivitystä"
 
 #. translators: %s: 'plugin' or 'theme'
 #: templates/debug.php:475
 msgid "%s Installs"
-msgstr "%s telepítés"
+msgstr "%s asennusta"
 
 #: templates/debug.php:477
 msgctxt "like websites"
 msgid "Sites"
-msgstr "Weboldalak"
+msgstr "Sivustot"
 
 #: templates/debug.php:484, templates/account/partials/site.php:156
 msgid "Blog ID"
-msgstr "Blog azonosító"
+msgstr "Sivuston tunnus"
 
 #: templates/debug.php:489
 msgid "License ID"
-msgstr "Licensz ID"
+msgstr "Lisenssin tunnus"
 
 #: templates/debug.php:575, templates/debug.php:691, templates/account/partials/addon.php:440
 msgctxt "verb"
 msgid "Delete"
-msgstr "Törlés"
+msgstr "Poista"
 
 #: templates/debug.php:593
 msgid "Add Ons of module %s"
-msgstr "%s modul kiegészítői"
+msgstr "Moduulin %s lisäosat"
 
 #: templates/debug.php:657
 msgid "Users"
-msgstr "Felhasználók"
+msgstr "Käyttäjät"
 
 #: templates/debug.php:665
 msgid "Verified"
-msgstr "Ellenőrzött"
+msgstr "Vahvistettu"
 
 #: templates/debug.php:711
 msgid "%s Licenses"
-msgstr "%s licensz"
+msgstr "%s lisenssiä"
 
 #: templates/debug.php:717
 msgid "Plugin ID"
-msgstr "Bővítmény ID"
+msgstr "Lisäosan tunnus"
 
 #: templates/debug.php:719
 msgid "Plan ID"
-msgstr "Csomag ID"
+msgstr "Suunnitelman tunnus"
 
 #: templates/debug.php:720
 msgid "Quota"
-msgstr "Rendelkezésre áll"
+msgstr "Kiintiö"
 
 #: templates/debug.php:721
 msgid "Activated"
-msgstr "Sikeres aktiválás"
+msgstr "Aktivoitu"
 
 #: templates/debug.php:722
 msgid "Blocking"
-msgstr "Blokkolás"
+msgstr "Estää"
 
 #: templates/debug.php:723, templates/debug.php:798, templates/debug/logger.php:22
 msgid "Type"
-msgstr "Típus"
+msgstr "Tyyppi"
 
 #: templates/debug.php:725
 msgctxt "as expiration date"
 msgid "Expiration"
-msgstr "Lejárat"
+msgstr "Vanhentuminen"
 
 #: templates/debug.php:757
 msgid "Debug Log"
-msgstr "Hibakeresési napló"
+msgstr "Vianjäljitysloki"
 
 #: templates/debug.php:761
 msgid "All Types"
-msgstr "Minden típus"
+msgstr "Kaikki tyypit"
 
 #: templates/debug.php:768
 msgid "All Requests"
-msgstr "Minden kérés"
+msgstr "Kaikki pyynnöt"
 
 #: templates/debug.php:773, templates/debug.php:802, templates/debug/logger.php:25
 msgid "File"
-msgstr "Fájl"
+msgstr "Tiedosto"
 
 #: templates/debug.php:774, templates/debug.php:800, templates/debug/logger.php:23
 msgid "Function"
-msgstr "Funkció"
+msgstr "Funktio"
 
 #: templates/debug.php:775
 msgid "Process ID"
-msgstr "Művelet ID"
+msgstr "Prosessin tunnus"
 
 #: templates/debug.php:776
 msgid "Logger"
-msgstr "Naplózó"
+msgstr "Lokikirjuri"
 
 #: templates/debug.php:777, templates/debug.php:801, templates/debug/logger.php:24
 msgid "Message"
-msgstr "Üzenet"
+msgstr "Viesti"
 
 #: templates/debug.php:779
 msgid "Filter"
-msgstr "Szűrő"
+msgstr "Suodata"
 
 #: templates/debug.php:787
 msgid "Download"
-msgstr "Letöltés"
+msgstr "Lataa"
 
 #: templates/debug.php:803, templates/debug/logger.php:26
 msgid "Timestamp"
-msgstr "Időbélyeg"
+msgstr "Aikaleima"
 
 #. translators: %s: Page name
 #: templates/secure-https-header.php:28
 msgid "Secure HTTPS %s page, running from an external domain"
-msgstr "Biztonságos HTTPS %s oldal, külső domainről futtatva"
+msgstr "Suojattu HTTPS %s -sivu, toimii ulkoiselta verkkotunnukselta"
 
 #: includes/customizer/class-fs-customizer-support-section.php:55, templates/plugin-info/features.php:43
 msgid "Support"
-msgstr "Ügyfélszolgálat"
+msgstr "Tuki"
 
 #: includes/debug/class-fs-debug-bar-panel.php:51, templates/debug/api-calls.php:54, templates/debug/logger.php:62
 msgctxt "milliseconds"
@@ -1963,305 +1963,305 @@ msgstr "Freemius API"
 
 #: includes/debug/debug-bar-start.php:42
 msgid "Requests"
-msgstr "Kérések"
+msgstr "Pyynnöt"
 
 #: includes/managers/class-fs-clone-manager.php:849
 msgid "Invalid clone resolution action."
-msgstr "Érvénytelen klón feloldási művelet."
+msgstr "Virheellinen kloonin ratkaisutoiminto."
 
 #: includes/managers/class-fs-clone-manager.php:1034
 msgid "products"
-msgstr "termékek"
+msgstr "tuotteet"
 
 #: includes/managers/class-fs-clone-manager.php:1221
 msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of %3$s:%1$s"
-msgstr "Az alábbi termékeket biztonsági módba helyeztük, mert észrevettük, hogy %2$s pontos másolata ennek: %3$s:%1$s"
+msgstr "Alla olevat tuotteet on asetettu turvatilaan, koska huomasimme, että %2$s on tarkka kopio sivustosta %3$s:%1$s"
 
 #: includes/managers/class-fs-clone-manager.php:1222
 msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of these sites:%3$s%1$s"
-msgstr "Az alábbi termékeket biztonsági módba helyeztük, mert észrevettük, hogy %2$s pontos másolata ezeknek az oldalaknak:%3$s%1$s"
+msgstr "Alla olevat tuotteet on asetettu turvatilaan, koska huomasimme, että %2$s on tarkka kopio näistä sivustoista:%3$s%1$s"
 
 #: includes/managers/class-fs-clone-manager.php:1215
 msgid "%1$s has been placed into safe mode because we noticed that %2$s is an exact copy of %3$s."
-msgstr "%1$s biztonsági módba került, mert észrevettük, hogy %2$s pontos másolata ennek: %3$s."
+msgstr "%1$s on asetettu turvatilaan, koska huomasimme, että %2$s on tarkka kopio sivustosta %3$s."
 
 #: includes/managers/class-fs-clone-manager.php:1248
 msgid "the above-mentioned sites"
-msgstr "a fent említett oldalak"
+msgstr "yllä mainitut sivustot"
 
 #: includes/managers/class-fs-clone-manager.php:1261
 msgid "Is %2$s a duplicate of %4$s?"
-msgstr "%2$s másolata %4$s-nek?"
+msgstr "Onko %2$s kopio sivustosta %4$s?"
 
 #: includes/managers/class-fs-clone-manager.php:1262
 msgid "Yes, %2$s is a duplicate of %4$s for the purpose of testing, staging, or development."
-msgstr "Igen, %2$s másolata %4$s-nek tesztelés, előkészítés vagy fejlesztés céljából."
+msgstr "Kyllä, %2$s on kopio sivustosta %4$s testausta, valmistelua tai kehitystä varten."
 
 #: includes/managers/class-fs-clone-manager.php:1267
 msgid "Long-Term Duplicate"
-msgstr "Hosszú távú másolat"
+msgstr "Pitkäaikainen kopio"
 
 #: includes/managers/class-fs-clone-manager.php:1272
 msgid "Duplicate Website"
-msgstr "Duplikált weboldal"
+msgstr "Kopio sivustosta"
 
 #: includes/managers/class-fs-clone-manager.php:1278
 msgid "Is %2$s the new home of %4$s?"
-msgstr "%2$s az új otthona %4$s-nek?"
+msgstr "Onko %2$s sivuston %4$s uusi sijainti?"
 
 #: includes/managers/class-fs-clone-manager.php:1280
 msgid "Yes, %%2$s is replacing %%4$s. I would like to migrate my %s from %%4$s to %%2$s."
-msgstr "Igen, %%2$s felváltja %%4$s-et. Szeretném átvinni a %s-t %%4$s-ről %%2$s-re."
+msgstr "Kyllä, %%2$s korvaa sivuston %%4$s. Haluaisin siirtää %s sivustolta %%4$s sivustolle %%2$s."
 
 #: includes/managers/class-fs-clone-manager.php:1281, templates/forms/subscription-cancellation.php:52
 msgid "license"
-msgstr "licensz"
+msgstr "lisenssin"
 
 #: includes/managers/class-fs-clone-manager.php:1281
 msgid "data"
-msgstr "adatok"
+msgstr "tiedot"
 
 #: includes/managers/class-fs-clone-manager.php:1287
 msgid "Migrate License"
-msgstr "Licenc átvitele"
+msgstr "Siirrä lisenssi"
 
 #: includes/managers/class-fs-clone-manager.php:1288
 msgid "Migrate"
-msgstr "Átvitel"
+msgstr "Siirrä"
 
 #: includes/managers/class-fs-clone-manager.php:1294
 msgid "Is %2$s a new website?"
-msgstr "%2$s egy új weboldal?"
+msgstr "Onko %2$s uusi sivusto?"
 
 #: includes/managers/class-fs-clone-manager.php:1295
 msgid "Yes, %2$s is a new and different website that is separate from %4$s."
-msgstr "Igen, %2$s egy új és különálló weboldal, amely független %4$s-től."
+msgstr "Kyllä, %2$s on uusi ja erillinen sivusto, joka on erillään sivustosta %4$s."
 
 #: includes/managers/class-fs-clone-manager.php:1297
 msgid "It requires license activation."
-msgstr "Licenc aktiválásra van szüksége."
+msgstr "Se vaatii lisenssin aktivoinnin."
 
 #: includes/managers/class-fs-clone-manager.php:1304
 msgid "New Website"
-msgstr "Új weboldal"
+msgstr "Uusi sivusto"
 
 #: includes/managers/class-fs-clone-manager.php:1329
 msgctxt "Clone resolution admin notice products list label"
 msgid "Products"
-msgstr "Termékek"
+msgstr "Tuotteet"
 
 #: includes/managers/class-fs-clone-manager.php:1418
 msgid "You marked this website, %s, as a temporary duplicate of %s."
-msgstr "Ezt a weboldalt, %s, ideiglenes másolatként jelölted meg ehhez: %s."
+msgstr "Merkitsit tämän sivuston, %s, väliaikaiseksi kopioksi sivustosta %s."
 
 #: includes/managers/class-fs-clone-manager.php:1419
 msgid "You marked this website, %s, as a temporary duplicate of these sites"
-msgstr "Ezt a weboldalt, %s, ideiglenes másolatként jelölted meg ezekhez az oldalakhoz"
+msgstr "Merkitsit tämän sivuston, %s, väliaikaiseksi kopioksi näistä sivustoista"
 
 #: includes/managers/class-fs-clone-manager.php:1433
 msgid "%s automatic security & feature updates and paid functionality will keep working without interruptions until %s (or when your license expires, whatever comes first)."
-msgstr "A %s automatikus biztonsági és funkció frissítései, valamint a fizetős funkciók megszakítás nélkül működnek %s-ig (vagy amíg a licenced le nem jár, amelyik előbb bekövetkezik)."
+msgstr "%s automaattiset tietoturva- ja ominaisuuspäivitykset sekä maksulliset toiminnot jatkavat toimintaansa keskeytyksettä %s asti (tai kunnes lisenssisi vanhenee, kumpi tahansa tulee ensin)."
 
 #: includes/managers/class-fs-clone-manager.php:1436
 msgctxt "\"The <product_label>\", e.g.: \"The plugin\""
 msgid "The %s's"
-msgstr "A %s"
+msgstr "%s:n"
 
 #: includes/managers/class-fs-clone-manager.php:1439
 msgid "The following products'"
-msgstr "A következő termékek"
+msgstr "Seuraavien tuotteiden"
 
 #: includes/managers/class-fs-clone-manager.php:1447
 msgid "If this is a long term duplicate, to keep automatic updates and paid functionality after %s, please %s."
-msgstr "Ha ez egy hosszú távú másolat, az automatikus frissítések és fizetős funkciók %s utáni megtartásához kérjük, %s."
+msgstr "Jos tämä on pitkäaikainen kopio, jatkaaksesi automaattisia päivityksiä ja maksullisia toimintoja %s jälkeen, ole hyvä ja %s."
 
 #: includes/managers/class-fs-clone-manager.php:1449
 msgid "activate a license here"
-msgstr "aktiválj itt egy licencet"
+msgstr "aktivoi lisenssi täällä"
 
 #: includes/managers/class-fs-permission-manager.php:191
 msgid "View Basic Website Info"
-msgstr "Alapvető weboldal információk megtekintése"
+msgstr "Näytä sivuston perustiedot"
 
 #: includes/managers/class-fs-permission-manager.php:192
 msgid "Homepage URL & title, WP & PHP versions, and site language"
-msgstr "Kezdőlap URL és cím, WP és PHP verziók, valamint az oldal nyelve"
+msgstr "Kotisivun URL ja otsikko, WP- ja PHP-versiot sekä sivuston kieli"
 
 #. translators: %s: 'Plugin' or 'Theme'
 #: includes/managers/class-fs-permission-manager.php:195
 msgid "To provide additional functionality that's relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the %s should be translated and tailored to."
-msgstr "További, a weboldaladhoz releváns funkciók biztosításához, a weboldaladat esetleg meghibásító WordPress vagy PHP verzió inkompatibilitások elkerüléséhez, valamint annak felismeréséhez, hogy mely nyelvekre és régiókra kell a %s-t lefordítani és testreszabni."
+msgstr "Tarjotaksemme lisätoimintoja, jotka ovat olennaisia sivustollesi, välttääksemme WordPress- tai PHP-versioiden yhteensopivuusongelmia, jotka voivat rikkoa sivustosi, ja tunnistaaksemme, mille kielille ja alueille %s tulisi kääntää ja räätälöidä."
 
 #: includes/managers/class-fs-permission-manager.php:207
 msgid "View Basic %s Info"
-msgstr "Alapvető %s információk megtekintése"
+msgstr "Näytä %s:n perustiedot"
 
 #. translators: %s: 'Plugin' or 'Theme'
 #: includes/managers/class-fs-permission-manager.php:210
 msgid "Current %s & SDK versions, and if active or uninstalled"
-msgstr "Jelenlegi %s és SDK verziók, valamint hogy aktív-e vagy eltávolított"
+msgstr "Nykyiset %s- ja SDK-versiot, sekä onko aktiivinen vai poistettu"
 
 #: includes/managers/class-fs-permission-manager.php:261
 msgid "View License Essentials"
-msgstr "Licenc alapvető információinak megtekintése"
+msgstr "Näytä lisenssin olennaiset tiedot"
 
 #. translators: %s: 'Plugin' or 'Theme'
 #: includes/managers/class-fs-permission-manager.php:272
 msgid "To let you manage & control where the license is activated and ensure %s security & feature updates are only delivered to websites you authorize."
-msgstr "Hogy lehetővé tegye a licenc aktiválásának kezelését és ellenőrzését, valamint biztosítsa, hogy a %s biztonsági és funkciófrissítéseit csak az Ön által engedélyezett webhelyekre szállítsák."
+msgstr "Jotta voit hallita ja valvoa, missä lisenssi on aktivoitu, ja varmistaa, että %s:n tietoturva- ja ominaisuuspäivitykset toimitetaan vain valtuuttamillesi sivustoille."
 
 #: includes/managers/class-fs-permission-manager.php:284
 msgid "View %s State"
-msgstr "%s állapotának megtekintése"
+msgstr "Näytä %s:n tila"
 
 #. translators: %s: 'Plugin' or 'Theme'
 #: includes/managers/class-fs-permission-manager.php:287
 msgid "Is active, deactivated, or uninstalled"
-msgstr "Aktív, deaktivált vagy eltávolított"
+msgstr "Onko aktiivinen, poistettu käytöstä vai poistettu kokonaan"
 
 #: includes/managers/class-fs-permission-manager.php:290
 msgid "So you can reuse the license when the %s is no longer active."
-msgstr "Így újra felhasználhatja a licencet, ha a %s már nem aktív."
+msgstr "Jotta voit käyttää lisenssiä uudelleen, kun %s ei ole enää aktiivinen."
 
 #: includes/managers/class-fs-permission-manager.php:326
 msgid "View Diagnostic Info"
-msgstr "Diagnosztikai információk megtekintése"
+msgstr "Näytä diagnostiikkatiedot"
 
 #: includes/managers/class-fs-permission-manager.php:326, includes/managers/class-fs-permission-manager.php:363
 msgid "optional"
-msgstr "választható"
+msgstr "valinnainen"
 
 #: includes/managers/class-fs-permission-manager.php:327
 msgid "WordPress & PHP versions, site language & title"
-msgstr "WordPress és PHP verziók, webhely nyelve és címe"
+msgstr "WordPress- ja PHP-versiot, sivuston kieli ja otsikko"
 
 #. translators: %s: 'Plugin' or 'Theme'
 #: includes/managers/class-fs-permission-manager.php:330
 msgid "To avoid breaking your website due to WordPress or PHP version incompatibilities, and recognize which languages & regions the %s should be translated and tailored to."
-msgstr "Hogy elkerülje a webhely meghibásodását a WordPress vagy PHP verzió inkompatibilitása miatt, és felismerje, mely nyelvekre és régiókra kell a %s fordítani és testreszabni."
+msgstr "Välttääksemme sivustosi rikkoutumisen WordPress- tai PHP-versioiden yhteensopimattomuuden vuoksi ja tunnistaaksemme, mille kielille ja alueille %s tulisi kääntää ja räätälöidä."
 
 #: includes/managers/class-fs-permission-manager.php:363
 msgid "View Plugins & Themes List"
-msgstr "Bővítmények és témák listájának megtekintése"
+msgstr "Näytä lisäosien ja teemojen luettelo"
 
 #: includes/managers/class-fs-permission-manager.php:364
 msgid "Names, slugs, versions, and if active or not"
-msgstr "Nevek, slugok, verziók és hogy aktívak-e vagy sem"
+msgstr "Nimet, tunnisteet, versiot ja ovatko aktiivisia vai eivät"
 
 #: includes/managers/class-fs-permission-manager.php:365
 msgid "To ensure compatibility and avoid conflicts with your installed plugins and themes."
-msgstr "A telepített bővítményekkel és témákkal való kompatibilitás biztosítása és az ütközések elkerülése érdekében."
+msgstr "Varmistaaksemme yhteensopivuuden ja välttääksemme konfliktit asennettujen lisäosien ja teemojen kanssa."
 
 #: includes/managers/class-fs-permission-manager.php:382
 msgid "View Basic Profile Info"
-msgstr "Alapvető profilinformációk megtekintése"
+msgstr "Näytä profiilin perustiedot"
 
 #: includes/managers/class-fs-permission-manager.php:383
 msgid "Your WordPress user's: first & last name, and email address"
-msgstr "WordPress felhasználód: vezeték- és keresztneve, valamint e-mail címe"
+msgstr "WordPress-käyttäjäsi: etu- ja sukunimi sekä sähköpostiosoite"
 
 #: includes/managers/class-fs-permission-manager.php:384
 msgid "Never miss important updates, get security warnings before they become public knowledge, and receive notifications about special offers and awesome new features."
-msgstr "Soha ne maradj le fontos frissítésekről, kapj biztonsági figyelmeztetéseket, mielőtt azok nyilvánosságra kerülnének, és értesülj a különleges ajánlatokról és az új, nagyszerű funkciókról."
+msgstr "Älä koskaan jää paitsi tärkeistä päivityksistä, saa tietoturvavaroituksia ennen kuin ne tulevat yleiseen tietoon ja vastaanota ilmoituksia erikoistarjouksista ja mahtavista uusista ominaisuuksista."
 
 #: includes/managers/class-fs-permission-manager.php:405
 msgid "Newsletter"
-msgstr "Hírlevél"
+msgstr "Uutiskirje"
 
 #: includes/managers/class-fs-permission-manager.php:406
 msgid "Updates, announcements, marketing, no spam"
-msgstr "Frissítések, közlemények, marketing, de semmi SPAM!"
+msgstr "Päivitykset, ilmoitukset, markkinointi, ei roskapostia"
 
 #: templates/account/billing.php:22
 msgctxt "verb"
 msgid "Update"
-msgstr "Frissítés"
+msgstr "Päivitä"
 
 #: templates/account/billing.php:33
 msgid "Billing"
-msgstr "Számlázás"
+msgstr "Laskutus"
 
 #: templates/account/billing.php:38, templates/account/billing.php:38
 msgid "Business name"
-msgstr "Cégnév"
+msgstr "Yrityksen nimi"
 
 #: templates/account/billing.php:39, templates/account/billing.php:39
 msgid "Tax / VAT ID"
-msgstr "Közösségi adószám"
+msgstr "Vero- / ALV-tunnus"
 
 #: templates/account/billing.php:42, templates/account/billing.php:42, templates/account/billing.php:43, templates/account/billing.php:43
 msgid "Address Line %d"
-msgstr "Cím %d"
+msgstr "Osoiterivi %d"
 
 #: templates/account/billing.php:46, templates/account/billing.php:46
 msgid "City"
-msgstr "Város"
+msgstr "Kaupunki"
 
 #: templates/account/billing.php:46, templates/account/billing.php:46
 msgid "Town"
-msgstr "Település"
+msgstr "Kunta"
 
 #: templates/account/billing.php:47, templates/account/billing.php:47
 msgid "ZIP / Postal Code"
-msgstr "Irányítószám"
+msgstr "Postinumero"
 
 #: templates/account/billing.php:302
 msgid "Country"
-msgstr "Ország"
+msgstr "Maa"
 
 #: templates/account/billing.php:304
 msgid "Select Country"
-msgstr "Válaszz országot"
+msgstr "Valitse maa"
 
 #: templates/account/billing.php:311, templates/account/billing.php:312
 msgid "State"
-msgstr "Megye"
+msgstr "Osavaltio"
 
 #: templates/account/billing.php:311, templates/account/billing.php:312
 msgid "Province"
-msgstr "Tartomány"
+msgstr "Maakunta"
 
 #: templates/account/payments.php:29
 msgid "Payments"
-msgstr "Fizetési módok"
+msgstr "Maksut"
 
 #: templates/account/payments.php:36
 msgid "Date"
-msgstr "Dátum"
+msgstr "Päivämäärä"
 
 #: templates/account/payments.php:37
 msgid "Amount"
-msgstr "Mennyiség"
+msgstr "Summa"
 
 #: templates/account/payments.php:38, templates/account/payments.php:50
 msgid "Invoice"
-msgstr "Számla"
+msgstr "Lasku"
 
 #: templates/checkout/frame.php:77
 msgid "Checkout"
-msgstr "Pénztár"
+msgstr "Kassa"
 
 #: templates/checkout/frame.php:77
 msgid "PCI compliant"
-msgstr "PCI megfelelés"
+msgstr "PCI-yhteensopiva"
 
 #: templates/checkout/process-redirect.php:41
 msgid "Processing, please wait and do not close or refresh this window..."
-msgstr "Feldolgozás folyamatban, kérjük, várj és ne zárd be vagy frissítsd ezt az ablakot..."
+msgstr "Käsitellään, odota äläkä sulje tai päivitä tätä ikkunaa..."
 
 #: templates/checkout/redirect.php:87
 msgid "Redirecting, please <a href=\"%1$s\">click here</a> if you're stuck..."
-msgstr "Átirányítás folyamatban, kérjük, <a href=\"%1$s\">kattints ide</a>, ha elakadtál..."
+msgstr "Uudelleenohjataan, <a href=\"%1$s\">klikkaa tästä</a> jos jäät jumiin..."
 
 #: templates/connect/permissions-group.php:31, templates/forms/optout.php:26, templates/js/permissions.php:78
 msgctxt "verb"
 msgid "Opt Out"
-msgstr "Leiratkozás"
+msgstr "Kieltäydy"
 
 #: templates/connect/permissions-group.php:32, templates/js/permissions.php:77
 msgctxt "verb"
 msgid "Opt In"
-msgstr "Feliratkozás"
+msgstr "Hyväksy"
 
 #: templates/debug/api-calls.php:56
 msgid "API"
@@ -2269,463 +2269,463 @@ msgstr "API"
 
 #: templates/debug/api-calls.php:68
 msgid "Method"
-msgstr "Mód"
+msgstr "Metodi"
 
 #: templates/debug/api-calls.php:69
 msgid "Code"
-msgstr "Kód"
+msgstr "Koodi"
 
 #: templates/debug/api-calls.php:70
 msgid "Length"
-msgstr "Hossz"
+msgstr "Pituus"
 
 #: templates/debug/api-calls.php:71
 msgctxt "as file/folder path"
 msgid "Path"
-msgstr "Útvonal"
+msgstr "Polku"
 
 #: templates/debug/api-calls.php:73
 msgid "Body"
-msgstr "Törzs"
+msgstr "Runko"
 
 #: templates/debug/api-calls.php:75
 msgid "Result"
-msgstr "Eredmény"
+msgstr "Tulos"
 
 #: templates/debug/api-calls.php:76
 msgid "Start"
-msgstr "Kezdés"
+msgstr "Alku"
 
 #: templates/debug/api-calls.php:77
 msgid "End"
-msgstr "Vége"
+msgstr "Loppu"
 
 #: templates/debug/logger.php:15
 msgid "Log"
-msgstr "Napló"
+msgstr "Loki"
 
 #. translators: %s: time period (e.g. In "2 hours")
 #: templates/debug/plugins-themes-sync.php:18, templates/debug/scheduled-crons.php:102
 msgid "In %s"
-msgstr "%s-ban/ben"
+msgstr "%s:ssa"
 
 #. translators: %s: time period (e.g. "2 hours" ago)
 #: templates/debug/plugins-themes-sync.php:20, templates/debug/scheduled-crons.php:104
 msgid "%s ago"
-msgstr "%s ezelőtt"
+msgstr "%s sitten"
 
 #: templates/debug/plugins-themes-sync.php:21, templates/debug/scheduled-crons.php:76
 msgctxt "seconds"
 msgid "sec"
-msgstr "mp"
+msgstr "s"
 
 #: templates/debug/plugins-themes-sync.php:23
 msgid "Plugins & Themes Sync"
-msgstr "Bővítmények és sablonok szinkronizálása"
+msgstr "Lisäosien ja teemojen synkronointi"
 
 #: templates/debug/plugins-themes-sync.php:28
 msgid "Total"
-msgstr "Összesen"
+msgstr "Yhteensä"
 
 #: templates/debug/plugins-themes-sync.php:29, templates/debug/scheduled-crons.php:95
 msgid "Last"
-msgstr "Utolsó"
+msgstr "Viimeisin"
 
 #: templates/debug/scheduled-crons.php:86, templates/debug/scheduled-crons.php:83
 msgid "Scheduled Crons"
-msgstr "Ütemezett cron feladatok"
+msgstr "Ajastetut cronit"
 
 #: templates/debug/scheduled-crons.php:92
 msgid "Module"
-msgstr "Modul"
+msgstr "Moduuli"
 
 #: templates/debug/scheduled-crons.php:93
 msgid "Module Type"
-msgstr "Modul típusa"
+msgstr "Moduulin tyyppi"
 
 #: templates/debug/scheduled-crons.php:94
 msgid "Cron Type"
-msgstr "Cron típusa"
+msgstr "Cron-tyyppi"
 
 #: templates/debug/scheduled-crons.php:96
 msgid "Next"
-msgstr "Következő"
+msgstr "Seuraava"
 
 #: templates/forms/affiliation.php:86
 msgid "Non-expiring"
-msgstr "Nem lejáró"
+msgstr "Ei vanhene"
 
 #: templates/forms/affiliation.php:89
 msgid "Apply to become an affiliate"
-msgstr "Jelentkezés ajánló partnernek"
+msgstr "Hae kumppanuusohjelmaan"
 
 #: templates/forms/affiliation.php:137
 msgid "Due to violation of our affiliation terms, we decided to temporarily block your affiliation account. If you have any questions, please contact support."
-msgstr "Partneri feltételeink megsértése miatt úgy döntöttünk, hogy ideiglenesen zároljuk a partneri fiókját. Ha bármilyen kérdése van, kérjük, vegye fel a kapcsolatot az ügyfélszolgálattal."
+msgstr "Kumppanuustilisi on väliaikaisesti estetty kumppanuusehtojen rikkomisen vuoksi. Jos sinulla on kysyttävää, ota yhteyttä tukeen."
 
 #: templates/forms/affiliation.php:134
 msgid "Thank you for applying for our affiliate program, unfortunately, we've decided at this point to reject your application. Please try again in 30 days."
-msgstr "Köszönjük, hogy jelentkezett a partnerprogramunkba, sajnos úgy döntöttünk, hogy jelenleg elutasítjuk a jelentkezését. Kérjük, próbálkozzon újra 30 nap múlva."
+msgstr "Kiitos hakemuksestasi kumppanuusohjelmaamme. Valitettavasti olemme päättäneet hylätä hakemuksesi tässä vaiheessa. Kokeile uudelleen 30 päivän kuluttua."
 
 #: templates/forms/affiliation.php:131
 msgid "Your affiliation account was temporarily suspended."
-msgstr "A partneri fiókja ideiglenesen fel lett függesztve."
+msgstr "Kumppanuustilisi on väliaikaisesti keskeytetty."
 
 #: templates/forms/affiliation.php:128
 msgid "Thank you for applying for our affiliate program, we'll review your details during the next 14 days and will get back to you with further information."
-msgstr "Köszönjük, hogy jelentkezett a partnerprogramunkba. A következő 14 napban átnézzük az adatait, és további információkkal jelentkezünk."
+msgstr "Kiitos hakemuksestasi kumppanuusohjelmaamme. Käymme tietosi läpi seuraavien 14 päivän aikana ja palaamme asiaan lisätietojen kanssa."
 
 #: templates/forms/affiliation.php:113
 msgid "Your affiliate application for %s has been accepted! Log in to your affiliate area at: %s."
-msgstr "A %s partneri jelentkezését elfogadtuk! Jelentkezz be a partneri felületedre itt: %s."
+msgstr "Kumppanuushakemuksesi %s:lle on hyväksytty! Kirjaudu kumppanuusalueellesi osoitteessa: %s."
 
 #: templates/forms/affiliation.php:150
 msgid "Like the %s? Become our ambassador and earn cash ;-)"
-msgstr "Tetszik a %s? Legyél a nagykövetünk és keress pénzt ;-)"
+msgstr "Pidätkö %s:sta? Ryhdy lähettilääksemme ja tienaa rahaa ;-)"
 
 #: templates/forms/affiliation.php:151
 msgid "Refer new customers to our %s and earn %s commission on each successful sale you refer!"
-msgstr "Ajánlj új ügyfeleket a %s termékünkhöz, és keress %s jutalékot minden sikeres eladás után, amit közvetítesz!"
+msgstr "Suosittele uusia asiakkaita %s:llemme ja ansaitse %s provisio jokaisesta onnistuneesta myynnistä, jonka ohjaat meille!"
 
 #: templates/forms/affiliation.php:154
 msgid "Program Summary"
-msgstr "Program összefoglaló"
+msgstr "Ohjelman yhteenveto"
 
 #: templates/forms/affiliation.php:156
 msgid "%s commission when a customer purchases a new license."
-msgstr "%s jutalék, amikor egy ügyfél új licencet vásárol."
+msgstr "%s provisio, kun asiakas ostaa uuden lisenssin."
 
 #: templates/forms/affiliation.php:158
 msgid "Get commission for automated subscription renewals."
-msgstr "Jutalék az automatikus előfizetés-megújításokért."
+msgstr "Saat provision automaattisista tilausten uusimisista."
 
 #: templates/forms/affiliation.php:161
 msgid "%s tracking cookie after the first visit to maximize earnings potential."
-msgstr "%s nyomkövető süti az első látogatás után a maximális kereseti potenciál érdekében."
+msgstr "%s seurantaeväste ensimmäisen vierailun jälkeen maksimoidaksesi ansaintamahdollisuudet."
 
 #: templates/forms/affiliation.php:164
 msgid "Unlimited commissions."
-msgstr "Korlátlan jutalékok."
+msgstr "Rajattomat provisiot."
 
 #: templates/forms/affiliation.php:166
 msgid "%s minimum payout amount."
-msgstr "%s minimális kifizetési összeg."
+msgstr "%s vähimmäismaksu."
 
 #: templates/forms/affiliation.php:167
 msgid "Payouts are in USD and processed monthly via PayPal."
-msgstr "A kifizetések USD-ben történnek és havonta dolgozzuk fel őket PayPal-on keresztül."
+msgstr "Maksut suoritetaan Yhdysvaltain dollareina kuukausittain PayPalin kautta."
 
 #: templates/forms/affiliation.php:168
 msgid "As we reserve 30 days for potential refunds, we only pay commissions that are older than 30 days."
-msgstr "Mivel 30 napot fenntartunk az esetleges visszatérítésekre, csak a 30 napnál régebbi jutalékokat fizetjük ki."
+msgstr "Koska varaamme 30 päivää mahdollisia palautuksia varten, maksamme vain yli 30 päivää vanhat provisiot."
 
 #: templates/forms/affiliation.php:171
 msgid "Affiliate"
-msgstr "Partner"
+msgstr "Kumppani"
 
 #: templates/forms/affiliation.php:174, templates/forms/resend-key.php:23
 msgid "Email address"
-msgstr "Email cím"
+msgstr "Sähköpostiosoite"
 
 #: templates/forms/affiliation.php:178
 msgid "Full name"
-msgstr "Teljes név"
+msgstr "Koko nimi"
 
 #: templates/forms/affiliation.php:182
 msgid "PayPal account email address"
-msgstr "PayPal fiók email címe"
+msgstr "PayPal-tilin sähköpostiosoite"
 
 #: templates/forms/affiliation.php:186
 msgid "Where are you going to promote the %s?"
-msgstr "Hol fogod népszerűsíteni a %s terméket?"
+msgstr "Missä aiot markkinoida %s:ää?"
 
 #: templates/forms/affiliation.php:188
 msgid "Enter the domain of your website or other websites from where you plan to promote the %s."
-msgstr "Add meg a webhelyed domainjét vagy más webhelyek domainjét, ahonnan a %s terméket népszerűsíteni tervezed."
+msgstr "Syötä verkkosivustosi domain tai muiden verkkosivustojen domainit, joilta aiot markkinoida %s:ää."
 
 #: templates/forms/affiliation.php:190
 msgid "Add another domain"
-msgstr "Másik domain hozzáadása"
+msgstr "Lisää toinen domain"
 
 #: templates/forms/affiliation.php:194
 msgid "Extra Domains"
-msgstr "További domainek"
+msgstr "Lisädomainit"
 
 #: templates/forms/affiliation.php:195
 msgid "Extra domains where you will be marketing the product from."
-msgstr "További domainek, ahonnan a terméket fogod marketingelni."
+msgstr "Muut domainit, joilta markkinoit tuotetta."
 
 #: templates/forms/affiliation.php:205
 msgid "Promotion methods"
-msgstr "Promóciós módszerek"
+msgstr "Markkinointimenetelmät"
 
 #: templates/forms/affiliation.php:208
 msgid "Social media (Facebook, Twitter, etc.)"
-msgstr "Közösségi média (Facebook, Twitter stb.)"
+msgstr "Sosiaalinen media (Facebook, Twitter jne.)"
 
 #: templates/forms/affiliation.php:212
 msgid "Mobile apps"
-msgstr "Mobilalkalmazások"
+msgstr "Mobiilisovellukset"
 
 #: templates/forms/affiliation.php:216
 msgid "Website, email, and social media statistics (optional)"
-msgstr "Weboldal, email és közösségi média statisztikák (opcionális)"
+msgstr "Verkkosivuston, sähköpostin ja sosiaalisen median tilastot (valinnainen)"
 
 #: templates/forms/affiliation.php:219
 msgid "Please feel free to provide any relevant website or social media statistics, e.g. monthly unique site visits, number of email subscribers, followers, etc. (we will keep this information confidential)."
-msgstr "Kérjük, szabadon adj meg bármilyen releváns weboldal vagy közösségi média statisztikát, pl. havi egyedi látogatók száma, e-mail feliratkozók száma, követők száma stb. (ezt az információt bizalmasan kezeljük)."
+msgstr "Voit halutessasi antaa olennaisia verkkosivuston tai sosiaalisen median tilastoja, esim. kuukausittaiset yksilölliset sivuvierailut, sähköpostitilaajien määrä, seuraajat jne. (pidämme nämä tiedot luottamuksellisina)."
 
 #: templates/forms/affiliation.php:223
 msgid "How will you promote us?"
-msgstr "Hogyan fogsz minket népszerűsíteni?"
+msgstr "Miten aiot markkinoida meitä?"
 
 #: templates/forms/affiliation.php:226
 msgid "Please provide details on how you intend to promote %s (please be as specific as possible)."
-msgstr "Kérjük, részletezd, hogyan tervezed népszerűsíteni a %s terméket (légy a lehető legkonkrétabb)."
+msgstr "Kerro yksityiskohtaisesti, miten aiot markkinoida %s:ää (ole mahdollisimman tarkka)."
 
 #: templates/forms/affiliation.php:238, templates/forms/resend-key.php:22, templates/forms/subscription-cancellation.php:142, templates/account/partials/disconnect-button.php:92
 msgid "Cancel"
-msgstr "Mégsem"
+msgstr "Peruuta"
 
 #: templates/forms/affiliation.php:240
 msgid "Become an affiliate"
-msgstr "Legyél partner"
+msgstr "Ryhdy kumppaniksi"
 
 #: templates/forms/data-debug-mode.php:25
 msgid "Please enter the license key to enable the debug mode:"
-msgstr "Kérjük, add meg a licenckulcsot a hibakeresési mód engedélyezéséhez:"
+msgstr "Syötä lisenssiavain ottaaksesi debug-tilan käyttöön:"
 
 #: templates/forms/data-debug-mode.php:27
 msgid "To enter the debug mode, please enter the secret key of the license owner (UserID = %d), which you can find in your \"My Profile\" section of your User Dashboard:"
-msgstr "A hibakeresési módba lépéshez kérjük, add meg a licenc tulajdonosának (UserID = %d) titkos kulcsát, amelyet a Felhasználói Irányítópultod „Saját profil” részében találsz:"
+msgstr "Siirtyäksesi debug-tilaan, syötä lisenssin omistajan (UserID = %d) salainen avain, jonka löydät käyttäjäpaneelisi ”Oma profiili” -osiosta:"
 
 #: templates/forms/data-debug-mode.php:32
 msgid "Submit"
-msgstr "Küldés"
+msgstr "Lähetä"
 
 #: templates/forms/data-debug-mode.php:36
 msgid "User key"
-msgstr "Felhasználói kulcs"
+msgstr "Käyttäjäavain"
 
 #: templates/forms/email-address-update.php:32
 msgid "Email address update"
-msgstr "E-mail cím frissítése"
+msgstr "Sähköpostiosoitteen päivitys"
 
 #: templates/forms/email-address-update.php:33, templates/forms/user-change.php:81
 msgctxt "close window"
 msgid "Dismiss"
-msgstr "Mégsem"
+msgstr "Hylkää"
 
 #: templates/forms/email-address-update.php:38
 msgid "Enter the new email address"
-msgstr "Add meg az új e-mail címet"
+msgstr "Syötä uusi sähköpostiosoite"
 
 #: templates/forms/email-address-update.php:42
 msgid "Are both %s and %s your email addresses?"
-msgstr "Mindkét e-mail cím (%s és %s) a tiéd?"
+msgstr "Ovatko sekä %s että %s sinun sähköpostiosoitteitasi?"
 
 #: templates/forms/email-address-update.php:50
 msgid "Yes - both addresses are mine"
-msgstr "Igen - mindkét cím az enyém"
+msgstr "Kyllä - molemmat osoitteet ovat minun"
 
 #: templates/forms/email-address-update.php:57
 msgid "%s is my client's email address"
-msgstr "A %s az ügyfelemé"
+msgstr "%s on asiakkaani sähköpostiosoite"
 
 #: templates/forms/email-address-update.php:66
 msgid "%s is my email address"
-msgstr "A %s az én e-mail címem"
+msgstr "%s on minun sähköpostiosoitteeni"
 
 #: templates/forms/email-address-update.php:75
 msgid "Would you like to merge %s into %s?"
-msgstr "Szeretnéd összevonni a %s címet a %s címmel?"
+msgstr "Haluatko yhdistää %s kohteeseen %s?"
 
 #: templates/forms/email-address-update.php:84
 msgid "Yes - move all my data and assets from %s to %s"
-msgstr "Igen - mozgass át minden adatot és eszközt a %s címről a %s címre"
+msgstr "Kyllä - siirrä kaikki tietoni ja resurssini kohteesta %s kohteeseen %s"
 
 #: templates/forms/email-address-update.php:94
 msgid "No - only move this site's data to %s"
-msgstr "Nem - csak ennek a webhelynek az adatait mozgasd át a %s címre"
+msgstr "Ei - siirrä vain tämän sivuston tiedot kohteeseen %s"
 
 #: templates/forms/email-address-update.php:292, templates/forms/email-address-update.php:298
 msgid "Update"
-msgstr "Frissítés"
+msgstr "Päivitä"
 
 #: templates/forms/license-activation.php:23
 msgid "Please enter the license key that you received in the email right after the purchase:"
-msgstr "Kérlek add meg a licensz kulcsot, amit emailben kaptál a vásárlásod után:"
+msgstr "Syötä lisenssiavain, jonka sait sähköpostitse heti oston jälkeen:"
 
 #: templates/forms/license-activation.php:28
 msgid "Update License"
-msgstr "Licensz frissítése"
+msgstr "Päivitä lisenssi"
 
 #: templates/forms/license-activation.php:34
 msgid "The %1$s will be periodically sending essential license data to %2$s to check for security and feature updates, and verify the validity of your license."
-msgstr "A %1$s rendszeresen küld majd alapvető licencadatokat a %2$s részére a biztonsági és funkciófrissítések ellenőrzése, valamint a licenc érvényességének ellenőrzése céljából."
+msgstr "%1$s lähettää säännöllisesti olennaisia lisenssitietoja %2$s:lle tarkistaakseen turvallisuus- ja ominaisuuspäivitykset sekä varmistaakseen lisenssisi voimassaolon."
 
 #: templates/forms/license-activation.php:39
 msgid "Agree & Activate License"
-msgstr "Licensz elfogadása és aktiválása"
+msgstr "Hyväksy ja aktivoi lisenssi"
 
 #: templates/forms/license-activation.php:206
 msgid "Associate with the license owner's account."
-msgstr "Társítás a licenc tulajdonosának fiókjához."
+msgstr "Yhdistä lisenssin omistajan tiliin."
 
 #: templates/forms/optout.php:104
 msgid "Keep automatic updates"
-msgstr "Automatikus frissítések megtartása"
+msgstr "Pidä automaattiset päivitykset käytössä"
 
 #: templates/forms/optout.php:44
 msgid "Communication"
-msgstr "Kommunikáció"
+msgstr "Viestintä"
 
 #: templates/forms/optout.php:56
 msgid "Stay Connected"
-msgstr "Maradj kapcsolatban"
+msgstr "Pysy yhteydessä"
 
 #: templates/forms/optout.php:61
 msgid "Diagnostic Info"
-msgstr "Diagnosztikai információk"
+msgstr "Diagnostiikkatiedot"
 
 #: templates/forms/optout.php:77
 msgid "Keep Sharing"
-msgstr "Megosztás folytatása"
+msgstr "Jatka jakamista"
 
 #: templates/forms/optout.php:82
 msgid "Extensions"
-msgstr "Bővítmények"
+msgstr "Laajennukset"
 
 #: templates/forms/premium-versions-upgrade-handler.php:40
 msgid "There is a new version of %s available."
-msgstr "A(z) %s új verziója érhető el."
+msgstr "%s:stä on saatavilla uusi versio."
 
 #: templates/forms/premium-versions-upgrade-handler.php:41
 msgid " %s to access version %s security & feature updates, and support."
-msgstr " %s a %s verzió biztonsági és funkciófrissítéseinek, valamint támogatásának eléréséhez."
+msgstr " %s saadaksesi version %s turvallisuus- ja ominaisuuspäivitykset sekä tuen."
 
 #: templates/forms/premium-versions-upgrade-handler.php:54
 msgid "New Version Available"
-msgstr "Új verzió érhető el"
+msgstr "Uusi versio saatavilla"
 
 #: templates/forms/premium-versions-upgrade-handler.php:75
 msgctxt "close a window"
 msgid "Dismiss"
-msgstr "Mégsem"
+msgstr "Ohita"
 
 #: templates/forms/resend-key.php:21
 msgid "Send License Key"
-msgstr "Licensz kulcs küldése"
+msgstr "Lähetä lisenssiavain"
 
 #: templates/forms/resend-key.php:58
 msgid "Enter the email address you've used during the purchase and we will resend you the license key."
-msgstr "Add meg azt az e-mail címet, amit a vásárlás során használtál, és újra elküldjük neked a licenckulcsot."
+msgstr "Syötä sähköpostiosoite, jota käytit oston yhteydessä, niin lähetämme sinulle lisenssiavaimen uudelleen."
 
 #: templates/forms/resend-key.php:59
 msgid "Enter the email address you've used for the upgrade below and we will resend you the license key."
-msgstr "Add meg az email címet, amit a vásárlás során használtál és újraküldjük a licensz kulcsot."
+msgstr "Syötä alla olevaan kenttään sähköpostiosoite, jota käytit päivityksen yhteydessä, niin lähetämme sinulle lisenssiavaimen uudelleen."
 
 #: templates/forms/subscription-cancellation.php:37
 msgid "Deactivating or uninstalling the %s will automatically disable the license, which you'll be able to use on another site."
-msgstr "A(z) %s deaktiválása vagy törlése automatikusan törli az oldalhoz tartozó licenszed is, amit így másik weboldalon tudsz újra aktiválni."
+msgstr "%s:n deaktivointi tai poistaminen poistaa lisenssin automaattisesti käytöstä, jolloin voit käyttää sitä toisella sivustolla."
 
 #: templates/forms/subscription-cancellation.php:47
 msgid "In case you are NOT planning on using this %s on this site (or any other site) - would you like to cancel the %s as well?"
-msgstr "Abban az esetben, ha NEM tervezed használni ezt a %s-t ezen az oldalon (vagy bármely más oldalon) - szeretnéd lemondani a %s-t is?"
+msgstr "Jos ET aio käyttää tätä %s:ää tällä sivustolla (tai millään muullakaan sivustolla) - haluatko myös peruuttaa %s:n?"
 
 #: templates/forms/subscription-cancellation.php:57
 msgid "Cancel %s - I no longer need any security & feature updates, nor support for %s because I'm not planning to use the %s on this, or any other site."
-msgstr "Lemondás %s - Már nincs szükségem biztonsági és funkciófrissítésekre, sem támogatásra a %s-hoz, mert nem tervezem használni a %s-t ezen vagy bármely más oldalon."
+msgstr "Peruuta %s - En enää tarvitse turvallisuus- ja ominaisuuspäivityksiä enkä tukea %s:lle, koska en aio käyttää %s:ää tällä tai millään muullakaan sivustolla."
 
 #: templates/forms/subscription-cancellation.php:68
 msgid "Don't cancel %s - I'm still interested in getting security & feature updates, as well as be able to contact support."
-msgstr "Ne mondd le a %s-t - Továbbra is érdekelnek a biztonsági és funkciófrissítések, valamint szeretnék kapcsolatba lépni a támogatással."
+msgstr "Älä peruuta %s:ää - Olen edelleen kiinnostunut saamaan turvallisuus- ja ominaisuuspäivityksiä sekä mahdollisuuden ottaa yhteyttä tukeen."
 
 #: templates/forms/subscription-cancellation.php:103
 msgid "Once your license expires you will no longer be able to use the %s, unless you activate it again with a valid premium license."
-msgstr "Amint a licenced lejár, már nem tudod használni a %s-t, hacsak nem aktiválod újra egy érvényes prémium licenccel."
+msgstr "Kun lisenssisi vanhenee, et voi enää käyttää %s:ää, ellet aktivoi sitä uudelleen voimassa olevalla premium-lisenssillä."
 
 #: templates/forms/subscription-cancellation.php:136
 msgid "Cancel %s?"
-msgstr "Lemondod a %s-t?"
+msgstr "Peruutetaanko %s?"
 
 #: templates/forms/subscription-cancellation.php:143
 msgid "Proceed"
-msgstr "Folytatás"
+msgstr "Jatka"
 
 #: templates/forms/subscription-cancellation.php:191, templates/forms/deactivation/form.php:216
 msgid "Cancel %s & Proceed"
-msgstr "Lemondás %s és folytatás"
+msgstr "Peruuta %s ja jatka"
 
 #. translators: %1$s: Number of trial days; %2$s: Plan name;
 #: templates/forms/trial-start.php:22
 msgid "You are 1-click away from starting your %1$s-day free trial of the %2$s plan."
-msgstr "Már csak egy kattintásra vagy attól, hogy elindítsd a %2$s csomag %1$s napos ingyenes próbaverzióját."
+msgstr "Olet yhden klikkauksen päässä %1$s päivän ilmaisen kokeilujakson aloittamisesta %2$s-suunnitelmalle."
 
 #. translators: %s: Link to freemius.com
 #: templates/forms/trial-start.php:28
 msgid "For compliance with the WordPress.org guidelines, before we start the trial we ask that you opt in with your user and non-sensitive site information, allowing the %s to periodically send data to %s to check for version updates and to validate your trial."
-msgstr "A WordPress.org irányelveknek való megfelelés érdekében, mielőtt elindítanánk a próbaverziót, kérjük, hogy járulj hozzá a felhasználói és nem érzékeny webhelyinformációid megosztásához, lehetővé téve a %s számára, hogy időszakosan adatokat küldjön a %s-nak a verziófrissítések ellenőrzéséhez és a próbaverzió érvényesítéséhez."
+msgstr "WordPress.org-ohjeiden noudattamiseksi pyydämme sinua ennen kokeilun aloittamista hyväksymään käyttäjä- ja ei-arkaluontoisten sivustotietojen jakamisen, jotta %s voi säännöllisesti lähettää tietoja %s:lle versiopäivitysten tarkistamiseksi ja kokeilusi vahvistamiseksi."
 
 #: templates/forms/user-change.php:26
 msgid "By changing the user, you agree to transfer the account ownership to:"
-msgstr "A felhasználó megváltoztatásával beleegyezel, hogy átadod a fiók tulajdonjogát a következőnek:"
+msgstr "Vaihtamalla käyttäjää hyväksyt tilin omistajuuden siirron henkilölle:"
 
 #: templates/forms/user-change.php:28
 msgid "I Agree - Change User"
-msgstr "Egyetértek - felhasználó megváltoztatása"
+msgstr "Hyväksyn - vaihda käyttäjä"
 
 #: templates/forms/user-change.php:30
 msgid "Enter email address"
-msgstr "Add meg az e-mail címet"
+msgstr "Syötä sähköpostiosoite"
 
 #: templates/js/permissions.php:337, templates/js/permissions.php:485
 msgid "Saved"
-msgstr "Mentve"
+msgstr "Tallennettu"
 
 #: templates/js/style-premium-theme.php:39
 msgid "Premium"
-msgstr "Prémium"
+msgstr "Premium"
 
 #: templates/js/style-premium-theme.php:42
 msgid "Beta"
-msgstr "Béta"
+msgstr "Beta"
 
 #: templates/partials/network-activation.php:36
 msgid "Activate license on all pending sites."
-msgstr "Licensz aktiválása a hálózat minden függő aloldalán."
+msgstr "Aktivoi lisenssi kaikilla odottavilla sivustoilla."
 
 #: templates/partials/network-activation.php:37
 msgid "Apply on all pending sites."
-msgstr "Alkalmazás minden függőben lévő oldalon."
+msgstr "Käytä kaikilla odottavilla sivustoilla."
 
 #: templates/partials/network-activation.php:32
 msgid "Activate license on all sites in the network."
-msgstr "Licensz aktiválása a hálózat minden aloldalán."
+msgstr "Aktivoi lisenssi kaikilla verkoston sivustoilla."
 
 #: templates/partials/network-activation.php:33
 msgid "Apply on all sites in the network."
-msgstr "Alkalmazás a hálózat összes oldalán."
+msgstr "Käytä kaikilla verkoston sivustoilla."
 
 #: templates/partials/network-activation.php:45, templates/partials/network-activation.php:79
 msgid "allow"
-msgstr "engedélyezés"
+msgstr "salli"
 
 #: templates/partials/network-activation.php:48, templates/partials/network-activation.php:82
 msgid "delegate"
-msgstr "delegálás"
+msgstr "delegoi"
 
 #: templates/partials/network-activation.php:52, templates/partials/network-activation.php:86
 msgid "skip"
-msgstr "ugrás"
+msgstr "ohita"
 
 #: templates/plugin-info/description.php:67, templates/plugin-info/screenshots.php:26
 msgid "Click to view full-size screenshot %d"
-msgstr "Kattints a teljes méretű képernyőkép megtekintéséhez %d"
+msgstr "Napsauta nähdäksesi täysikokoisen kuvakaappauksen %d"
 
 #: templates/plugin-info/features.php:56
 msgid "Unlimited Updates"
-msgstr "Korlátlan frissítés"
+msgstr "Rajattomat päivitykset"
 
 #: templates/account/partials/activate-license-button.php:46
 msgid "Localhost"
@@ -2734,126 +2734,126 @@ msgstr "Localhost"
 #: templates/account/partials/activate-license-button.php:50
 msgctxt "as 5 licenses left"
 msgid "%s left"
-msgstr "%s maradt"
+msgstr "%s jäljellä"
 
 #: templates/account/partials/activate-license-button.php:51
 msgid "Last license"
-msgstr "Utolsó licenc"
+msgstr "Viimeinen lisenssi"
 
 #: templates/account/partials/addon.php:200
 msgid "No expiration"
-msgstr "Nincs lejárat"
+msgstr "Ei vanhene"
 
 #: templates/account/partials/addon.php:190
 msgid "Cancelled"
-msgstr "Törölve"
+msgstr "Peruutettu"
 
 #. translators: %s is replaced with the website's homepage address.
 #: templates/account/partials/disconnect-button.php:78
 msgid "Disconnecting the website will permanently remove %s from your User Dashboard's account."
-msgstr "A webhely leválasztása véglegesen eltávolítja a %s-t a Felhasználói Irányítópultod fiókjából."
+msgstr "Sivuston yhteyden katkaiseminen poistaa %s:n pysyvästi käyttäjäkojelautasi tililtä."
 
 #: templates/account/partials/disconnect-button.php:74
 msgid "By disconnecting the website, previously shared diagnostic data about %1$s will be deleted and no longer visible to %2$s."
-msgstr "A webhely leválasztásával a korábban megosztott diagnosztikai adatok a %1$s-ról törlődnek, és többé nem lesznek láthatóak a %2$s számára."
+msgstr "Katkaisemalla sivuston yhteyden aiemmin jaetut diagnostiikkatiedot %1$s:stä poistetaan, eivätkä ne ole enää %2$s:n nähtävissä."
 
 #. translators: %1$s is replaced by the paid plan name, %2$s is replaced with an anchor link with the text "User Dashboard".
 #: templates/account/partials/disconnect-button.php:84
 msgid "If you wish to cancel your %1$s plan's subscription instead, please navigate to the %2$s and cancel it there."
-msgstr "Ha inkább a %1$s csomag előfizetését szeretnéd lemondani, kérjük, navigálj a %2$s-hoz és ott mondd le."
+msgstr "Jos haluat sen sijaan peruuttaa %1$s-suunnitelmasi tilauksen, siirry %2$s:ään ja peruuta se siellä."
 
 #: templates/account/partials/disconnect-button.php:88
 msgid "Are you sure you would like to proceed with the disconnection?"
-msgstr "Biztos vagy benne, hogy szeretnéd folytatni a leválasztást?"
+msgstr "Oletko varma, että haluat jatkaa yhteyden katkaisua?"
 
 #: templates/account/partials/site.php:190
 msgid "Owner Name"
-msgstr "Tulajdonos neve"
+msgstr "Omistajan nimi"
 
 #: templates/account/partials/site.php:202
 msgid "Owner Email"
-msgstr "Tulajdonos email címe"
+msgstr "Omistajan sähköposti"
 
 #: templates/account/partials/site.php:214
 msgid "Owner ID"
-msgstr "Tulajdonos ID"
+msgstr "Omistajan tunnus"
 
 #: templates/account/partials/site.php:288
 msgid "Subscription"
-msgstr "Előfizetés"
+msgstr "Tilaus"
 
 #: templates/forms/deactivation/contact.php:19
 msgid "Sorry for the inconvenience and we are here to help if you give us a chance."
-msgstr "Elnézést kérünk a kellemetlenségért, és itt vagyunk, hogy segítsünk, ha adsz nekünk egy esélyt."
+msgstr "Pahoittelemme häiriötä ja olemme valmiita auttamaan, jos annat meille mahdollisuuden."
 
 #: templates/forms/deactivation/contact.php:22
 msgid "Contact Support"
-msgstr "Írás az ügyfélszolgálatra"
+msgstr "Ota yhteyttä tukeen"
 
 #: templates/forms/deactivation/form.php:65
 msgid "Anonymous feedback"
-msgstr "Névtelen visszajelzés"
+msgstr "Nimetön palaute"
 
 #: templates/forms/deactivation/form.php:71
 msgid "hour"
-msgstr "óra"
+msgstr "tunti"
 
 #: templates/forms/deactivation/form.php:76
 msgid "hours"
-msgstr "óra"
+msgstr "tuntia"
 
 #: templates/forms/deactivation/form.php:81, templates/forms/deactivation/form.php:86
 msgid "days"
-msgstr "nap"
+msgstr "päivää"
 
 #: templates/forms/deactivation/form.php:106
 msgid "Deactivate"
-msgstr "Deaktiválás"
+msgstr "Poista käytöstä"
 
 #: templates/forms/deactivation/form.php:108
 msgid "Activate %s"
-msgstr "%s aktiválása"
+msgstr "Aktivoi %s"
 
 #: templates/forms/deactivation/form.php:111
 msgid "Submit & %s"
-msgstr "Küldés & %s"
+msgstr "Lähetä ja %s"
 
 #: templates/forms/deactivation/form.php:130
 msgid "Quick Feedback"
-msgstr "Gyors visszajelzés"
+msgstr "Nopea palaute"
 
 #: templates/forms/deactivation/form.php:134
 msgid "If you have a moment, please let us know why you are %s"
-msgstr "Kérlek mondd el, miért %s"
+msgstr "Jos sinulla on hetki aikaa, kerro meille miksi olet %s"
 
 #: templates/forms/deactivation/form.php:134
 msgid "deactivating"
-msgstr "deaktiválod"
+msgstr "poistamassa käytöstä"
 
 #: templates/forms/deactivation/form.php:134
 msgid "switching"
-msgstr "váltasz"
+msgstr "vaihtamassa"
 
 #: templates/forms/deactivation/form.php:448
 msgid "Kindly tell us the reason so we can improve."
-msgstr "Ha elmondod az okát, tudunk fejlődni."
+msgstr "Kerro ystävällisesti syy, jotta voimme parantaa palveluamme."
 
 #: templates/forms/deactivation/form.php:478
 msgid "Snooze & %s"
-msgstr "Szundi és %s"
+msgstr "Lykkää ja %s"
 
 #: templates/forms/deactivation/form.php:638
 msgid "Yes - %s"
-msgstr "Igen - %s"
+msgstr "Kyllä - %s"
 
 #: templates/forms/deactivation/form.php:645
 msgid "Skip & %s"
-msgstr "Kihagyás & %s"
+msgstr "Ohita ja %s"
 
 #: templates/forms/deactivation/retry-skip.php:21
 msgid "Click here to use the plugin anonymously"
-msgstr "Kattints ide, ha névtelenül szeretnéd használni a bővítményt"
+msgstr "Napsauta tästä käyttääksesi lisäosaa anonyymisti"
 
 #: templates/forms/deactivation/retry-skip.php:23
 msgid "You might have missed it, but you don't have to share any data and can just %s the opt-in."
-msgstr "Lehet, hogy nem vetted észre, de nem kell megosztanod semmilyen adatot, egyszerűen %s-hatod az opt-int."
+msgstr "Saatat olla huomaamatta, mutta sinun ei tarvitse jakaa mitään tietoja ja voit vain %s hyväksynnän."
