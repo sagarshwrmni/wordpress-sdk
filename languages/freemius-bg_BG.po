@@ -1,0 +1,2859 @@
+# Copyright (C) 2025 freemius
+# This file is distributed under the same license as the freemius package.
+msgid ""
+msgstr ""
+"Project-Id-Version: freemius\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Freemius Team <admin@freemius.com>\n"
+"Last-Translator: Vova Feldman <vova@freemius.com>\n"
+"POT-Creation-Date: 2025-05-11 06:56+0000\n"
+"Report-Msgid-Bugs-To: https://github.com/Freemius/wordpress-sdk/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: get_text_inline;get_text_x_inline:1,2c;$this->get_text_inline;$this->get_text_x_inline:1,2c;$this->_fs->get_text_inline;$this->_fs->get_text_x_inline:1,2c;$this->fs->get_text_inline;$this->fs->get_text_x_inline:1,2c;$fs->get_text_inline;$fs->get_text_x_inline:1,2c;$this->_parent->get_text_inline;$this->_parent->get_text_x_inline:1,2c;fs_text_inline;fs_echo_inline;fs_esc_js_inline;fs_esc_attr_inline;fs_esc_attr_echo_inline;fs_esc_html_inline;fs_esc_html_echo_inline;fs_text_x_inline:1,2c;fs_echo_x_inline:1,2c;fs_esc_attr_x_inline:1,2c;fs_esc_js_x_inline:1,2c;fs_esc_js_echo_x_inline:1,2c;fs_esc_html_x_inline:1,2c;fs_esc_html_echo_x_inline:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-freemius.php:1821, templates/account.php:943
+msgid "An update to a Beta version will replace your installed version of %s with the latest Beta release - use with caution, and not on production sites. You have been warned."
+msgstr "Актуализацията до бета версия ще замени инсталираната версия на %s с най-новата бета версия - използвайте с повишено внимание и не на работни сайтове. Предупредени сте."
+
+#: includes/class-freemius.php:1828
+msgid "Would you like to proceed with the update?"
+msgstr "Искате ли да продължите с актуализацията?"
+
+#: includes/class-freemius.php:2053
+msgid "Freemius SDK couldn't find the plugin's main file. Please contact sdk@freemius.com with the current error."
+msgstr "Freemius SDK не успя да намери главния файл на плъгина. Моля, свържете се с sdk@freemius.com с текущата грешка."
+
+#: includes/class-freemius.php:2055, includes/fs-plugin-info-dialog.php:1513
+msgid "Error"
+msgstr "Грешка"
+
+#: includes/class-freemius.php:2501
+msgid "I found a better %s"
+msgstr "Намерих по-добър %s"
+
+#: includes/class-freemius.php:2503
+msgid "What's the %s's name?"
+msgstr "Как се казва %s?"
+
+#: includes/class-freemius.php:2509
+msgid "It's a temporary %s - I'm troubleshooting an issue"
+msgstr "Това е временен %s - отстранявам проблем"
+
+#: includes/class-freemius.php:2511
+msgid "Deactivation"
+msgstr "Деактивиране"
+
+#: includes/class-freemius.php:2512
+msgid "Theme Switch"
+msgstr "Смяна на тема"
+
+#: includes/class-freemius.php:2521, templates/forms/resend-key.php:24, templates/forms/user-change.php:29
+msgid "Other"
+msgstr "Друго"
+
+#: includes/class-freemius.php:2529
+msgid "I no longer need the %s"
+msgstr "Вече не се нуждая от %s"
+
+#: includes/class-freemius.php:2536
+msgid "I only needed the %s for a short period"
+msgstr "Нуждаех се от %s само за кратък период"
+
+#: includes/class-freemius.php:2542
+msgid "The %s broke my site"
+msgstr "%s повреди сайта ми"
+
+#: includes/class-freemius.php:2549
+msgid "The %s suddenly stopped working"
+msgstr "%s внезапно спря да работи"
+
+#: includes/class-freemius.php:2559
+msgid "I can't pay for it anymore"
+msgstr "Вече не мога да си го позволя"
+
+#: includes/class-freemius.php:2561
+msgid "What price would you feel comfortable paying?"
+msgstr "Каква цена бихте се чувствали комфортно да плащате?"
+
+#: includes/class-freemius.php:2567
+msgid "I don't like to share my information with you"
+msgstr "Не искам да споделям информацията си с вас"
+
+#: includes/class-freemius.php:2588
+msgid "The %s didn't work"
+msgstr "%s не работеше"
+
+#: includes/class-freemius.php:2598
+msgid "I couldn't understand how to make it work"
+msgstr "Не можах да разбера как да го накарам да работи"
+
+#: includes/class-freemius.php:2606
+msgid "The %s is great, but I need specific feature that you don't support"
+msgstr "%s е страхотен, но се нуждая от конкретна функция, която не поддържате"
+
+#: includes/class-freemius.php:2608
+msgid "What feature?"
+msgstr "Каква функция?"
+
+#: includes/class-freemius.php:2612
+msgid "The %s is not working"
+msgstr "%s не работи"
+
+#: includes/class-freemius.php:2614
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Моля, споделете какво не работеше, за да можем да го поправим за бъдещите потребители..."
+
+#: includes/class-freemius.php:2618
+msgid "It's not what I was looking for"
+msgstr "Не е това, което търсех"
+
+#: includes/class-freemius.php:2620
+msgid "What you've been looking for?"
+msgstr "Какво търсехте?"
+
+#: includes/class-freemius.php:2624
+msgid "The %s didn't work as expected"
+msgstr "%s не работеше според очакванията"
+
+#: includes/class-freemius.php:2626
+msgid "What did you expect?"
+msgstr "Какво очаквахте?"
+
+#. translators: %s: License type (e.g. you have a professional license)
+#: includes/class-freemius.php:4549
+msgid "You have purchased a %s license."
+msgstr "Закупили сте лиценз за %s."
+
+#: includes/class-freemius.php:4553
+msgid " The %s's %sdownload link%s, license key, and installation instructions have been sent to %s. If you can't find the email after 5 min, please check your spam box."
+msgstr " %sЛинкът за изтегляне на %s%s, лицензният ключ и инструкциите за инсталация са изпратени на %s. Ако не можете да намерите имейла след 5 минути, моля, проверете папката си за спам."
+
+#: includes/class-freemius.php:4563, includes/class-freemius.php:21006, includes/class-freemius.php:24736
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "Йе-хаа"
+
+#: includes/class-freemius.php:4577
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "%s не може да работи без %s."
+
+#: includes/class-freemius.php:4578
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "%s не може да работи без плъгина."
+
+#: includes/class-freemius.php:4580, includes/class-freemius.php:5808, includes/class-freemius.php:13562, includes/class-freemius.php:14323, includes/class-freemius.php:18112, includes/class-freemius.php:18232, includes/class-freemius.php:18409, includes/class-freemius.php:20737, includes/class-freemius.php:21860, includes/class-freemius.php:22896, includes/class-freemius.php:23026, includes/class-freemius.php:23169, templates/add-ons.php:57
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "Опа"
+
+#: includes/class-freemius.php:4859
+msgid "There was an unexpected API error while processing your request. Please try again in a few minutes and if it still doesn't work, contact the %s's author with the following:"
+msgstr "Възникна неочаквана API грешка при обработката на вашата заявка. Моля, опитайте отново след няколко минути и ако все още не работи, свържете се с автора на %s със следното:"
+
+#. translators: %s: License type (e.g. you have a professional license)
+#: includes/class-freemius.php:5500
+msgid "You have a %s license."
+msgstr "Имате лиценз за %s."
+
+#: includes/class-freemius.php:5473
+msgid "Premium %s version was successfully activated."
+msgstr "Премиум версията на %s беше успешно активирана."
+
+#: includes/class-freemius.php:5485, includes/class-freemius.php:7508
+msgctxt "Used to express elation, enthusiasm, or triumph (especially in electronic communication)."
+msgid "W00t"
+msgstr "Ура"
+
+#: includes/class-freemius.php:5791
+msgid "%s free trial was successfully cancelled. Since the add-on is premium only it was automatically deactivated. If you like to use it in the future, you'll have to purchase a license."
+msgstr "Безплатният пробен период на %s беше успешно отменен. Тъй като добавката е само премиум, тя беше автоматично деактивирана. Ако искате да я използвате в бъдеще, ще трябва да закупите лиценз."
+
+#: includes/class-freemius.php:5795
+msgid "%s is a premium only add-on. You have to purchase a license first before activating the plugin."
+msgstr "%s е добавка само за премиум версията. Трябва първо да закупите лиценз, преди да активирате плъгина."
+
+#: includes/class-freemius.php:5804, templates/add-ons.php:186, templates/account/partials/addon.php:386
+msgid "More information about %s"
+msgstr "Повече информация за %s"
+
+#: includes/class-freemius.php:5805
+msgid "Purchase License"
+msgstr "Закупете лиценз"
+
+#. translators: %3$s: What the user is expected to receive via email (e.g.: "the installation instructions" or "a license key")
+#: includes/class-freemius.php:6821
+msgid "You should receive %3$s for %1$s to your mailbox at %2$s in the next 5 minutes."
+msgstr "Трябва да получите %3$s за %1$s в пощенската си кутия на %2$s в следващите 5 минути."
+
+#: includes/class-freemius.php:6830
+msgctxt "Part of the message telling the user what they should receive via email."
+msgid "a license key"
+msgstr "лицензен ключ"
+
+#. translators: %s: activation link (e.g.: <a>Click here</a>)
+#: includes/class-freemius.php:6838
+msgid "%s to activate the license once you get it."
+msgstr "%s, за да активирате лиценза, след като го получите."
+
+#: includes/class-freemius.php:6846
+msgctxt "Part of an activation link message."
+msgid "Click here"
+msgstr "Кликнете тук"
+
+#: includes/class-freemius.php:6824
+msgctxt "Part of the message telling the user what they should receive via email."
+msgid "the installation instructions"
+msgstr "инструкциите за инсталация"
+
+#: includes/class-freemius.php:6853
+msgctxt "Part of the message that tells the user to check their spam folder for a specific email."
+msgid "the product's support email address"
+msgstr "имейл адреса за поддръжка на продукта"
+
+#: includes/class-freemius.php:6859
+msgid "If you didn't get the email, try checking your spam folder or search for emails from %4$s."
+msgstr "Ако не сте получили имейла, опитайте да проверите папката си за спам или потърсете имейли от %4$s."
+
+#: includes/class-freemius.php:6861
+msgid "Thanks for upgrading."
+msgstr "Благодарим ви за надграждането."
+
+#: includes/class-freemius.php:6812
+msgid "You should receive a confirmation email for %1$s to your mailbox at %2$s. Please make sure you click the button in that email to %3$s."
+msgstr "Трябва да получите имейл за потвърждение за %1$s в пощенската си кутия на %2$s. Моля, уверете се, че кликнете върху бутона в този имейл, за да %3$s."
+
+#: includes/class-freemius.php:6815
+msgid "start the trial"
+msgstr "започнете пробния период"
+
+#: includes/class-freemius.php:6816, templates/connect.php:208
+msgid "complete the opt-in"
+msgstr "завършите включването"
+
+#: includes/class-freemius.php:6818
+msgid "Thanks!"
+msgstr "Благодарим ви!"
+
+#: includes/class-freemius.php:6997
+msgid "You are just one step away - %s"
+msgstr "Вие сте само на една стъпка - %s"
+
+#: includes/class-freemius.php:7000
+msgctxt "%s - plugin name. As complete \"PluginX\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "Завършете активирането на „%s“ сега"
+
+#: includes/class-freemius.php:7082
+msgid "We made a few tweaks to the %s, %s"
+msgstr "Направихме няколко корекции на %s, %s"
+
+#: includes/class-freemius.php:7086
+msgid "Opt in to make \"%s\" better!"
+msgstr "Включете се, за да направите „%s“ по-добър!"
+
+#: includes/class-freemius.php:7507
+msgid "The upgrade of %s was successfully completed."
+msgstr "Надграждането на %s беше успешно завършено."
+
+#: includes/class-freemius.php:10280, includes/class-fs-plugin-updater.php:1126, includes/class-fs-plugin-updater.php:1348, includes/class-fs-plugin-updater.php:1341, templates/auto-installation.php:32
+msgid "Add-On"
+msgstr "Добавка"
+
+#: includes/class-freemius.php:10282, templates/account.php:407, templates/account.php:415, templates/debug.php:476, templates/debug.php:711
+msgid "Plugin"
+msgstr "Плъгин"
+
+#: includes/class-freemius.php:10283, templates/account.php:408, templates/account.php:416, templates/debug.php:476, templates/debug.php:711, templates/forms/deactivation/form.php:107
+msgid "Theme"
+msgstr "Тема"
+
+#: includes/class-freemius.php:13368
+msgid "An unknown error has occurred while trying to toggle the license's white-label mode."
+msgstr "Възникна неизвестна грешка при опит за превключване на режима на бял етикет на лиценза."
+
+#: includes/class-freemius.php:13382
+msgid "Your %s license was flagged as white-labeled to hide sensitive information from the WP Admin (e.g. your email, license key, prices, billing address & invoices). If you ever wish to revert it back, you can easily do it through your %s. If this was a mistake you can also %s."
+msgstr "Вашият лиценз за %s беше маркиран като с бял етикет, за да скрие чувствителна информация от WP Admin (напр. вашия имейл, лицензен ключ, цени, адрес за фактуриране и фактури). Ако някога пожелаете да го върнете обратно, можете лесно да го направите чрез вашия %s. Ако това е било грешка, можете също да го %s."
+
+#: includes/class-freemius.php:13387, templates/account/partials/disconnect-button.php:84
+msgid "User Dashboard"
+msgstr "Потребителски панел"
+
+#: includes/class-freemius.php:13388
+msgid "revert it now"
+msgstr "върнете сега"
+
+#: includes/class-freemius.php:13446
+msgid "An unknown error has occurred while trying to set the user's beta mode."
+msgstr "Възникна неизвестна грешка при опит за задаване на бета режима на потребителя."
+
+#: includes/class-freemius.php:13533
+msgid "Invalid new user ID or email address."
+msgstr "Невалиден нов потребителски ID или имейл адрес."
+
+#: includes/class-freemius.php:13563
+msgid "Sorry, we could not complete the email update. Another user with the same email is already registered."
+msgstr "Съжаляваме, не можахме да завършим актуализацията на имейла. Друг потребител със същия имейл вече е регистриран."
+
+#: includes/class-freemius.php:13564
+msgid "If you would like to give up the ownership of the %s's account to %s click the Change Ownership button."
+msgstr "Ако искате да се откажете от собствеността върху акаунта на %s в полза на %s, кликнете върху бутона Промяна на собствеността."
+
+#: includes/class-freemius.php:13571
+msgid "Change Ownership"
+msgstr "Промяна на собствеността"
+
+#: includes/class-freemius.php:14190
+msgid "Invalid site details collection."
+msgstr "Невалидна колекция от данни за сайта."
+
+#: includes/class-freemius.php:14312
+msgid "We can't see any active licenses associated with that email address, are you sure it's the right address?"
+msgstr "Не виждаме активни лицензи, свързани с този имейл адрес, сигурни ли сте, че това е правилният адрес?"
+
+#: includes/class-freemius.php:14310
+msgid "We couldn't find your email address in the system, are you sure it's the right address?"
+msgstr "Не можахме да намерим вашия имейл адрес в системата, сигурни ли сте, че това е правилният адрес?"
+
+#: includes/class-freemius.php:14616
+msgid "Account is pending activation. Please check your email and click the link to activate your account and then submit the affiliate form again."
+msgstr "Акаунтът очаква активация. Моля, проверете имейла си и кликнете върху линка, за да активирате акаунта си, след което подайте отново формуляра за партньорство."
+
+#: includes/class-freemius.php:14742, templates/forms/premium-versions-upgrade-handler.php:46
+msgid "Renew your license now"
+msgstr "Поднови лиценза си сега"
+
+#: includes/class-freemius.php:14730, templates/forms/premium-versions-upgrade-handler.php:47
+msgid "Buy a license now"
+msgstr "Купи лиценз сега"
+
+#: includes/class-freemius.php:14746
+msgid "%s to access version %s security & feature updates, and support."
+msgstr "%s за достъп до версия %s актуализации за сигурност и функции, както и поддръжка."
+
+#: includes/class-freemius.php:17452
+msgid "%s opt-in was successfully completed."
+msgstr "%s включването беше успешно завършено."
+
+#: includes/class-freemius.php:17476, includes/class-freemius.php:21463
+msgid "Your trial has been successfully started."
+msgstr "Вашият пробен период беше успешно стартиран."
+
+#: includes/class-freemius.php:17466
+msgid "Your account was successfully activated with the %s plan."
+msgstr "Вашият акаунт беше успешно активиран с плана %s."
+
+#: includes/class-freemius.php:18110, includes/class-freemius.php:18230, includes/class-freemius.php:18407
+msgid "Couldn't activate %s."
+msgstr "Не можа да се активира %s."
+
+#: includes/class-freemius.php:18111, includes/class-freemius.php:18231, includes/class-freemius.php:18408
+msgid "Please contact us with the following message:"
+msgstr "Моля, свържете се с нас със следното съобщение:"
+
+#: includes/class-freemius.php:18227, templates/forms/data-debug-mode.php:162
+msgid "An unknown error has occurred."
+msgstr "Възникна неизвестна грешка."
+
+#: includes/class-freemius.php:18769, includes/class-freemius.php:24292
+msgid "Upgrade"
+msgstr "Надгради"
+
+#: includes/class-freemius.php:18777
+msgid "Pricing"
+msgstr "Ценообразуване"
+
+#: includes/class-freemius.php:18775
+msgid "Start Trial"
+msgstr "Започни пробен период"
+
+#: includes/class-freemius.php:18859, includes/class-freemius.php:18861
+msgid "Affiliation"
+msgstr "Партньорство"
+
+#: includes/class-freemius.php:18889, includes/class-freemius.php:18891, templates/account.php:260, templates/debug.php:439
+msgid "Account"
+msgstr "Акаунт"
+
+#: includes/class-freemius.php:18917, includes/class-freemius.php:18906, includes/class-freemius.php:18908, includes/customizer/class-fs-customizer-support-section.php:60
+msgid "Contact Us"
+msgstr "Свържете се с нас"
+
+#: includes/class-freemius.php:18931, includes/class-freemius.php:18933, includes/class-freemius.php:24306, templates/account.php:130, templates/account/partials/addon.php:49
+msgid "Add-Ons"
+msgstr "Добавки"
+
+#: includes/class-freemius.php:18966
+msgctxt "ASCII arrow left icon"
+msgid "&#x2190;"
+msgstr "←"
+
+#: includes/class-freemius.php:18966
+msgctxt "ASCII arrow right icon"
+msgid "&#x27a4;"
+msgstr "➤"
+
+#: includes/class-freemius.php:18984
+msgctxt "noun"
+msgid "Pricing"
+msgstr "Ценообразуване"
+
+#: includes/class-freemius.php:19200, includes/customizer/class-fs-customizer-support-section.php:67
+msgid "Support Forum"
+msgstr "Форум за поддръжка"
+
+#: includes/class-freemius.php:20231
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "Вашият имейл беше успешно потвърден - вие сте СТРАХОТНИ!"
+
+#: includes/class-freemius.php:20232
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "Точно така"
+
+#: includes/class-freemius.php:20738
+msgid "seems like the key you entered doesn't match our records."
+msgstr "изглежда, че въведеният ключ не съвпада с нашите записи."
+
+#: includes/class-freemius.php:20762
+msgid "Debug mode was successfully enabled and will be automatically disabled in 60 min. You can also disable it earlier by clicking the \"Stop Debug\" link."
+msgstr "Режимът за отстраняване на грешки беше успешно активиран и ще бъде автоматично деактивиран след 60 минути. Можете също да го деактивирате по-рано, като кликнете върху връзката „Спри отстраняването на грешки“."
+
+#: includes/class-freemius.php:20997
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "Вашият план за добавката %s беше успешно надграден."
+
+#. translators: %s:product name, e.g. Facebook add-on was successfully...
+#: includes/class-freemius.php:20999
+msgid "%s Add-on was successfully purchased."
+msgstr "Добавката %s беше успешно закупена."
+
+#: includes/class-freemius.php:21002
+msgid "Download the latest version"
+msgstr "Изтеглете последната версия"
+
+#: includes/class-freemius.php:21120
+msgid "It seems like one of the authentication parameters is wrong. Update your Public Key, Secret Key & User ID, and try again."
+msgstr "Изглежда, че един от параметрите за удостоверяване е грешен. Актуализирайте вашия Публичен ключ, Таен ключ и Потребителско ID и опитайте отново."
+
+#: includes/class-freemius.php:21120, includes/class-freemius.php:21533, includes/class-freemius.php:21641, includes/class-freemius.php:21728
+msgid "Error received from the server:"
+msgstr "Получена грешка от сървъра:"
+
+#: includes/class-freemius.php:21361, includes/class-freemius.php:21646, includes/class-freemius.php:21699, includes/class-freemius.php:21806
+msgctxt "something somebody says when they are thinking about what you have just said."
+msgid "Hmm"
+msgstr "Хмм"
+
+#: includes/class-freemius.php:21374
+msgid "It looks like you are still on the %s plan. If you did upgrade or change your plan, it's probably an issue on our side - sorry."
+msgstr "Изглежда, че все още сте на плана %s. Ако сте надградили или променили плана си, вероятно проблемът е от наша страна - съжаляваме."
+
+#: includes/class-freemius.php:21375, templates/account.php:132, templates/add-ons.php:250, templates/account/partials/addon.php:51
+msgctxt "trial period"
+msgid "Trial"
+msgstr "Пробен период"
+
+#: includes/class-freemius.php:21380
+msgid "I have upgraded my account but when I try to Sync the License, the plan remains %s."
+msgstr "Надградих акаунта си, но когато се опитвам да синхронизирам лиценза, планът остава %s."
+
+#: includes/class-freemius.php:21384, includes/class-freemius.php:21442
+msgid "Please contact us here"
+msgstr "Моля, свържете се с нас тук"
+
+#: includes/class-freemius.php:21412
+msgid "Your plan was successfully changed to %s."
+msgstr "Вашият план беше успешно променен на %s."
+
+#: includes/class-freemius.php:21428
+msgid "Your license has expired. You can still continue using the free %s forever."
+msgstr "Вашият лиценз е изтекъл. Все още можете да продължите да използвате безплатния %s завинаги."
+
+#. translators: %1$s: product title; %2$s, %3$s: wrapping HTML anchor element; %4$s: 'plugin', 'theme', or 'add-on'.
+#: includes/class-freemius.php:21430
+msgid "Your license has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
+msgstr "Вашият лиценз е изтекъл. %1$sНадградете сега%2$s, за да продължите да използвате %3$s без прекъсвания."
+
+#: includes/class-freemius.php:21438
+msgid "Your license has been cancelled. If you think it's a mistake, please contact support."
+msgstr "Вашият лиценз е анулиран. Ако смятате, че това е грешка, моля, свържете се с поддръжката."
+
+#: includes/class-freemius.php:21451
+msgid "Your license has expired. You can still continue using all the %s features, but you'll need to renew your license to continue getting updates and support."
+msgstr "Вашият лиценз е изтекъл. Все още можете да продължите да използвате всички функции на %s, но ще трябва да подновите лиценза си, за да продължите да получавате актуализации и поддръжка."
+
+#: includes/class-freemius.php:21477
+msgid "Your free trial has expired. You can still continue using all our free features."
+msgstr "Вашият безплатен пробен период изтече. Все още можете да продължите да използвате всички наши безплатни функции."
+
+#. translators: %1$s: product title; %2$s, %3$s: wrapping HTML anchor element; %4$s: 'plugin', 'theme', or 'add-on'.
+#: includes/class-freemius.php:21479
+msgid "Your free trial has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
+msgstr "Вашият безплатен пробен период изтече. %1$sНадградете сега%2$s, за да продължите да използвате %3$s без прекъсвания."
+
+#: includes/class-freemius.php:21525
+msgid "Your server is blocking the access to Freemius' API, which is crucial for %1$s synchronization. Please contact your host to whitelist the following domains:%2$s"
+msgstr "Вашият сървър блокира достъпа до API на Freemius, което е от решаващо значение за синхронизацията на %1$s. Моля, свържете се с вашия хостинг доставчик, за да добавите следните домейни в белия списък:%2$s"
+
+#: includes/class-freemius.php:21527
+msgid "Show error details"
+msgstr "Покажи подробности за грешката"
+
+#: includes/class-freemius.php:21637
+msgid "It looks like the license could not be activated."
+msgstr "Изглежда, че лицензът не можа да бъде активиран."
+
+#: includes/class-freemius.php:21679
+msgid "Your license was successfully activated."
+msgstr "Вашият лиценз беше успешно активиран."
+
+#: includes/class-freemius.php:21703
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "Изглежда, че в момента вашият сайт няма активен лиценз."
+
+#: includes/class-freemius.php:21727
+msgid "It looks like the license deactivation failed."
+msgstr "Изглежда, че деактивирането на лиценза не беше успешно."
+
+#: includes/class-freemius.php:21756
+msgid "Your %s license was successfully deactivated."
+msgstr "Вашият лиценз за %s беше успешно деактивиран."
+
+#: includes/class-freemius.php:21757
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "Вашият лиценз беше успешно деактивиран, върнахте се към плана %s."
+
+#: includes/class-freemius.php:21760
+msgid "O.K"
+msgstr "Добре"
+
+#: includes/class-freemius.php:21813
+msgid "Seems like we are having some temporary issue with your subscription cancellation. Please try again in few minutes."
+msgstr "Изглежда, че имаме някакъв временен проблем с отмяната на вашия абонамент. Моля, опитайте отново след няколко минути."
+
+#: includes/class-freemius.php:21822
+msgid "Your subscription was successfully cancelled. Your %s plan license will expire in %s."
+msgstr "Вашият абонамент беше успешно отменен. Лицензът за вашия план %s ще изтече след %s."
+
+#: includes/class-freemius.php:21865
+msgid "You are already running the %s in a trial mode."
+msgstr "Вече използвате %s в пробен режим."
+
+#: includes/class-freemius.php:21877
+msgid "You already utilized a trial before."
+msgstr "Вече сте използвали пробен период преди."
+
+#: includes/class-freemius.php:21916
+msgid "None of the %s's plans supports a trial period."
+msgstr "Нито един от плановете на %s не поддържа пробен период."
+
+#: includes/class-freemius.php:21892
+msgid "Plan %s do not exist, therefore, can't start a trial."
+msgstr "План %s не съществува, следователно не може да се започне пробен период."
+
+#: includes/class-freemius.php:21904
+msgid "Plan %s does not support a trial period."
+msgstr "План %s не поддържа пробен период."
+
+#: includes/class-freemius.php:21978
+msgid "It looks like you are not in trial mode anymore so there's nothing to cancel :)"
+msgstr "Изглежда, че вече не сте в пробен режим, така че няма какво да се отмени :)"
+
+#: includes/class-freemius.php:22014
+msgid "Seems like we are having some temporary issue with your trial cancellation. Please try again in few minutes."
+msgstr "Изглежда, че имаме някакъв временен проблем с отмяната на вашия пробен период. Моля, опитайте отново след няколко минути."
+
+#: includes/class-freemius.php:22033
+msgid "Your %s free trial was successfully cancelled."
+msgstr "Вашият безплатен пробен период за %s беше успешно отменен."
+
+#: includes/class-freemius.php:22380
+msgid "Seems like you got the latest release."
+msgstr "Изглежда, че имате последната версия."
+
+#: includes/class-freemius.php:22381
+msgid "You are all good!"
+msgstr "Всичко е наред!"
+
+#: includes/class-freemius.php:22363
+msgid "Version %s was released."
+msgstr "Версия %s беше пусната."
+
+#: includes/class-freemius.php:22363
+msgid "Please download %s."
+msgstr "Моля, изтеглете %s."
+
+#: includes/class-freemius.php:22370
+msgid "the latest %s version here"
+msgstr "последната версия на %s тук"
+
+#: includes/class-freemius.php:22375
+msgid "New"
+msgstr "Ново"
+
+#: includes/class-freemius.php:22784
+msgid "Verification mail was just sent to %s. If you can't find it after 5 min, please check your spam box."
+msgstr "Имейл за потвърждение беше изпратен на %s. Ако не го намерите след 5 минути, моля, проверете папката си за спам."
+
+#: includes/class-freemius.php:22924
+msgid "Site successfully opted in."
+msgstr "Сайтът успешно се включи."
+
+#: includes/class-freemius.php:22925, includes/class-freemius.php:24000
+msgid "Awesome"
+msgstr "Страхотно"
+
+#: includes/class-freemius.php:22951
+msgid "Diagnostic data will no longer be sent from %s to %s."
+msgstr "Диагностичните данни вече няма да се изпращат от %s до %s."
+
+#: includes/class-freemius.php:22941
+msgid "Sharing diagnostic data with %s helps to provide functionality that's more relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the plugin should be translated and tailored to."
+msgstr "Споделянето на диагностични данни с %s помага за предоставянето на функционалност, която е по-подходяща за вашия уебсайт, избягването на несъвместимости с версиите на WordPress или PHP, които могат да повредят вашия уебсайт, и разпознаването на езиците и регионите, за които плъгинът трябва да бъде преведен и адаптиран."
+
+#: includes/class-freemius.php:22942
+msgid "Thank you!"
+msgstr "Благодаря!"
+
+#: includes/class-freemius.php:23111
+msgid "A confirmation email was just sent to %s. You must confirm the update within the next 4 hours. If you cannot find the email, please check your spam folder."
+msgstr "Току-що беше изпратен имейл за потвърждение на %s. Трябва да потвърдите актуализацията в рамките на следващите 4 часа. Ако не можете да намерите имейла, моля, проверете папката си за спам."
+
+#: includes/class-freemius.php:23109
+msgid "A confirmation email was just sent to %s. The email owner must confirm the update within the next 4 hours."
+msgstr "Току-що беше изпратен имейл за потвърждение на %s. Собственикът на имейла трябва да потвърди актуализацията в рамките на следващите 4 часа."
+
+#: includes/class-freemius.php:23123
+msgid "Thanks for confirming the ownership change. An email was just sent to %s for final approval."
+msgstr "Благодарим ви за потвърждаването на промяната на собствеността. Току-що беше изпратен имейл на %s за окончателно одобрение."
+
+#: includes/class-freemius.php:23129
+msgid "%s is the new owner of the account."
+msgstr "%s е новият собственик на акаунта."
+
+#: includes/class-freemius.php:23131
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "Поздравления"
+
+#: includes/class-freemius.php:23153
+msgid "Your name was successfully updated."
+msgstr "Името ви беше успешно актуализирано."
+
+#: includes/class-freemius.php:23148
+msgid "Please provide your full name."
+msgstr "Моля, въведете пълното си име."
+
+#. translators: %s: User's account property (e.g. email address, name)
+#: includes/class-freemius.php:23218
+msgid "You have successfully updated your %s."
+msgstr "Успешно актуализирахте вашия %s."
+
+#: includes/class-freemius.php:23282
+msgid "Is this your client's site? %s if you wish to hide sensitive info like your email, license key, prices, billing address & invoices from the WP Admin."
+msgstr "Това сайт на ваш клиент ли е? %s ако искате да скриете чувствителна информация като вашия имейл, лицензионен ключ, цени, адрес за фактуриране и фактури от WP Admin."
+
+#: includes/class-freemius.php:23285
+msgid "Click here"
+msgstr "Кликнете тук"
+
+#: includes/class-freemius.php:23322
+msgid "Bundle"
+msgstr "Пакет"
+
+#: includes/class-freemius.php:23395
+msgid "Just letting you know that the add-ons information of %s is being pulled from an external server."
+msgstr "Просто да ви уведомя, че информацията за добавките на %s се изтегля от външен сървър."
+
+#: includes/class-freemius.php:23396
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "Внимание"
+
+#: includes/class-freemius.php:24040
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "Здравейте"
+
+#: includes/class-freemius.php:24040
+msgid "How do you like %s so far? Test all our %s premium features with a %d-day free trial."
+msgstr "Как ви харесва %s досега? Тествайте всички наши %s премиум функции с %d-дневен безплатен пробен период."
+
+#: includes/class-freemius.php:24048
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "Без ангажимент за %s дни - можете да отмените по всяко време!"
+
+#: includes/class-freemius.php:24049
+msgid "No credit card required"
+msgstr "Не се изисква кредитна карта"
+
+#: includes/class-freemius.php:24056, templates/forms/trial-start.php:53
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "Започнете безплатен пробен период"
+
+#: includes/class-freemius.php:24135
+msgid "Hey there, did you know that %s has an affiliate program? If you like the %s you can become our ambassador and earn some cash!"
+msgstr "Здравейте, знаехте ли, че %s има партньорска програма? Ако харесвате %s, можете да станете наш посланик и да спечелите малко пари!"
+
+#: includes/class-freemius.php:24144
+msgid "Learn more"
+msgstr "Научете повече"
+
+#: includes/class-freemius.php:24330, templates/account.php:569, templates/account.php:721, templates/connect.php:211, templates/connect.php:442, includes/managers/class-fs-clone-manager.php:1305, templates/forms/license-activation.php:27, templates/account/partials/addon.php:326
+msgid "Activate License"
+msgstr "Активирайте лиценз"
+
+#: includes/class-freemius.php:24331, templates/account.php:663, templates/account.php:720, templates/account/partials/addon.php:327, templates/account/partials/site.php:273
+msgid "Change License"
+msgstr "Променете лиценза"
+
+#: includes/class-freemius.php:24446, includes/class-freemius.php:24440, templates/account/partials/site.php:49, templates/account/partials/site.php:170
+msgid "Opt In"
+msgstr "Включете се"
+
+#: includes/class-freemius.php:24438, templates/account/partials/site.php:170
+msgid "Opt Out"
+msgstr "Откажете се"
+
+#: includes/class-freemius.php:24704
+msgid "Please follow these steps to complete the upgrade"
+msgstr "Моля, следвайте тези стъпки, за да завършите надграждането"
+
+#. translators: %s: Plan title
+#: includes/class-freemius.php:24708
+msgid "Download the latest %s version"
+msgstr "Изтеглете най-новата версия на %s"
+
+#: includes/class-freemius.php:24712
+msgid "Upload and activate the downloaded version"
+msgstr "Качете и активирайте изтеглената версия"
+
+#: includes/class-freemius.php:24714
+msgid "How to upload and activate?"
+msgstr "Как да качите и активирате?"
+
+#: includes/class-freemius.php:24681
+msgid " The paid version of %1$s is already installed. Please activate it to start benefiting the %2$s features. %3$s"
+msgstr " Платената версия на %1$s вече е инсталирана. Моля, активирайте я, за да започнете да се възползвате от %2$s функциите. %3$s"
+
+#: includes/class-freemius.php:24691
+msgid "Activate %s features"
+msgstr "Активирайте функциите на %s"
+
+#: includes/class-freemius.php:24749
+msgid "Your plan was successfully upgraded."
+msgstr "Вашият план беше успешно надграден."
+
+#: includes/class-freemius.php:24750
+msgid "Your plan was successfully activated."
+msgstr "Вашият план беше успешно активиран."
+
+#: includes/class-freemius.php:24859
+msgid "%sClick here%s to choose the sites where you'd like to activate the license on."
+msgstr "%sКликнете тук%s, за да изберете сайтовете, на които искате да активирате лиценза."
+
+#: includes/class-freemius.php:25028
+msgid "Auto installation only works for opted-in users."
+msgstr "Автоматичната инсталация работи само за потребители, които са се съгласили."
+
+#: includes/class-freemius.php:25038, includes/class-freemius.php:25071, includes/class-fs-plugin-updater.php:1320, includes/class-fs-plugin-updater.php:1334
+msgid "Invalid module ID."
+msgstr "Невалиден ID на модул."
+
+#: includes/class-freemius.php:25079, includes/class-fs-plugin-updater.php:1355
+msgid "Premium add-on version already installed."
+msgstr "Премиум версията на добавката вече е инсталирана."
+
+#: includes/class-freemius.php:25047, includes/class-fs-plugin-updater.php:1356
+msgid "Premium version already active."
+msgstr "Премиум версията вече е активна."
+
+#: includes/class-freemius.php:25054
+msgid "You do not have a valid license to access the premium version."
+msgstr "Нямате валиден лиценз за достъп до премиум версията."
+
+#: includes/class-freemius.php:25061
+msgid "Plugin is a \"Serviceware\" which means it does not have a premium code version."
+msgstr "Плъгинът е „Serviceware“, което означава, че няма премиум код версия."
+
+#: includes/class-freemius.php:25439
+msgid "View paid features"
+msgstr "Вижте платените функции"
+
+#: includes/class-freemius.php:25754
+msgid "Thank you so much for using our products!"
+msgstr "Благодарим ви много, че използвате нашите продукти!"
+
+#: includes/class-freemius.php:25755
+msgid "You've already opted-in to our usage-tracking, which helps us keep improving them."
+msgstr "Вече сте се съгласили с нашето проследяване на използването, което ни помага да ги подобряваме непрекъснато."
+
+#: includes/class-freemius.php:25774
+msgid "%s and its add-ons"
+msgstr "%s и неговите добавки"
+
+#: includes/class-freemius.php:25783
+msgid "Products"
+msgstr "Продукти"
+
+#: includes/class-freemius.php:25743
+msgid "Thank you so much for using %s and its add-ons!"
+msgstr "Благодарим ви много, че използвате %s и неговите добавки!"
+
+#: includes/class-freemius.php:25744
+msgid "Thank you so much for using %s!"
+msgstr "Благодарим ви много, че използвате %s!"
+
+#: includes/class-freemius.php:25750
+msgid "You've already opted-in to our usage-tracking, which helps us keep improving the %s."
+msgstr "Вече сте се съгласили с нашето проследяване на използването, което ни помага да подобряваме непрекъснато %s."
+
+#: includes/class-freemius.php:25790, templates/connect.php:312
+msgid "Yes"
+msgstr "Да"
+
+#: includes/class-freemius.php:25791, templates/connect.php:313
+msgid "send me security & feature updates, educational content and offers."
+msgstr "изпращайте ми актуализации за сигурност и функции, образователно съдържание и оферти."
+
+#: includes/class-freemius.php:25792, templates/connect.php:318
+msgid "No"
+msgstr "Не"
+
+#: includes/class-freemius.php:25794, templates/connect.php:320
+msgid "do %sNOT%s send me security & feature updates, educational content and offers."
+msgstr "%sНЕ%s ми изпращайте актуализации за сигурност и функции, образователно съдържание и оферти."
+
+#: includes/class-freemius.php:25804
+msgid "Due to the new %sEU General Data Protection Regulation (GDPR)%s compliance requirements it is required that you provide your explicit consent, again, confirming that you are onboard :-)"
+msgstr "Поради новите изисквания за съответствие с %sОбщия регламент за защита на данните на ЕС (GDPR)%s, е необходимо да дадете отново изричното си съгласие, потвърждавайки, че сте на борда :-)"
+
+#: includes/class-freemius.php:25806, templates/connect.php:327
+msgid "Please let us know if you'd like us to contact you for security & feature updates, educational content, and occasional offers:"
+msgstr "Моля, уведомете ни дали бихте искали да се свържем с вас за актуализации за сигурност и функции, образователно съдържание и случайни оферти:"
+
+#: includes/class-freemius.php:26096
+msgid "License key is empty."
+msgstr "Лицензионният ключ е празен."
+
+#: includes/class-fs-plugin-updater.php:247, templates/forms/premium-versions-upgrade-handler.php:57
+msgid "Renew license"
+msgstr "Поднови лиценз"
+
+#: includes/class-fs-plugin-updater.php:252, templates/forms/premium-versions-upgrade-handler.php:58
+msgid "Buy license"
+msgstr "Купи лиценз"
+
+#: includes/class-fs-plugin-updater.php:405, includes/class-fs-plugin-updater.php:372
+msgid "There is a %s of %s available."
+msgstr "Има %s от %s налични."
+
+#: includes/class-fs-plugin-updater.php:410, includes/class-fs-plugin-updater.php:374
+msgid "new Beta version"
+msgstr "нова Бета версия"
+
+#: includes/class-fs-plugin-updater.php:411, includes/class-fs-plugin-updater.php:375
+msgid "new version"
+msgstr "нова версия"
+
+#: includes/class-fs-plugin-updater.php:434
+msgid "Important Upgrade Notice:"
+msgstr "Важно съобщение за обновяване:"
+
+#: includes/class-fs-plugin-updater.php:1385
+msgid "Installing plugin: %s"
+msgstr "Инсталиране на плъгин: %s"
+
+#: includes/class-fs-plugin-updater.php:1426
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Не може да се осъществи връзка с файловата система. Моля, потвърдете вашите идентификационни данни."
+
+#: includes/class-fs-plugin-updater.php:1608
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Отдалеченият пакет на плъгина не съдържа папка с желания слъг и преименуването не проработи."
+
+#: includes/fs-plugin-info-dialog.php:542
+msgid "Purchase More"
+msgstr "Купи още"
+
+#: includes/fs-plugin-info-dialog.php:543, templates/account/partials/addon.php:390
+msgctxt "verb"
+msgid "Purchase"
+msgstr "Купи"
+
+#. translators: %s: N-days trial
+#: includes/fs-plugin-info-dialog.php:547
+msgid "Start my free %s"
+msgstr "Започни моя безплатен %s"
+
+#: includes/fs-plugin-info-dialog.php:755
+msgid "Install Free Version Now"
+msgstr "Инсталирай безплатната версия сега"
+
+#: includes/fs-plugin-info-dialog.php:756, templates/add-ons.php:323, templates/auto-installation.php:111, templates/account/partials/addon.php:423, templates/account/partials/addon.php:370
+msgid "Install Now"
+msgstr "Инсталирай сега"
+
+#: includes/fs-plugin-info-dialog.php:745
+msgid "Install Free Version Update Now"
+msgstr "Инсталирай обновлението на безплатната версия сега"
+
+#: includes/fs-plugin-info-dialog.php:746, templates/account.php:652
+msgid "Install Update Now"
+msgstr "Инсталирай обновлението сега"
+
+#: includes/fs-plugin-info-dialog.php:772
+msgctxt "as download latest version"
+msgid "Download Latest Free Version"
+msgstr "Изтегли последната безплатна версия"
+
+#: includes/fs-plugin-info-dialog.php:773, templates/account.php:110, templates/add-ons.php:37, templates/account/partials/addon.php:30
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "Изтегли последната версия"
+
+#: includes/fs-plugin-info-dialog.php:788, templates/add-ons.php:329, templates/account/partials/addon.php:417, templates/account/partials/addon.php:361
+msgid "Activate this add-on"
+msgstr "Активирай този добавка"
+
+#: includes/fs-plugin-info-dialog.php:790, templates/connect.php:439
+msgid "Activate Free Version"
+msgstr "Активирай безплатната версия"
+
+#: includes/fs-plugin-info-dialog.php:791, templates/account.php:134, templates/add-ons.php:330, templates/account/partials/addon.php:53
+msgid "Activate"
+msgstr "Активирай"
+
+#: includes/fs-plugin-info-dialog.php:999
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "Описание"
+
+#: includes/fs-plugin-info-dialog.php:1000
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "Инсталация"
+
+#: includes/fs-plugin-info-dialog.php:1001
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "Често задавани въпроси"
+
+#: includes/fs-plugin-info-dialog.php:1002, templates/plugin-info/description.php:55
+msgid "Screenshots"
+msgstr "Екранни снимки"
+
+#: includes/fs-plugin-info-dialog.php:1003
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "Списък с промени"
+
+#: includes/fs-plugin-info-dialog.php:1004
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "Отзиви"
+
+#: includes/fs-plugin-info-dialog.php:1005
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "Други бележки"
+
+#: includes/fs-plugin-info-dialog.php:1020
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "Функции и цени"
+
+#: includes/fs-plugin-info-dialog.php:1030
+msgid "Plugin Install"
+msgstr "Инсталиране на плъгин"
+
+#: includes/fs-plugin-info-dialog.php:1102
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s план"
+
+#: includes/fs-plugin-info-dialog.php:1128
+msgctxt "e.g. the best product"
+msgid "Best"
+msgstr "Най-добър"
+
+#: includes/fs-plugin-info-dialog.php:1134, includes/fs-plugin-info-dialog.php:1154
+msgctxt "as every month"
+msgid "Monthly"
+msgstr "Месечно"
+
+#: includes/fs-plugin-info-dialog.php:1137
+msgctxt "as once a year"
+msgid "Annual"
+msgstr "Годишно"
+
+#: includes/fs-plugin-info-dialog.php:1140
+msgid "Lifetime"
+msgstr "Доживотно"
+
+#: includes/fs-plugin-info-dialog.php:1154, includes/fs-plugin-info-dialog.php:1156, includes/fs-plugin-info-dialog.php:1158
+msgctxt "e.g. billed monthly"
+msgid "Billed %s"
+msgstr "Таксува се %s"
+
+#: includes/fs-plugin-info-dialog.php:1156
+msgctxt "as once a year"
+msgid "Annually"
+msgstr "Годишно"
+
+#: includes/fs-plugin-info-dialog.php:1158
+msgctxt "as once a year"
+msgid "Once"
+msgstr "Еднократно"
+
+#: includes/fs-plugin-info-dialog.php:1164
+msgid "Single Site License"
+msgstr "Лиценз за един сайт"
+
+#: includes/fs-plugin-info-dialog.php:1166
+msgid "Unlimited Licenses"
+msgstr "Неограничени лицензи"
+
+#: includes/fs-plugin-info-dialog.php:1168
+msgid "Up to %s Sites"
+msgstr "До %s сайта"
+
+#: includes/fs-plugin-info-dialog.php:1178, templates/plugin-info/features.php:82
+msgctxt "as monthly period"
+msgid "mo"
+msgstr "месец"
+
+#: includes/fs-plugin-info-dialog.php:1185, templates/plugin-info/features.php:80
+msgctxt "as annual period"
+msgid "year"
+msgstr "година"
+
+#: includes/fs-plugin-info-dialog.php:1239
+msgctxt "noun"
+msgid "Price"
+msgstr "Цена"
+
+#. translators: %s: Discount (e.g. discount of $5 or 10%)
+#: includes/fs-plugin-info-dialog.php:1287
+msgid "Save %s"
+msgstr "Спести %s"
+
+#: includes/fs-plugin-info-dialog.php:1297
+msgid "No commitment for %s - cancel anytime"
+msgstr "Без ангажимент за %s - отказ по всяко време"
+
+#: includes/fs-plugin-info-dialog.php:1300
+msgid "After your free %s, pay as little as %s"
+msgstr "След твоя безплатен %s, плащаш само %s"
+
+#: includes/fs-plugin-info-dialog.php:1311
+msgid "Details"
+msgstr "Подробности"
+
+#: includes/fs-plugin-info-dialog.php:1315, templates/account.php:121, templates/debug.php:300, templates/debug.php:342, templates/debug.php:601, templates/account/partials/addon.php:41
+msgctxt "product version"
+msgid "Version"
+msgstr "Версия"
+
+#: includes/fs-plugin-info-dialog.php:1322
+msgctxt "as the plugin author"
+msgid "Author"
+msgstr "Автор"
+
+#: includes/fs-plugin-info-dialog.php:1329
+msgid "Last Updated"
+msgstr "Последно обновяване"
+
+#. translators: %s: time period (e.g. "2 hours" ago)
+#: includes/fs-plugin-info-dialog.php:1334, templates/account.php:540
+msgctxt "x-ago"
+msgid "%s ago"
+msgstr "преди %s"
+
+#: includes/fs-plugin-info-dialog.php:1343
+msgid "Requires WordPress Version"
+msgstr "Изисква WordPress версия"
+
+#. translators: %s: Version number.
+#: includes/fs-plugin-info-dialog.php:1346, includes/fs-plugin-info-dialog.php:1366
+msgid "%s or higher"
+msgstr "%s или по-висока"
+
+#: includes/fs-plugin-info-dialog.php:1354
+msgid "Compatible up to"
+msgstr "Съвместим до"
+
+#: includes/fs-plugin-info-dialog.php:1362
+msgid "Requires PHP Version"
+msgstr "Изисква PHP версия"
+
+#: includes/fs-plugin-info-dialog.php:1375
+msgid "Downloaded"
+msgstr "Изтеглен"
+
+#. translators: %s: 1 or One (Number of times downloaded)
+#: includes/fs-plugin-info-dialog.php:1379
+msgid "%s time"
+msgstr "%s път"
+
+#. translators: %s: Number of times downloaded
+#: includes/fs-plugin-info-dialog.php:1381
+msgid "%s times"
+msgstr "%s пъти"
+
+#: includes/fs-plugin-info-dialog.php:1392
+msgid "WordPress.org Plugin Page"
+msgstr "Страница на плъгина в WordPress.org"
+
+#: includes/fs-plugin-info-dialog.php:1401
+msgid "Plugin Homepage"
+msgstr "Начална страница на плъгина"
+
+#: includes/fs-plugin-info-dialog.php:1410, includes/fs-plugin-info-dialog.php:1494
+msgid "Donate to this plugin"
+msgstr "Дарете за този плъгин"
+
+#: includes/fs-plugin-info-dialog.php:1417
+msgid "Average Rating"
+msgstr "Средна оценка"
+
+#: includes/fs-plugin-info-dialog.php:1424
+msgid "based on %s"
+msgstr "базирана на %s"
+
+#. translators: %s: 1 or One
+#: includes/fs-plugin-info-dialog.php:1428
+msgid "%s rating"
+msgstr "%s оценка"
+
+#. translators: %s: Number larger than 1
+#: includes/fs-plugin-info-dialog.php:1430
+msgid "%s ratings"
+msgstr "%s оценки"
+
+#. translators: %s: 1 or One
+#: includes/fs-plugin-info-dialog.php:1445
+msgid "%s star"
+msgstr "%s звезда"
+
+#. translators: %s: Number larger than 1
+#: includes/fs-plugin-info-dialog.php:1447
+msgid "%s stars"
+msgstr "%s звезди"
+
+#. translators: %s: # of stars (e.g. 5 stars)
+#: includes/fs-plugin-info-dialog.php:1459
+msgid "Click to see reviews that provided a rating of %s"
+msgstr "Кликнете, за да видите отзивите, които са дали оценка %s"
+
+#: includes/fs-plugin-info-dialog.php:1472
+msgid "Contributors"
+msgstr "Сътрудници"
+
+#: includes/fs-plugin-info-dialog.php:1513
+msgid "This plugin requires a newer version of PHP."
+msgstr "Този плъгин изисква по-нова версия на PHP."
+
+#. translators: %s: URL to Update PHP page.
+#: includes/fs-plugin-info-dialog.php:1522
+msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating PHP</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">Кликнете тук, за да научите повече за обновяването на PHP</a>."
+
+#: includes/fs-plugin-info-dialog.php:1538, includes/fs-plugin-info-dialog.php:1536
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: includes/fs-plugin-info-dialog.php:1538
+msgid "This plugin has not been marked as compatible with your version of WordPress."
+msgstr "Този плъгин не е маркиран като съвместим с вашата версия на WordPress."
+
+#: includes/fs-plugin-info-dialog.php:1536
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "Този плъгин не е тестван с текущата ви версия на WordPress."
+
+#: includes/fs-plugin-info-dialog.php:1557
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "Платената добавка трябва да бъде разгърната в Freemius."
+
+#: includes/fs-plugin-info-dialog.php:1558
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "Добавката трябва да бъде разгърната в WordPress.org или Freemius."
+
+#: includes/fs-plugin-info-dialog.php:1587
+msgid "Latest Version Installed"
+msgstr "Инсталирана е най-новата версия"
+
+#: includes/fs-plugin-info-dialog.php:1588
+msgid "Latest Free Version Installed"
+msgstr "Инсталирана е най-новата безплатна версия"
+
+#: includes/fs-plugin-info-dialog.php:1579
+msgid "Newer Version (%s) Installed"
+msgstr "Инсталирана е по-нова версия (%s)"
+
+#: includes/fs-plugin-info-dialog.php:1580
+msgid "Newer Free Version (%s) Installed"
+msgstr "Инсталирана е по-нова безплатна версия (%s)"
+
+#: templates/account.php:111, templates/forms/subscription-cancellation.php:96, templates/account/partials/addon.php:31, templates/account/partials/site.php:313
+msgid "Downgrading your plan"
+msgstr "Понижаване на вашия план"
+
+#: templates/account.php:112, templates/forms/subscription-cancellation.php:97, templates/account/partials/addon.php:32, templates/account/partials/site.php:314
+msgid "Cancelling the subscription"
+msgstr "Отказване на абонамента"
+
+#. translators: %1$s: Either 'Downgrading your plan' or 'Cancelling the subscription'
+#: templates/account.php:114, templates/forms/subscription-cancellation.php:99, templates/account/partials/addon.php:34, templates/account/partials/site.php:316
+msgid "%1$s will immediately stop all future recurring payments and your %2$s plan license will expire in %3$s."
+msgstr "%1$s ще спре незабавно всички бъдещи повтарящи се плащания и вашият лиценз за план %2$s ще изтече след %3$s."
+
+#: templates/account.php:115, templates/forms/subscription-cancellation.php:100, templates/account/partials/addon.php:35, templates/account/partials/site.php:317
+msgid "Please note that we will not be able to grandfather outdated pricing for renewals/new subscriptions after a cancellation. If you choose to renew the subscription manually in the future, after a price increase, which typically occurs once a year, you will be charged the updated price."
+msgstr "Моля, имайте предвид, че няма да можем да запазим остарели цени за подновявания/нови абонаменти след отказ. Ако изберете да подновите абонамента ръчно в бъдеще, след увеличение на цената, което обикновено се случва веднъж годишно, ще бъдете таксувани с актуализираната цена."
+
+#: templates/account.php:116, templates/forms/subscription-cancellation.php:106, templates/account/partials/addon.php:36
+msgid "Cancelling the trial will immediately block access to all premium features. Are you sure?"
+msgstr "Отказването на пробния период ще блокира незабавно достъпа до всички премиум функции. Сигурни ли сте?"
+
+#: templates/account.php:117, templates/forms/subscription-cancellation.php:101, templates/account/partials/addon.php:37, templates/account/partials/site.php:318
+msgid "You can still enjoy all %s features but you will not have access to %s security & feature updates, nor support."
+msgstr "Все още можете да се наслаждавате на всички функции на %s, но няма да имате достъп до %s актуализации за сигурност и функции, нито до поддръжка."
+
+#: templates/account.php:118, templates/forms/subscription-cancellation.php:102, templates/account/partials/addon.php:38, templates/account/partials/site.php:319
+msgid "Once your license expires you can still use the Free version but you will NOT have access to the %s features."
+msgstr "След като лицензът ви изтече, все още можете да използвате безплатната версия, но НЯМА да имате достъп до функциите на %s."
+
+#. translators: %s: Plan title (e.g. "Professional")
+#: templates/account.php:120, templates/account/partials/activate-license-button.php:31, templates/account/partials/addon.php:40
+msgid "Activate %s Plan"
+msgstr "Активирай %s план"
+
+#. translators: %s: Time period (e.g. Auto renews in "2 months")
+#: templates/account.php:123, templates/account/partials/addon.php:43, templates/account/partials/site.php:293
+msgid "Auto renews in %s"
+msgstr "Автоматично подновяване след %s"
+
+#. translators: %s: Time period (e.g. Expires in "2 months")
+#: templates/account.php:125, templates/account/partials/addon.php:45, templates/account/partials/site.php:295
+msgid "Expires in %s"
+msgstr "Изтича след %s"
+
+#: templates/account.php:126
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "Синхронизирай лиценз"
+
+#: templates/account.php:127, templates/account/partials/addon.php:46
+msgid "Cancel Trial"
+msgstr "Откажи пробен период"
+
+#: templates/account.php:128, templates/account/partials/addon.php:47
+msgid "Change Plan"
+msgstr "Промени план"
+
+#: templates/account.php:129, templates/account/partials/addon.php:48
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "Надгради"
+
+#: templates/account.php:131, templates/account/partials/addon.php:50, templates/account/partials/site.php:320
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "Понижи"
+
+#: templates/account.php:133, templates/add-ons.php:246, templates/plugin-info/features.php:72, templates/account/partials/addon.php:52, templates/account/partials/site.php:33
+msgid "Free"
+msgstr "Безплатно"
+
+#: templates/account.php:135, templates/debug.php:490, includes/customizer/class-fs-customizer-upsell-control.php:110, templates/account/partials/addon.php:54
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "План"
+
+#: templates/account.php:136
+msgid "Bundle Plan"
+msgstr "Пакетен план"
+
+#: templates/account.php:268
+msgid "Free Trial"
+msgstr "Безплатен пробен период"
+
+#: templates/account.php:279
+msgid "Account Details"
+msgstr "Детайли на акаунта"
+
+#: templates/account.php:288
+msgid "Stop Debug"
+msgstr "Спри отстраняване на грешки"
+
+#: templates/account.php:286, templates/forms/data-debug-mode.php:33
+msgid "Start Debug"
+msgstr "Започни отстраняване на грешки"
+
+#: templates/account.php:295
+msgid "Billing & Invoices"
+msgstr "Фактуриране и фактури"
+
+#: templates/account.php:318, templates/account/partials/addon.php:236, templates/account/partials/deactivate-license-button.php:35
+msgid "Deactivate License"
+msgstr "Деактивирай лиценз"
+
+#: templates/account.php:341, templates/forms/subscription-cancellation.php:125
+msgid "Are you sure you want to proceed?"
+msgstr "Сигурни ли сте, че искате да продължите?"
+
+#: templates/account.php:341, templates/account/partials/addon.php:260
+msgid "Cancel Subscription"
+msgstr "Откажи абонамент"
+
+#: templates/account.php:370, templates/account/partials/addon.php:345
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "Синхронизирай"
+
+#: templates/account.php:385, templates/debug.php:663
+msgid "Name"
+msgstr "Име"
+
+#: templates/account.php:391, templates/debug.php:664
+msgid "Email"
+msgstr "Имейл"
+
+#: templates/account.php:398, templates/debug.php:488, templates/debug.php:718
+msgid "User ID"
+msgstr "Потребителско ID"
+
+#: templates/account.php:416, templates/account.php:734, templates/account.php:785, templates/debug.php:340, templates/debug.php:482, templates/debug.php:598, templates/debug.php:662, templates/debug.php:716, templates/debug.php:799, templates/account/payments.php:35, templates/debug/logger.php:21
+msgid "ID"
+msgstr "ID"
+
+#: templates/account.php:423
+msgid "Site ID"
+msgstr "ID на сайта"
+
+#: templates/account.php:426
+msgid "No ID"
+msgstr "Без ID"
+
+#: templates/account.php:431, templates/debug.php:347, templates/debug.php:491, templates/debug.php:602, templates/debug.php:666, templates/account/partials/site.php:228
+msgid "Public Key"
+msgstr "Публичен ключ"
+
+#: templates/account.php:437, templates/debug.php:492, templates/debug.php:603, templates/debug.php:667, templates/account/partials/site.php:241
+msgid "Secret Key"
+msgstr "Таен ключ"
+
+#: templates/account.php:440
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "Без таен ключ"
+
+#: templates/account.php:494, templates/debug.php:724, templates/account/partials/site.php:262
+msgid "License Key"
+msgstr "Лицензен ключ"
+
+#: templates/account.php:467, templates/account/partials/site.php:122, templates/account/partials/site.php:120
+msgid "Trial"
+msgstr "Пробен период"
+
+#: templates/account.php:525
+msgid "Join the Beta program"
+msgstr "Присъедини се към Бета програмата"
+
+#: templates/account.php:531
+msgid "not verified"
+msgstr "непотвърден"
+
+#: templates/account.php:600
+msgid "Free version"
+msgstr "Безплатна версия"
+
+#: templates/account.php:598
+msgid "Premium version"
+msgstr "Премиум версия"
+
+#: templates/account.php:540, templates/account/partials/addon.php:195
+msgid "Expired"
+msgstr "Изтекъл"
+
+#: templates/account.php:612
+msgid "Verify Email"
+msgstr "Потвърди имейл"
+
+#: templates/account.php:689, templates/forms/user-change.php:27
+msgid "Change User"
+msgstr "Промени потребител"
+
+#: templates/account.php:676
+msgid "What is your %s?"
+msgstr "Какъв е вашият %s?"
+
+#: templates/account.php:684, templates/account/billing.php:21
+msgctxt "verb"
+msgid "Edit"
+msgstr "Редактирай"
+
+#: templates/account.php:660, templates/account.php:923, templates/account/partials/site.php:250, templates/account/partials/site.php:272
+msgctxt "verb"
+msgid "Show"
+msgstr "Покажи"
+
+#: templates/account.php:626
+msgid "Download %s Version"
+msgstr "Изтегли %s версия"
+
+#: templates/account.php:642
+msgid "Download Paid Version"
+msgstr "Изтегли платена версия"
+
+#: templates/account.php:713
+msgid "Sites"
+msgstr "Сайтове"
+
+#: templates/account.php:726
+msgid "Search by address"
+msgstr "Търси по адрес"
+
+#: templates/account.php:735, templates/debug.php:485
+msgid "Address"
+msgstr "Адрес"
+
+#: templates/account.php:736
+msgid "License"
+msgstr "Лиценз"
+
+#: templates/account.php:737
+msgid "Plan"
+msgstr "План"
+
+#: templates/account.php:788
+msgctxt "as software license"
+msgid "License"
+msgstr "Лиценз"
+
+#: templates/account.php:917
+msgctxt "verb"
+msgid "Hide"
+msgstr "Скрий"
+
+#: templates/account.php:939, templates/forms/data-debug-mode.php:31, templates/forms/deactivation/form.php:358, templates/forms/deactivation/form.php:389
+msgid "Processing"
+msgstr "Обработка"
+
+#: templates/account.php:942
+msgid "Get updates for bleeding edge Beta versions of %s."
+msgstr "Получавайте актуализации за най-новите Бета версии на %s."
+
+#: templates/account.php:1000
+msgid "Cancelling %s"
+msgstr "Отказване на %s"
+
+#: templates/account.php:1000, templates/account.php:1017, templates/forms/subscription-cancellation.php:27, templates/forms/deactivation/form.php:178
+msgid "trial"
+msgstr "пробен период"
+
+#: templates/account.php:1015, templates/forms/deactivation/form.php:195
+msgid "Cancelling %s..."
+msgstr "Отказване на %s..."
+
+#: templates/account.php:1018, templates/forms/subscription-cancellation.php:28, templates/forms/deactivation/form.php:179
+msgid "subscription"
+msgstr "абонамент"
+
+#: templates/account.php:1032
+msgid "Deactivating your license will block all premium features, but will enable activating the license on another site. Are you sure you want to proceed?"
+msgstr "Деактивирането на вашия лиценз ще блокира всички премиум функции, но ще позволи активиране на лиценза на друг сайт. Сигурни ли сте, че искате да продължите?"
+
+#: templates/account.php:1106
+msgid "Disabling white-label mode"
+msgstr "Изключване на режима на бяло етикетиране"
+
+#: templates/account.php:1107
+msgid "Enabling white-label mode"
+msgstr "Включване на режима на бяло етикетиране"
+
+#: templates/add-ons.php:38
+msgid "View details"
+msgstr "Виж детайли"
+
+#: templates/add-ons.php:48
+msgid "Add Ons for %s"
+msgstr "Добавки за %s"
+
+#: templates/add-ons.php:58
+msgid "We couldn't load the add-ons list. It's probably an issue on our side, please try to come back in few minutes."
+msgstr "Не успяхме да заредим списъка с добавки. Вероятно е проблем от наша страна, моля, опитайте отново след няколко минути."
+
+#: templates/add-ons.php:229
+msgctxt "active add-on"
+msgid "Active"
+msgstr "Активен"
+
+#: templates/add-ons.php:230
+msgctxt "installed add-on"
+msgid "Installed"
+msgstr "Инсталиран"
+
+#: templates/admin-notice.php:17, templates/forms/license-activation.php:245, templates/forms/resend-key.php:80
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "Отхвърли"
+
+#. translators: %s: Number of seconds
+#: templates/auto-installation.php:45
+msgid "%s sec"
+msgstr "%s сек"
+
+#: templates/auto-installation.php:83
+msgid "Automatic Installation"
+msgstr "Автоматична инсталация"
+
+#: templates/auto-installation.php:93
+msgid "An automated download and installation of %s (paid version) from %s will start in %s. If you would like to do it manually - click the cancellation button now."
+msgstr "Автоматичното изтегляне и инсталиране на %s (платена версия) от %s ще започне след %s. Ако искате да го направите ръчно - натиснете бутона за отказ сега."
+
+#: templates/auto-installation.php:104
+msgid "The installation process has started and may take a few minutes to complete. Please wait until it is done - do not refresh this page."
+msgstr "Процесът на инсталиране е започнал и може да отнеме няколко минути. Моля, изчакайте докато приключи - не опреснявайте тази страница."
+
+#: templates/auto-installation.php:109
+msgid "Cancel Installation"
+msgstr "Отмени инсталацията"
+
+#. translators: %s: name (e.g. Hey John,)
+#: templates/connect.php:118
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "Здравей %s,"
+
+#. translators: %1$s: plugin name (e.g., "Awesome Plugin"); %2$s: version (e.g., "1.2.3")
+#: templates/connect.php:185
+msgid "Thank you for updating to %1$s v%2$s!"
+msgstr "Благодарим ти, че обнови до %1$s v%2$s!"
+
+#: templates/connect.php:177
+msgid "Never miss an important update"
+msgstr "Никога не пропускай важна актуализация"
+
+#: templates/connect.php:195
+msgid "Allow & Continue"
+msgstr "Разреши и продължи"
+
+#. translators: %s: module type (plugin, theme, or add-on)
+#: templates/connect.php:235
+msgid "We have introduced this opt-in so you never miss an important update and help us make the %s more compatible with your site and better at doing what you need it to."
+msgstr "Въведохме тази опция, за да не пропускате важни актуализации и да ни помогнете да направим %s по-съвместим с вашия сайт и по-добър в това, от което се нуждаете."
+
+#: templates/connect.php:237
+msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info."
+msgstr "Включете се, за да получавате имейл известия за актуализации на сигурността и функциите, образователно съдържание и случайни оферти, както и да споделяте основна информация за WordPress средата."
+
+#: templates/connect.php:240
+msgid "If you skip this, that's okay! %1$s will still work just fine."
+msgstr "Ако пропуснете това, няма проблем! %1$s ще продължи да работи нормално."
+
+#: templates/connect.php:226
+msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info. This will help us make the %s more compatible with your site and better at doing what you need it to."
+msgstr "Включете се, за да получавате имейл известия за актуализации на сигурността и функциите, образователно съдържание и случайни оферти, както и да споделяте основна информация за WordPress средата. Това ще ни помогне да направим %s по-съвместим с вашия сайт и по-добър в това, от което се нуждаете."
+
+#: templates/connect.php:215
+msgid "Welcome to %s! To get started, please enter your license key:"
+msgstr "Добре дошли в %s! За да започнете, моля, въведете вашия лицензионен ключ:"
+
+#: templates/connect.php:199
+msgid "Re-send activation email"
+msgstr "Изпрати отново имейл за активация"
+
+#: templates/connect.php:203
+msgid "Thanks %s!"
+msgstr "Благодарим ти, %s!"
+
+#: templates/connect.php:204
+msgid "You should receive a confirmation email for %s to your mailbox at %s. Please make sure you click the button in that email to %s."
+msgstr "Трябва да получите имейл за потвърждение за %s във вашата пощенска кутия на %s. Моля, уверете се, че сте кликнали върху бутона в този имейл, за да %s."
+
+#: templates/connect.php:270
+msgid "We're excited to introduce the Freemius network-level integration."
+msgstr "С вълнение представяме интеграцията на ниво мрежа на Freemius."
+
+#: templates/connect.php:284
+msgid "During the update process we detected %s site(s) in the network that are still pending your attention."
+msgstr "По време на процеса на актуализация открихме %s сайт(а) в мрежата, които все още очакват вашето внимание."
+
+#: templates/connect.php:273
+msgid "During the update process we detected %d site(s) that are still pending license activation."
+msgstr "По време на процеса на актуализация открихме %d сайт(а), които все още очакват активиране на лиценза."
+
+#: templates/connect.php:275
+msgid "If you'd like to use the %s on those sites, please enter your license key below and click the activation button."
+msgstr "Ако искате да използвате %s на тези сайтове, моля, въведете вашия лицензионен ключ по-долу и кликнете върху бутона за активиране."
+
+#: templates/connect.php:277
+msgid "%s's paid features"
+msgstr "Платени функции на %s"
+
+#: templates/connect.php:282
+msgid "Alternatively, you can skip it for now and activate the license later, in your %s's network-level Account page."
+msgstr "Алтернативно, можете да го пропуснете засега и да активирате лиценза по-късно в страницата на вашия %s акаунт на ниво мрежа."
+
+#: templates/connect.php:293, templates/forms/data-debug-mode.php:35, templates/forms/license-activation.php:42
+msgid "License key"
+msgstr "Лицензионен ключ"
+
+#: templates/connect.php:296, templates/forms/license-activation.php:22
+msgid "Can't find your license key?"
+msgstr "Не можете да намерите вашия лицензионен ключ?"
+
+#: templates/connect.php:340
+msgid "A user has not yet been associated with the license, which is necessary to prevent unauthorized activation. To assign the license to your user, you agree to share your WordPress user's full name and email address."
+msgstr "Все още не е асоцииран потребител с лиценза, което е необходимо за предотвратяване на неоторизирана активация. За да присвоите лиценза на вашия потребител, се съгласявате да споделите пълното име и имейл адреса на вашия WordPress потребител."
+
+#: templates/connect.php:362, templates/connect.php:692, templates/forms/deactivation/retry-skip.php:20
+msgctxt "verb"
+msgid "Skip"
+msgstr "Пропусни"
+
+#: templates/connect.php:365
+msgid "Delegate to Site Admins"
+msgstr "Делегирай на администраторите на сайта"
+
+#: templates/connect.php:365
+msgid "If you click it, this decision will be delegated to the sites administrators."
+msgstr "Ако кликнете върху това, това решение ще бъде делегирано на администраторите на сайтовете."
+
+#: templates/connect.php:394
+msgid "License issues?"
+msgstr "Проблеми с лиценза?"
+
+#: templates/connect.php:423
+msgid "This will allow %s to"
+msgstr "Това ще позволи на %s да"
+
+#: templates/connect.php:418
+msgid "For delivery of security & feature updates, and license management, %s needs to"
+msgstr "За доставка на актуализации за сигурност и функции, както и за управление на лиценза, %s трябва да"
+
+#: templates/connect.php:441
+msgid "Have a license key?"
+msgstr "Имате лицензионен ключ?"
+
+#: templates/connect.php:438
+msgid "Don't have a license key?"
+msgstr "Нямате лицензионен ключ?"
+
+#: templates/connect.php:449
+msgid "Freemius is our licensing and software updates engine"
+msgstr "Freemius е нашият двигател за лицензиране и актуализации на софтуера"
+
+#: templates/connect.php:452
+msgid "Privacy Policy"
+msgstr "Политика за поверителност"
+
+#: templates/connect.php:457
+msgid "Terms of Service"
+msgstr "Условия за ползване"
+
+#: templates/connect.php:455
+msgid "License Agreement"
+msgstr "Лицензионно споразумение"
+
+#: templates/connect.php:879
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "Изпращане на имейл"
+
+#: templates/connect.php:880
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "Активиране"
+
+#: templates/contact.php:63
+msgid "Contact"
+msgstr "Контакт"
+
+#: templates/debug.php:17
+msgctxt "as turned off"
+msgid "Off"
+msgstr "Изключено"
+
+#: templates/debug.php:18
+msgctxt "as turned on"
+msgid "On"
+msgstr "Включено"
+
+#: templates/debug.php:29, includes/managers/class-fs-debug-manager.php:26
+msgid "Freemius Debug"
+msgstr "Отстраняване на грешки във Freemius"
+
+#: templates/debug.php:29
+msgid "SDK"
+msgstr "SDK"
+
+#: templates/debug.php:32
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "Отстраняване на грешки"
+
+#: templates/debug.php:38
+msgctxt "timer for auto-disabling debug"
+msgid "Auto off in:"
+msgstr "Автоматично изключване след:"
+
+#: templates/debug.php:117, templates/debug.php:352, templates/debug.php:493, templates/debug.php:668
+msgid "Actions"
+msgstr "Действия"
+
+#: templates/debug.php:127
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "Сигурни ли сте, че искате да изтриете всички данни на Freemius?"
+
+#: templates/debug.php:127
+msgid "Delete All Accounts"
+msgstr "Изтрий всички акаунти"
+
+#: templates/debug.php:134
+msgid "Clear API Cache"
+msgstr "Изчисти API кеша"
+
+#: templates/debug.php:142
+msgid "Clear Updates Transients"
+msgstr "Изчисти временните файлове за обновяване"
+
+#: templates/debug.php:151
+msgid "Reset Deactivation Snoozing"
+msgstr "Нулирай отлагането на деактивацията"
+
+#: templates/debug.php:159
+msgid "Sync Data From Server"
+msgstr "Синхронизирай данните от сървъра"
+
+#: templates/debug.php:168
+msgid "Migrate Options to Network"
+msgstr "Мигрирай опциите към мрежата"
+
+#: templates/debug.php:173
+msgid "Load DB Option"
+msgstr "Зареди DB опция"
+
+#: templates/debug.php:176
+msgid "Set DB Option"
+msgstr "Задай DB опция"
+
+#: templates/debug.php:274
+msgid "Key"
+msgstr "Ключ"
+
+#: templates/debug.php:275
+msgid "Value"
+msgstr "Стойност"
+
+#: templates/debug.php:295
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK версии"
+
+#: templates/debug.php:301
+msgid "SDK Path"
+msgstr "SDK път"
+
+#: templates/debug.php:302, templates/debug.php:346
+msgid "Module Path"
+msgstr "Път на модула"
+
+#: templates/debug.php:303
+msgid "Is Active"
+msgstr "Активен ли е"
+
+#: templates/debug.php:335, templates/debug/plugins-themes-sync.php:35
+msgid "Plugins"
+msgstr "Плъгини"
+
+#: templates/debug.php:335, templates/debug/plugins-themes-sync.php:56
+msgid "Themes"
+msgstr "Теми"
+
+#: templates/debug.php:341, templates/debug.php:487, templates/debug.php:600, templates/debug/scheduled-crons.php:91
+msgid "Slug"
+msgstr "Слъг"
+
+#: templates/debug.php:343, templates/debug.php:599
+msgid "Title"
+msgstr "Заглавие"
+
+#: templates/debug.php:344
+msgctxt "as application program interface"
+msgid "API"
+msgstr "API"
+
+#: templates/debug.php:345
+msgid "Freemius State"
+msgstr "Състояние на Freemius"
+
+#: templates/debug.php:349
+msgid "Network Blog"
+msgstr "Мрежов блог"
+
+#: templates/debug.php:350
+msgid "Network User"
+msgstr "Мрежов потребител"
+
+#: templates/debug.php:396
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "Свързан"
+
+#: templates/debug.php:398
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "Блокиран"
+
+#: templates/debug.php:399
+msgctxt "API connectivity state is unknown"
+msgid "Unknown"
+msgstr "Неизвестен"
+
+#: templates/debug.php:435
+msgid "Simulate Trial Promotion"
+msgstr "Симулирай промоция на пробен период"
+
+#: templates/debug.php:447
+msgid "Simulate Network Upgrade"
+msgstr "Симулирай мрежово надграждане"
+
+#. translators: %s: 'plugin' or 'theme'
+#: templates/debug.php:475
+msgid "%s Installs"
+msgstr "%s инсталации"
+
+#: templates/debug.php:477
+msgctxt "like websites"
+msgid "Sites"
+msgstr "Сайтове"
+
+#: templates/debug.php:484, templates/account/partials/site.php:156
+msgid "Blog ID"
+msgstr "ID на блога"
+
+#: templates/debug.php:489
+msgid "License ID"
+msgstr "ID на лиценза"
+
+#: templates/debug.php:575, templates/debug.php:691, templates/account/partials/addon.php:440
+msgctxt "verb"
+msgid "Delete"
+msgstr "Изтрий"
+
+#: templates/debug.php:593
+msgid "Add Ons of module %s"
+msgstr "Добавки на модул %s"
+
+#: templates/debug.php:657
+msgid "Users"
+msgstr "Потребители"
+
+#: templates/debug.php:665
+msgid "Verified"
+msgstr "Потвърден"
+
+#: templates/debug.php:711
+msgid "%s Licenses"
+msgstr "%s лиценза"
+
+#: templates/debug.php:717
+msgid "Plugin ID"
+msgstr "ID на плъгина"
+
+#: templates/debug.php:719
+msgid "Plan ID"
+msgstr "ID на плана"
+
+#: templates/debug.php:720
+msgid "Quota"
+msgstr "Квота"
+
+#: templates/debug.php:721
+msgid "Activated"
+msgstr "Активиран"
+
+#: templates/debug.php:722
+msgid "Blocking"
+msgstr "Блокиране"
+
+#: templates/debug.php:723, templates/debug.php:798, templates/debug/logger.php:22
+msgid "Type"
+msgstr "Тип"
+
+#: templates/debug.php:725
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "Изтичане"
+
+#: templates/debug.php:757
+msgid "Debug Log"
+msgstr "Дневник за отстраняване на грешки"
+
+#: templates/debug.php:761
+msgid "All Types"
+msgstr "Всички типове"
+
+#: templates/debug.php:768
+msgid "All Requests"
+msgstr "Всички заявки"
+
+#: templates/debug.php:773, templates/debug.php:802, templates/debug/logger.php:25
+msgid "File"
+msgstr "Файл"
+
+#: templates/debug.php:774, templates/debug.php:800, templates/debug/logger.php:23
+msgid "Function"
+msgstr "Функция"
+
+#: templates/debug.php:775
+msgid "Process ID"
+msgstr "ID на процеса"
+
+#: templates/debug.php:776
+msgid "Logger"
+msgstr "Логър"
+
+#: templates/debug.php:777, templates/debug.php:801, templates/debug/logger.php:24
+msgid "Message"
+msgstr "Съобщение"
+
+#: templates/debug.php:779
+msgid "Filter"
+msgstr "Филтър"
+
+#: templates/debug.php:787
+msgid "Download"
+msgstr "Изтегли"
+
+#: templates/debug.php:803, templates/debug/logger.php:26
+msgid "Timestamp"
+msgstr "Времева марка"
+
+#. translators: %s: Page name
+#: templates/secure-https-header.php:28
+msgid "Secure HTTPS %s page, running from an external domain"
+msgstr "Защитена HTTPS %s страница, работеща от външен домейн"
+
+#: includes/customizer/class-fs-customizer-support-section.php:55, templates/plugin-info/features.php:43
+msgid "Support"
+msgstr "Поддръжка"
+
+#: includes/debug/class-fs-debug-bar-panel.php:51, templates/debug/api-calls.php:54, templates/debug/logger.php:62
+msgctxt "milliseconds"
+msgid "ms"
+msgstr "мс"
+
+#: includes/debug/debug-bar-start.php:41
+msgid "Freemius API"
+msgstr "Freemius API"
+
+#: includes/debug/debug-bar-start.php:42
+msgid "Requests"
+msgstr "Заявки"
+
+#: includes/managers/class-fs-clone-manager.php:849
+msgid "Invalid clone resolution action."
+msgstr "Невалидно действие за разрешаване на клониране."
+
+#: includes/managers/class-fs-clone-manager.php:1034
+msgid "products"
+msgstr "продукти"
+
+#: includes/managers/class-fs-clone-manager.php:1221
+msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of %3$s:%1$s"
+msgstr "Продуктите по-долу са поставени в безопасен режим, защото забелязахме, че %2$s е точно копие на %3$s:%1$s"
+
+#: includes/managers/class-fs-clone-manager.php:1222
+msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of these sites:%3$s%1$s"
+msgstr "Продуктите по-долу са поставени в безопасен режим, защото забелязахме, че %2$s е точно копие на тези сайтове:%3$s%1$s"
+
+#: includes/managers/class-fs-clone-manager.php:1215
+msgid "%1$s has been placed into safe mode because we noticed that %2$s is an exact copy of %3$s."
+msgstr "%1$s е поставен в безопасен режим, защото забелязахме, че %2$s е точно копие на %3$s."
+
+#: includes/managers/class-fs-clone-manager.php:1248
+msgid "the above-mentioned sites"
+msgstr "горепосочените сайтове"
+
+#: includes/managers/class-fs-clone-manager.php:1261
+msgid "Is %2$s a duplicate of %4$s?"
+msgstr "Дали %2$s е дубликат на %4$s?"
+
+#: includes/managers/class-fs-clone-manager.php:1262
+msgid "Yes, %2$s is a duplicate of %4$s for the purpose of testing, staging, or development."
+msgstr "Да, %2$s е дубликат на %4$s с цел тестване, стейджинг или разработка."
+
+#: includes/managers/class-fs-clone-manager.php:1267
+msgid "Long-Term Duplicate"
+msgstr "Дългосрочен дубликат"
+
+#: includes/managers/class-fs-clone-manager.php:1272
+msgid "Duplicate Website"
+msgstr "Дублиран уебсайт"
+
+#: includes/managers/class-fs-clone-manager.php:1278
+msgid "Is %2$s the new home of %4$s?"
+msgstr "Дали %2$s е новият дом на %4$s?"
+
+#: includes/managers/class-fs-clone-manager.php:1280
+msgid "Yes, %%2$s is replacing %%4$s. I would like to migrate my %s from %%4$s to %%2$s."
+msgstr "Да, %%2$s заменя %%4$s. Бих искал да мигрирам моя %s от %%4$s към %%2$s."
+
+#: includes/managers/class-fs-clone-manager.php:1281, templates/forms/subscription-cancellation.php:52
+msgid "license"
+msgstr "лиценз"
+
+#: includes/managers/class-fs-clone-manager.php:1281
+msgid "data"
+msgstr "данни"
+
+#: includes/managers/class-fs-clone-manager.php:1287
+msgid "Migrate License"
+msgstr "Мигрирай лиценз"
+
+#: includes/managers/class-fs-clone-manager.php:1288
+msgid "Migrate"
+msgstr "Мигрирай"
+
+#: includes/managers/class-fs-clone-manager.php:1294
+msgid "Is %2$s a new website?"
+msgstr "Дали %2$s е нов уебсайт?"
+
+#: includes/managers/class-fs-clone-manager.php:1295
+msgid "Yes, %2$s is a new and different website that is separate from %4$s."
+msgstr "Да, %2$s е нов и различен уебсайт, който е отделен от %4$s."
+
+#: includes/managers/class-fs-clone-manager.php:1297
+msgid "It requires license activation."
+msgstr "Изисква активиране на лиценз."
+
+#: includes/managers/class-fs-clone-manager.php:1304
+msgid "New Website"
+msgstr "Нов уебсайт"
+
+#: includes/managers/class-fs-clone-manager.php:1329
+msgctxt "Clone resolution admin notice products list label"
+msgid "Products"
+msgstr "Продукти"
+
+#: includes/managers/class-fs-clone-manager.php:1418
+msgid "You marked this website, %s, as a temporary duplicate of %s."
+msgstr "Маркирахте този уебсайт, %s, като временен дубликат на %s."
+
+#: includes/managers/class-fs-clone-manager.php:1419
+msgid "You marked this website, %s, as a temporary duplicate of these sites"
+msgstr "Маркирахте този уебсайт, %s, като временен дубликат на тези сайтове"
+
+#: includes/managers/class-fs-clone-manager.php:1433
+msgid "%s automatic security & feature updates and paid functionality will keep working without interruptions until %s (or when your license expires, whatever comes first)."
+msgstr "Автоматичните актуализации за сигурност и функции на %s, както и платената функционалност, ще продължат да работят без прекъсване до %s (или когато лицензът ви изтече, което настъпи първо)."
+
+#: includes/managers/class-fs-clone-manager.php:1436
+msgctxt "\"The <product_label>\", e.g.: \"The plugin\""
+msgid "The %s's"
+msgstr "Актуализациите на %s"
+
+#: includes/managers/class-fs-clone-manager.php:1439
+msgid "The following products'"
+msgstr "Актуализациите на следните продукти"
+
+#: includes/managers/class-fs-clone-manager.php:1447
+msgid "If this is a long term duplicate, to keep automatic updates and paid functionality after %s, please %s."
+msgstr "Ако това е дългосрочен дубликат, за да запазите автоматичните актуализации и платената функционалност след %s, моля %s."
+
+#: includes/managers/class-fs-clone-manager.php:1449
+msgid "activate a license here"
+msgstr "активирайте лиценз тук"
+
+#: includes/managers/class-fs-permission-manager.php:191
+msgid "View Basic Website Info"
+msgstr "Виж основна информация за уебсайта"
+
+#: includes/managers/class-fs-permission-manager.php:192
+msgid "Homepage URL & title, WP & PHP versions, and site language"
+msgstr "URL и заглавие на началната страница, WP и PHP версии и език на сайта"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:195
+msgid "To provide additional functionality that's relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the %s should be translated and tailored to."
+msgstr "За да предоставим допълнителна функционалност, която е подходяща за вашия уебсайт, да избегнем несъвместимости с версиите на WordPress или PHP, които могат да повредят вашия уебсайт, и да разпознаем на кои езици и региони трябва да бъде преведен и адаптиран %s."
+
+#: includes/managers/class-fs-permission-manager.php:207
+msgid "View Basic %s Info"
+msgstr "Виж основна информация за %s"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:210
+msgid "Current %s & SDK versions, and if active or uninstalled"
+msgstr "Текущи версии на %s и SDK, и дали е активен или деинсталиран"
+
+#: includes/managers/class-fs-permission-manager.php:261
+msgid "View License Essentials"
+msgstr "Виж основна информация за лиценза"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:272
+msgid "To let you manage & control where the license is activated and ensure %s security & feature updates are only delivered to websites you authorize."
+msgstr "За да ви позволим да управлявате и контролирате къде е активиран лицензът и да гарантираме, че актуализациите за сигурност и функции на %s се доставят само на уебсайтове, които вие разрешавате."
+
+#: includes/managers/class-fs-permission-manager.php:284
+msgid "View %s State"
+msgstr "Виж състоянието на %s"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:287
+msgid "Is active, deactivated, or uninstalled"
+msgstr "Активен, деактивиран или деинсталиран"
+
+#: includes/managers/class-fs-permission-manager.php:290
+msgid "So you can reuse the license when the %s is no longer active."
+msgstr "За да можете да използвате повторно лиценза, когато %s вече не е активен."
+
+#: includes/managers/class-fs-permission-manager.php:326
+msgid "View Diagnostic Info"
+msgstr "Виж диагностична информация"
+
+#: includes/managers/class-fs-permission-manager.php:326, includes/managers/class-fs-permission-manager.php:363
+msgid "optional"
+msgstr "по избор"
+
+#: includes/managers/class-fs-permission-manager.php:327
+msgid "WordPress & PHP versions, site language & title"
+msgstr "WordPress и PHP версии, език и заглавие на сайта"
+
+#. translators: %s: 'Plugin' or 'Theme'
+#: includes/managers/class-fs-permission-manager.php:330
+msgid "To avoid breaking your website due to WordPress or PHP version incompatibilities, and recognize which languages & regions the %s should be translated and tailored to."
+msgstr "За да избегнем повреждане на вашия уебсайт поради несъвместимости с версиите на WordPress или PHP, и да разпознаем на кои езици и региони трябва да бъде преведен и адаптиран %s."
+
+#: includes/managers/class-fs-permission-manager.php:363
+msgid "View Plugins & Themes List"
+msgstr "Виж списък с плъгини и теми"
+
+#: includes/managers/class-fs-permission-manager.php:364
+msgid "Names, slugs, versions, and if active or not"
+msgstr "Имена, слъгове, версии и дали са активни или не"
+
+#: includes/managers/class-fs-permission-manager.php:365
+msgid "To ensure compatibility and avoid conflicts with your installed plugins and themes."
+msgstr "За да осигурим съвместимост и да избегнем конфликти с инсталираните плъгини и теми."
+
+#: includes/managers/class-fs-permission-manager.php:382
+msgid "View Basic Profile Info"
+msgstr "Виж основна информация за профила"
+
+#: includes/managers/class-fs-permission-manager.php:383
+msgid "Your WordPress user's: first & last name, and email address"
+msgstr "Вашият WordPress потребител: име и фамилия, и имейл адрес"
+
+#: includes/managers/class-fs-permission-manager.php:384
+msgid "Never miss important updates, get security warnings before they become public knowledge, and receive notifications about special offers and awesome new features."
+msgstr "Никога не пропускайте важни актуализации, получавайте предупреждения за сигурност преди да станат публично достояние и получавайте известия за специални оферти и страхотни нови функции."
+
+#: includes/managers/class-fs-permission-manager.php:405
+msgid "Newsletter"
+msgstr "Бюлетин"
+
+#: includes/managers/class-fs-permission-manager.php:406
+msgid "Updates, announcements, marketing, no spam"
+msgstr "Актуализации, съобщения, маркетинг, без спам"
+
+#: templates/account/billing.php:22
+msgctxt "verb"
+msgid "Update"
+msgstr "Актуализирай"
+
+#: templates/account/billing.php:33
+msgid "Billing"
+msgstr "Фактуриране"
+
+#: templates/account/billing.php:38, templates/account/billing.php:38
+msgid "Business name"
+msgstr "Име на фирмата"
+
+#: templates/account/billing.php:39, templates/account/billing.php:39
+msgid "Tax / VAT ID"
+msgstr "Данъчен / ДДС номер"
+
+#: templates/account/billing.php:42, templates/account/billing.php:42, templates/account/billing.php:43, templates/account/billing.php:43
+msgid "Address Line %d"
+msgstr "Адрес ред %d"
+
+#: templates/account/billing.php:46, templates/account/billing.php:46
+msgid "City"
+msgstr "Град"
+
+#: templates/account/billing.php:46, templates/account/billing.php:46
+msgid "Town"
+msgstr "Населено място"
+
+#: templates/account/billing.php:47, templates/account/billing.php:47
+msgid "ZIP / Postal Code"
+msgstr "Пощенски код"
+
+#: templates/account/billing.php:302
+msgid "Country"
+msgstr "Държава"
+
+#: templates/account/billing.php:304
+msgid "Select Country"
+msgstr "Избери държава"
+
+#: templates/account/billing.php:311, templates/account/billing.php:312
+msgid "State"
+msgstr "Област"
+
+#: templates/account/billing.php:311, templates/account/billing.php:312
+msgid "Province"
+msgstr "Провинция"
+
+#: templates/account/payments.php:29
+msgid "Payments"
+msgstr "Плащания"
+
+#: templates/account/payments.php:36
+msgid "Date"
+msgstr "Дата"
+
+#: templates/account/payments.php:37
+msgid "Amount"
+msgstr "Сума"
+
+#: templates/account/payments.php:38, templates/account/payments.php:50
+msgid "Invoice"
+msgstr "Фактура"
+
+#: templates/checkout/frame.php:77
+msgid "Checkout"
+msgstr "Плащане"
+
+#: templates/checkout/frame.php:77
+msgid "PCI compliant"
+msgstr "PCI съвместим"
+
+#: templates/checkout/process-redirect.php:41
+msgid "Processing, please wait and do not close or refresh this window..."
+msgstr "Обработка, моля изчакайте и не затваряйте или обновявайте този прозорец..."
+
+#: templates/checkout/redirect.php:87
+msgid "Redirecting, please <a href=\"%1$s\">click here</a> if you're stuck..."
+msgstr "Пренасочване, моля <a href=\"%1$s\">натиснете тук</a>, ако сте блокирани..."
+
+#: templates/connect/permissions-group.php:31, templates/forms/optout.php:26, templates/js/permissions.php:78
+msgctxt "verb"
+msgid "Opt Out"
+msgstr "Отказ"
+
+#: templates/connect/permissions-group.php:32, templates/js/permissions.php:77
+msgctxt "verb"
+msgid "Opt In"
+msgstr "Включване"
+
+#: templates/debug/api-calls.php:56
+msgid "API"
+msgstr "API"
+
+#: templates/debug/api-calls.php:68
+msgid "Method"
+msgstr "Метод"
+
+#: templates/debug/api-calls.php:69
+msgid "Code"
+msgstr "Код"
+
+#: templates/debug/api-calls.php:70
+msgid "Length"
+msgstr "Дължина"
+
+#: templates/debug/api-calls.php:71
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "Път"
+
+#: templates/debug/api-calls.php:73
+msgid "Body"
+msgstr "Тяло"
+
+#: templates/debug/api-calls.php:75
+msgid "Result"
+msgstr "Резултат"
+
+#: templates/debug/api-calls.php:76
+msgid "Start"
+msgstr "Начало"
+
+#: templates/debug/api-calls.php:77
+msgid "End"
+msgstr "Край"
+
+#: templates/debug/logger.php:15
+msgid "Log"
+msgstr "Лог"
+
+#. translators: %s: time period (e.g. In "2 hours")
+#: templates/debug/plugins-themes-sync.php:18, templates/debug/scheduled-crons.php:102
+msgid "In %s"
+msgstr "В %s"
+
+#. translators: %s: time period (e.g. "2 hours" ago)
+#: templates/debug/plugins-themes-sync.php:20, templates/debug/scheduled-crons.php:104
+msgid "%s ago"
+msgstr "преди %s"
+
+#: templates/debug/plugins-themes-sync.php:21, templates/debug/scheduled-crons.php:76
+msgctxt "seconds"
+msgid "sec"
+msgstr "сек"
+
+#: templates/debug/plugins-themes-sync.php:23
+msgid "Plugins & Themes Sync"
+msgstr "Синхронизация на плъгини и теми"
+
+#: templates/debug/plugins-themes-sync.php:28
+msgid "Total"
+msgstr "Общо"
+
+#: templates/debug/plugins-themes-sync.php:29, templates/debug/scheduled-crons.php:95
+msgid "Last"
+msgstr "Последно"
+
+#: templates/debug/scheduled-crons.php:86, templates/debug/scheduled-crons.php:83
+msgid "Scheduled Crons"
+msgstr "Планирани задачи"
+
+#: templates/debug/scheduled-crons.php:92
+msgid "Module"
+msgstr "Модул"
+
+#: templates/debug/scheduled-crons.php:93
+msgid "Module Type"
+msgstr "Тип модул"
+
+#: templates/debug/scheduled-crons.php:94
+msgid "Cron Type"
+msgstr "Тип задача"
+
+#: templates/debug/scheduled-crons.php:96
+msgid "Next"
+msgstr "Следващ"
+
+#: templates/forms/affiliation.php:86
+msgid "Non-expiring"
+msgstr "Безсрочен"
+
+#: templates/forms/affiliation.php:89
+msgid "Apply to become an affiliate"
+msgstr "Кандидатствай за партньор"
+
+#: templates/forms/affiliation.php:137
+msgid "Due to violation of our affiliation terms, we decided to temporarily block your affiliation account. If you have any questions, please contact support."
+msgstr "Поради нарушение на нашите условия за партньорство, решихме временно да блокираме партньорския ви акаунт. Ако имате въпроси, моля свържете се с поддръжката."
+
+#: templates/forms/affiliation.php:134
+msgid "Thank you for applying for our affiliate program, unfortunately, we've decided at this point to reject your application. Please try again in 30 days."
+msgstr "Благодарим ви, че кандидатствахте за нашата партньорска програма. За съжаление, решихме на този етап да отхвърлим вашата кандидатура. Моля, опитайте отново след 30 дни."
+
+#: templates/forms/affiliation.php:131
+msgid "Your affiliation account was temporarily suspended."
+msgstr "Вашият партньорски акаунт беше временно спрян."
+
+#: templates/forms/affiliation.php:128
+msgid "Thank you for applying for our affiliate program, we'll review your details during the next 14 days and will get back to you with further information."
+msgstr "Благодарим ви, че кандидатствахте за нашата партньорска програма. Ще прегледаме данните ви през следващите 14 дни и ще ви върнем отговор с допълнителна информация."
+
+#: templates/forms/affiliation.php:113
+msgid "Your affiliate application for %s has been accepted! Log in to your affiliate area at: %s."
+msgstr "Вашата партньорска кандидатура за %s беше приета! Влезте в партньорската си зона на: %s."
+
+#: templates/forms/affiliation.php:150
+msgid "Like the %s? Become our ambassador and earn cash ;-)"
+msgstr "Харесвате ли %s? Станете наш посланик и печелете пари ;-)"
+
+#: templates/forms/affiliation.php:151
+msgid "Refer new customers to our %s and earn %s commission on each successful sale you refer!"
+msgstr "Препоръчайте нови клиенти за нашия %s и печелете %s комисионна за всяка успешна продажба, която сте препоръчали!"
+
+#: templates/forms/affiliation.php:154
+msgid "Program Summary"
+msgstr "Обобщение на програмата"
+
+#: templates/forms/affiliation.php:156
+msgid "%s commission when a customer purchases a new license."
+msgstr "%s комисионна, когато клиент закупи нов лиценз."
+
+#: templates/forms/affiliation.php:158
+msgid "Get commission for automated subscription renewals."
+msgstr "Получавайте комисионна за автоматични подновявания на абонаменти."
+
+#: templates/forms/affiliation.php:161
+msgid "%s tracking cookie after the first visit to maximize earnings potential."
+msgstr "%s проследяваща бисквитка след първото посещение за максимизиране на потенциала за печалба."
+
+#: templates/forms/affiliation.php:164
+msgid "Unlimited commissions."
+msgstr "Неограничени комисионни."
+
+#: templates/forms/affiliation.php:166
+msgid "%s minimum payout amount."
+msgstr "%s минимална сума за изплащане."
+
+#: templates/forms/affiliation.php:167
+msgid "Payouts are in USD and processed monthly via PayPal."
+msgstr "Плащанията са в USD и се обработват месечно чрез PayPal."
+
+#: templates/forms/affiliation.php:168
+msgid "As we reserve 30 days for potential refunds, we only pay commissions that are older than 30 days."
+msgstr "Тъй като запазваме 30 дни за потенциални възстановявания, изплащаме само комисионни, които са по-стари от 30 дни."
+
+#: templates/forms/affiliation.php:171
+msgid "Affiliate"
+msgstr "Партньор"
+
+#: templates/forms/affiliation.php:174, templates/forms/resend-key.php:23
+msgid "Email address"
+msgstr "Имейл адрес"
+
+#: templates/forms/affiliation.php:178
+msgid "Full name"
+msgstr "Пълно име"
+
+#: templates/forms/affiliation.php:182
+msgid "PayPal account email address"
+msgstr "Имейл адрес на PayPal акаунт"
+
+#: templates/forms/affiliation.php:186
+msgid "Where are you going to promote the %s?"
+msgstr "Къде ще промотирате %s?"
+
+#: templates/forms/affiliation.php:188
+msgid "Enter the domain of your website or other websites from where you plan to promote the %s."
+msgstr "Въведете домейна на вашия уебсайт или други уебсайтове, от които планирате да промотирате %s."
+
+#: templates/forms/affiliation.php:190
+msgid "Add another domain"
+msgstr "Добавете друг домейн"
+
+#: templates/forms/affiliation.php:194
+msgid "Extra Domains"
+msgstr "Допълнителни домейни"
+
+#: templates/forms/affiliation.php:195
+msgid "Extra domains where you will be marketing the product from."
+msgstr "Допълнителни домейни, от които ще рекламирате продукта."
+
+#: templates/forms/affiliation.php:205
+msgid "Promotion methods"
+msgstr "Методи за промотиране"
+
+#: templates/forms/affiliation.php:208
+msgid "Social media (Facebook, Twitter, etc.)"
+msgstr "Социални медии (Facebook, Twitter и др.)"
+
+#: templates/forms/affiliation.php:212
+msgid "Mobile apps"
+msgstr "Мобилни приложения"
+
+#: templates/forms/affiliation.php:216
+msgid "Website, email, and social media statistics (optional)"
+msgstr "Статистика за уебсайт, имейл и социални медии (по избор)"
+
+#: templates/forms/affiliation.php:219
+msgid "Please feel free to provide any relevant website or social media statistics, e.g. monthly unique site visits, number of email subscribers, followers, etc. (we will keep this information confidential)."
+msgstr "Моля, не се колебайте да предоставите всякаква релевантна статистика за уебсайт или социални медии, напр. месечни уникални посещения на сайта, брой абонати за имейл, последователи и т.н. (ще запазим тази информация поверителна)."
+
+#: templates/forms/affiliation.php:223
+msgid "How will you promote us?"
+msgstr "Как ще ни промотирате?"
+
+#: templates/forms/affiliation.php:226
+msgid "Please provide details on how you intend to promote %s (please be as specific as possible)."
+msgstr "Моля, предоставете подробности за това как възнамерявате да промотирате %s (бъдете възможно най-конкретни)."
+
+#: templates/forms/affiliation.php:238, templates/forms/resend-key.php:22, templates/forms/subscription-cancellation.php:142, templates/account/partials/disconnect-button.php:92
+msgid "Cancel"
+msgstr "Отказ"
+
+#: templates/forms/affiliation.php:240
+msgid "Become an affiliate"
+msgstr "Станете партньор"
+
+#: templates/forms/data-debug-mode.php:25
+msgid "Please enter the license key to enable the debug mode:"
+msgstr "Моля, въведете лицензионния ключ, за да активирате режима за отстраняване на грешки:"
+
+#: templates/forms/data-debug-mode.php:27
+msgid "To enter the debug mode, please enter the secret key of the license owner (UserID = %d), which you can find in your \"My Profile\" section of your User Dashboard:"
+msgstr "За да влезете в режим за отстраняване на грешки, моля въведете тайния ключ на собственика на лиценза (UserID = %d), който можете да намерите в секцията „Моят профил“ на вашето потребителско табло:"
+
+#: templates/forms/data-debug-mode.php:32
+msgid "Submit"
+msgstr "Изпрати"
+
+#: templates/forms/data-debug-mode.php:36
+msgid "User key"
+msgstr "Потребителски ключ"
+
+#: templates/forms/email-address-update.php:32
+msgid "Email address update"
+msgstr "Актуализация на имейл адрес"
+
+#: templates/forms/email-address-update.php:33, templates/forms/user-change.php:81
+msgctxt "close window"
+msgid "Dismiss"
+msgstr "Отхвърли"
+
+#: templates/forms/email-address-update.php:38
+msgid "Enter the new email address"
+msgstr "Въведете новия имейл адрес"
+
+#: templates/forms/email-address-update.php:42
+msgid "Are both %s and %s your email addresses?"
+msgstr "И %s, и %s ли са ваши имейл адреси?"
+
+#: templates/forms/email-address-update.php:50
+msgid "Yes - both addresses are mine"
+msgstr "Да - и двата адреса са мои"
+
+#: templates/forms/email-address-update.php:57
+msgid "%s is my client's email address"
+msgstr "%s е имейл адресът на моя клиент"
+
+#: templates/forms/email-address-update.php:66
+msgid "%s is my email address"
+msgstr "%s е моят имейл адрес"
+
+#: templates/forms/email-address-update.php:75
+msgid "Would you like to merge %s into %s?"
+msgstr "Искате ли да обедините %s в %s?"
+
+#: templates/forms/email-address-update.php:84
+msgid "Yes - move all my data and assets from %s to %s"
+msgstr "Да - преместете всичките ми данни и активи от %s в %s"
+
+#: templates/forms/email-address-update.php:94
+msgid "No - only move this site's data to %s"
+msgstr "Не - преместете само данните на този сайт в %s"
+
+#: templates/forms/email-address-update.php:292, templates/forms/email-address-update.php:298
+msgid "Update"
+msgstr "Обнови"
+
+#: templates/forms/license-activation.php:23
+msgid "Please enter the license key that you received in the email right after the purchase:"
+msgstr "Моля, въведете лицензионния ключ, който получихте в имейла веднага след покупката:"
+
+#: templates/forms/license-activation.php:28
+msgid "Update License"
+msgstr "Обнови лиценза"
+
+#: templates/forms/license-activation.php:34
+msgid "The %1$s will be periodically sending essential license data to %2$s to check for security and feature updates, and verify the validity of your license."
+msgstr "%1$s ще изпраща периодично основни данни за лиценза на %2$s, за да провери за актуализации на сигурността и функциите, и да потвърди валидността на вашия лиценз."
+
+#: templates/forms/license-activation.php:39
+msgid "Agree & Activate License"
+msgstr "Съгласен съм и активирай лиценза"
+
+#: templates/forms/license-activation.php:206
+msgid "Associate with the license owner's account."
+msgstr "Свържи с акаунта на собственика на лиценза."
+
+#: templates/forms/optout.php:104
+msgid "Keep automatic updates"
+msgstr "Запази автоматичните актуализации"
+
+#: templates/forms/optout.php:44
+msgid "Communication"
+msgstr "Комуникация"
+
+#: templates/forms/optout.php:56
+msgid "Stay Connected"
+msgstr "Остани свързан"
+
+#: templates/forms/optout.php:61
+msgid "Diagnostic Info"
+msgstr "Диагностична информация"
+
+#: templates/forms/optout.php:77
+msgid "Keep Sharing"
+msgstr "Продължи споделянето"
+
+#: templates/forms/optout.php:82
+msgid "Extensions"
+msgstr "Разширения"
+
+#: templates/forms/premium-versions-upgrade-handler.php:40
+msgid "There is a new version of %s available."
+msgstr "Налична е нова версия на %s."
+
+#: templates/forms/premium-versions-upgrade-handler.php:41
+msgid " %s to access version %s security & feature updates, and support."
+msgstr " %s за достъп до актуализации на сигурността и функциите на версия %s, както и поддръжка."
+
+#: templates/forms/premium-versions-upgrade-handler.php:54
+msgid "New Version Available"
+msgstr "Налична е нова версия"
+
+#: templates/forms/premium-versions-upgrade-handler.php:75
+msgctxt "close a window"
+msgid "Dismiss"
+msgstr "Отхвърли"
+
+#: templates/forms/resend-key.php:21
+msgid "Send License Key"
+msgstr "Изпрати лицензионен ключ"
+
+#: templates/forms/resend-key.php:58
+msgid "Enter the email address you've used during the purchase and we will resend you the license key."
+msgstr "Въведете имейл адреса, който сте използвали при покупката, и ние ще ви изпратим отново лицензионния ключ."
+
+#: templates/forms/resend-key.php:59
+msgid "Enter the email address you've used for the upgrade below and we will resend you the license key."
+msgstr "Въведете имейл адреса, който сте използвали за надграждането по-долу, и ние ще ви изпратим отново лицензионния ключ."
+
+#: templates/forms/subscription-cancellation.php:37
+msgid "Deactivating or uninstalling the %s will automatically disable the license, which you'll be able to use on another site."
+msgstr "Деактивирането или деинсталирането на %s автоматично ще деактивира лиценза, който ще можете да използвате на друг сайт."
+
+#: templates/forms/subscription-cancellation.php:47
+msgid "In case you are NOT planning on using this %s on this site (or any other site) - would you like to cancel the %s as well?"
+msgstr "В случай, че НЕ планирате да използвате този %s на този сайт (или на друг сайт) - искате ли да анулирате %s също?"
+
+#: templates/forms/subscription-cancellation.php:57
+msgid "Cancel %s - I no longer need any security & feature updates, nor support for %s because I'm not planning to use the %s on this, or any other site."
+msgstr "Анулирай %s - Вече не се нуждая от актуализации за сигурност и функции, нито от поддръжка за %s, защото не планирам да използвам %s на този или на друг сайт."
+
+#: templates/forms/subscription-cancellation.php:68
+msgid "Don't cancel %s - I'm still interested in getting security & feature updates, as well as be able to contact support."
+msgstr "Не анулирай %s - Все още се интересувам от получаване на актуализации за сигурност и функции, както и от възможността да се свържа с поддръжката."
+
+#: templates/forms/subscription-cancellation.php:103
+msgid "Once your license expires you will no longer be able to use the %s, unless you activate it again with a valid premium license."
+msgstr "След изтичане на лиценза ви, вече няма да можете да използвате %s, освен ако не го активирате отново с валиден премиум лиценз."
+
+#: templates/forms/subscription-cancellation.php:136
+msgid "Cancel %s?"
+msgstr "Анулирай %s?"
+
+#: templates/forms/subscription-cancellation.php:143
+msgid "Proceed"
+msgstr "Продължи"
+
+#: templates/forms/subscription-cancellation.php:191, templates/forms/deactivation/form.php:216
+msgid "Cancel %s & Proceed"
+msgstr "Анулирай %s и продължи"
+
+#. translators: %1$s: Number of trial days; %2$s: Plan name;
+#: templates/forms/trial-start.php:22
+msgid "You are 1-click away from starting your %1$s-day free trial of the %2$s plan."
+msgstr "На една крачка сте от започването на вашия %1$s-дневен безплатен пробен период на плана %2$s."
+
+#. translators: %s: Link to freemius.com
+#: templates/forms/trial-start.php:28
+msgid "For compliance with the WordPress.org guidelines, before we start the trial we ask that you opt in with your user and non-sensitive site information, allowing the %s to periodically send data to %s to check for version updates and to validate your trial."
+msgstr "За съответствие с насоките на WordPress.org, преди да започнем пробния период, ви молим да се съгласите с предоставянето на вашата потребителска и несенситивна информация за сайта, позволявайки на %s периодично да изпраща данни на %s за проверка на актуализации на версията и за валидиране на вашия пробен период."
+
+#: templates/forms/user-change.php:26
+msgid "By changing the user, you agree to transfer the account ownership to:"
+msgstr "Чрез промяната на потребителя, вие се съгласявате да прехвърлите собствеността на акаунта на:"
+
+#: templates/forms/user-change.php:28
+msgid "I Agree - Change User"
+msgstr "Съгласен съм - промени потребителя"
+
+#: templates/forms/user-change.php:30
+msgid "Enter email address"
+msgstr "Въведете имейл адрес"
+
+#: templates/js/permissions.php:337, templates/js/permissions.php:485
+msgid "Saved"
+msgstr "Запазено"
+
+#: templates/js/style-premium-theme.php:39
+msgid "Premium"
+msgstr "Премиум"
+
+#: templates/js/style-premium-theme.php:42
+msgid "Beta"
+msgstr "Бета"
+
+#: templates/partials/network-activation.php:36
+msgid "Activate license on all pending sites."
+msgstr "Активирай лиценза на всички чакащи сайтове."
+
+#: templates/partials/network-activation.php:37
+msgid "Apply on all pending sites."
+msgstr "Приложи на всички чакащи сайтове."
+
+#: templates/partials/network-activation.php:32
+msgid "Activate license on all sites in the network."
+msgstr "Активирай лиценза на всички сайтове в мрежата."
+
+#: templates/partials/network-activation.php:33
+msgid "Apply on all sites in the network."
+msgstr "Приложи на всички сайтове в мрежата."
+
+#: templates/partials/network-activation.php:45, templates/partials/network-activation.php:79
+msgid "allow"
+msgstr "разреши"
+
+#: templates/partials/network-activation.php:48, templates/partials/network-activation.php:82
+msgid "delegate"
+msgstr "делегирай"
+
+#: templates/partials/network-activation.php:52, templates/partials/network-activation.php:86
+msgid "skip"
+msgstr "пропусни"
+
+#: templates/plugin-info/description.php:67, templates/plugin-info/screenshots.php:26
+msgid "Click to view full-size screenshot %d"
+msgstr "Кликнете, за да видите снимката в пълен размер %d"
+
+#: templates/plugin-info/features.php:56
+msgid "Unlimited Updates"
+msgstr "Неограничени актуализации"
+
+#: templates/account/partials/activate-license-button.php:46
+msgid "Localhost"
+msgstr "Localhost"
+
+#: templates/account/partials/activate-license-button.php:50
+msgctxt "as 5 licenses left"
+msgid "%s left"
+msgstr "%s остават"
+
+#: templates/account/partials/activate-license-button.php:51
+msgid "Last license"
+msgstr "Последен лиценз"
+
+#: templates/account/partials/addon.php:200
+msgid "No expiration"
+msgstr "Без изтичане"
+
+#: templates/account/partials/addon.php:190
+msgid "Cancelled"
+msgstr "Анулиран"
+
+#. translators: %s is replaced with the website's homepage address.
+#: templates/account/partials/disconnect-button.php:78
+msgid "Disconnecting the website will permanently remove %s from your User Dashboard's account."
+msgstr "Прекъсването на връзката с уебсайта ще премахне за постоянно %s от акаунта ви в Потребителското табло."
+
+#: templates/account/partials/disconnect-button.php:74
+msgid "By disconnecting the website, previously shared diagnostic data about %1$s will be deleted and no longer visible to %2$s."
+msgstr "Чрез прекъсване на връзката с уебсайта, предишно споделените диагностични данни за %1$s ще бъдат изтрити и вече няма да са видими за %2$s."
+
+#. translators: %1$s is replaced by the paid plan name, %2$s is replaced with an anchor link with the text "User Dashboard".
+#: templates/account/partials/disconnect-button.php:84
+msgid "If you wish to cancel your %1$s plan's subscription instead, please navigate to the %2$s and cancel it there."
+msgstr "Ако искате да анулирате абонамента си за плана %1$s вместо това, моля, отидете в %2$s и го анулирайте там."
+
+#: templates/account/partials/disconnect-button.php:88
+msgid "Are you sure you would like to proceed with the disconnection?"
+msgstr "Сигурни ли сте, че искате да продължите с прекъсването на връзката?"
+
+#: templates/account/partials/site.php:190
+msgid "Owner Name"
+msgstr "Име на собственика"
+
+#: templates/account/partials/site.php:202
+msgid "Owner Email"
+msgstr "Имейл на собственика"
+
+#: templates/account/partials/site.php:214
+msgid "Owner ID"
+msgstr "ID на собственика"
+
+#: templates/account/partials/site.php:288
+msgid "Subscription"
+msgstr "Абонамент"
+
+#: templates/forms/deactivation/contact.php:19
+msgid "Sorry for the inconvenience and we are here to help if you give us a chance."
+msgstr "Съжаляваме за неудобството и сме тук, за да помогнем, ако ни дадете шанс."
+
+#: templates/forms/deactivation/contact.php:22
+msgid "Contact Support"
+msgstr "Свържете се с поддръжката"
+
+#: templates/forms/deactivation/form.php:65
+msgid "Anonymous feedback"
+msgstr "Анонимна обратна връзка"
+
+#: templates/forms/deactivation/form.php:71
+msgid "hour"
+msgstr "час"
+
+#: templates/forms/deactivation/form.php:76
+msgid "hours"
+msgstr "часа"
+
+#: templates/forms/deactivation/form.php:81, templates/forms/deactivation/form.php:86
+msgid "days"
+msgstr "дни"
+
+#: templates/forms/deactivation/form.php:106
+msgid "Deactivate"
+msgstr "Деактивирай"
+
+#: templates/forms/deactivation/form.php:108
+msgid "Activate %s"
+msgstr "Активирай %s"
+
+#: templates/forms/deactivation/form.php:111
+msgid "Submit & %s"
+msgstr "Изпрати и %s"
+
+#: templates/forms/deactivation/form.php:130
+msgid "Quick Feedback"
+msgstr "Бърза обратна връзка"
+
+#: templates/forms/deactivation/form.php:134
+msgid "If you have a moment, please let us know why you are %s"
+msgstr "Ако имате момент, моля, кажете ни защо %s"
+
+#: templates/forms/deactivation/form.php:134
+msgid "deactivating"
+msgstr "деактивирате"
+
+#: templates/forms/deactivation/form.php:134
+msgid "switching"
+msgstr "превключвате"
+
+#: templates/forms/deactivation/form.php:448
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Моля, кажете ни причината, за да можем да се подобрим."
+
+#: templates/forms/deactivation/form.php:478
+msgid "Snooze & %s"
+msgstr "Отложи и %s"
+
+#: templates/forms/deactivation/form.php:638
+msgid "Yes - %s"
+msgstr "Да - %s"
+
+#: templates/forms/deactivation/form.php:645
+msgid "Skip & %s"
+msgstr "Пропусни и %s"
+
+#: templates/forms/deactivation/retry-skip.php:21
+msgid "Click here to use the plugin anonymously"
+msgstr "Кликнете тук, за да използвате плъгина анонимно"
+
+#: templates/forms/deactivation/retry-skip.php:23
+msgid "You might have missed it, but you don't have to share any data and can just %s the opt-in."
+msgstr "Може би сте пропуснали, но не е нужно да споделяте никакви данни и можете просто да %s съгласието."
